@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Upcoming Events</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f5f5f5;
+      color: #222;
+      padding: 24px 16px;
+    }
+    h1 {
+      font-size: 1.5rem;
+      margin-bottom: 4px;
+    }
+    .updated {
+      font-size: 0.8rem;
+      color: #888;
+      margin-bottom: 24px;
+    }
+    .day-group {
+      margin-bottom: 20px;
+    }
+    .day-label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #666;
+      margin-bottom: 8px;
+    }
+    .event {
+      background: #fff;
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin-bottom: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+    }
+    .event-time {
+      font-size: 0.8rem;
+      color: #888;
+      min-width: 60px;
+      padding-top: 2px;
+    }
+    .event-body {}
+    .event-title {
+      font-size: 1rem;
+      font-weight: 500;
+    }
+    .event-location {
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: 4px;
+      white-space: pre-line;
+    }
+    .error {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      border-radius: 8px;
+      padding: 12px 16px;
+      margin-bottom: 16px;
+      font-size: 0.9rem;
+    }
+    .empty {
+      color: #888;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Upcoming Events</h1>
+  <p class="updated" id="updated"></p>
+  <div id="error"></div>
+  <div id="events"></div>
+
+  <script>
+    function formatDate(dateStr) {
+      const d = new Date(dateStr + "T12:00:00");
+      const today = new Date();
+      const tomorrow = new Date(today);
+      tomorrow.setDate(today.getDate() + 1);
+
+      const isToday = d.toDateString() === today.toDateString();
+      const isTomorrow = d.toDateString() === tomorrow.toDateString();
+
+      const weekday = d.toLocaleDateString("en-CA", { weekday: "long" });
+      const full = d.toLocaleDateString("en-CA", { month: "long", day: "numeric" });
+
+      if (isToday) return `Today — ${full}`;
+      if (isTomorrow) return `Tomorrow — ${full}`;
+      return `${weekday} — ${full}`;
+    }
+
+    fetch("events.json")
+      .then(r => r.json())
+      .then(data => {
+        if (data.fetched_at) {
+          const d = new Date(data.fetched_at);
+          document.getElementById("updated").textContent =
+            "Last updated: " + d.toLocaleString("en-CA");
+        }
+
+        if (data.error) {
+          document.getElementById("error").innerHTML =
+            `<div class="error">⚠️ ${data.error}</div>`;
+        }
+
+        const container = document.getElementById("events");
+        const events = data.events || [];
+
+        if (!events.length) {
+          container.innerHTML = '<p class="empty">No upcoming events.</p>';
+          return;
+        }
+
+        // Group by date
+        const groups = {};
+        for (const ev of events) {
+          if (!groups[ev.date]) groups[ev.date] = [];
+          groups[ev.date].push(ev);
+        }
+
+        for (const date of Object.keys(groups).sort()) {
+          const group = document.createElement("div");
+          group.className = "day-group";
+
+          const label = document.createElement("div");
+          label.className = "day-label";
+          label.textContent = formatDate(date);
+          group.appendChild(label);
+
+          for (const ev of groups[date]) {
+            const card = document.createElement("div");
+            card.className = "event";
+
+            const timeEl = document.createElement("div");
+            timeEl.className = "event-time";
+            timeEl.textContent = ev.all_day ? "All day" : (ev.time || "");
+
+            const body = document.createElement("div");
+            body.className = "event-body";
+
+            const title = document.createElement("div");
+            title.className = "event-title";
+            title.textContent = ev.title;
+            body.appendChild(title);
+
+            if (ev.location) {
+              const loc = document.createElement("div");
+              loc.className = "event-location";
+              loc.textContent = ev.location;
+              body.appendChild(loc);
+            }
+
+            card.appendChild(timeEl);
+            card.appendChild(body);
+            group.appendChild(card);
+          }
+
+          container.appendChild(group);
+        }
+      })
+      .catch(err => {
+        document.getElementById("events").innerHTML =
+          `<p class="empty">Could not load events.json: ${err.message}</p>`;
+      });
+  </script>
+</body>
+</html>
