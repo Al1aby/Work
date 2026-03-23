@@ -24,6 +24,8 @@ jobs:
         run: pip install requests icalendar python-dateutil
 
       - name: Fetch calendar and write events.json
+        env:
+          CALENDAR_URL: ${{ secrets.CALENDAR_URL }}
         run: python fetch_calendar.py
 
       - name: Commit changes
