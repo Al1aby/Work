@@ -1,4 +1,4 @@
-name: Fetch iCloud Calendar
+name: Fetch Calendars
 
 on:
   schedule:
@@ -24,6 +24,9 @@ jobs:
         run: pip install requests icalendar python-dateutil
 
       - name: Fetch calendar and write events.json
+        env:
+          OUTLOOK_CALENDAR_URL: ${{ secrets.OUTLOOK_CALENDAR_URL }}
+          ICLOUD_CALENDAR_URL: ${{ secrets.ICLOUD_CALENDAR_URL }}
         run: python fetch_calendar.py
 
       - name: Commit changes
