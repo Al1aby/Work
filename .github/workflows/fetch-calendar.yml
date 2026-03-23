@@ -1,4 +1,4 @@
-name: Fetch iCloud Calendar
+name: Fetch Calendars
 
 on:
   schedule:
@@ -25,7 +25,8 @@ jobs:
 
       - name: Fetch calendar and write events.json
         env:
-          CALENDAR_URL: ${{ secrets.CALENDAR_URL }}
+          OUTLOOK_CALENDAR_URL: ${{ secrets.OUTLOOK_CALENDAR_URL }}
+          ICLOUD_CALENDAR_URL: ${{ secrets.ICLOUD_CALENDAR_URL }}
         run: python fetch_calendar.py
 
       - name: Commit changes
