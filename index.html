@@ -1,175 +1,623 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Upcoming Events</title>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: #f5f5f5;
-      color: #222;
-      padding: 24px 16px;
-    }
-    h1 {
-      font-size: 1.5rem;
-      margin-bottom: 4px;
-    }
-    .updated {
-      font-size: 0.8rem;
-      color: #888;
-      margin-bottom: 24px;
-    }
-    .day-group {
-      margin-bottom: 20px;
-    }
-    .day-label {
-      font-size: 0.75rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #666;
-      margin-bottom: 8px;
-    }
-    .event {
-      background: #fff;
-      border-radius: 10px;
-      padding: 14px 16px;
-      margin-bottom: 8px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-      display: flex;
-      gap: 12px;
-      align-items: flex-start;
-    }
-    .event-time {
-      font-size: 0.8rem;
-      color: #888;
-      min-width: 60px;
-      padding-top: 2px;
-    }
-    .event-body {}
-    .event-title {
-      font-size: 1rem;
-      font-weight: 500;
-    }
-    .event-location {
-      font-size: 0.8rem;
-      color: #888;
-      margin-top: 4px;
-      white-space: pre-line;
-    }
-    .error {
-      background: #fff3cd;
-      border: 1px solid #ffc107;
-      border-radius: 8px;
-      padding: 12px 16px;
-      margin-bottom: 16px;
-      font-size: 0.9rem;
-    }
-    .empty {
-      color: #888;
-      font-size: 0.95rem;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Karla:wght@300;400;500&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>const UNITS = "C";</script>
+<style>
+:root {
+  --bg:       #0c0f14;
+  --panel:    #111620;
+  --border:   #1e2740;
+  --accent:   #f0c060;
+  --teal:     #5ecfcf;
+  --purple:   #a07ad0;
+  --text:     #dde6f0;
+  --muted:    #4a607a;
+  --dim:      #1e2a3a;
+  --red:      #d07070;
+  --green:    #6ec87e;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body {
+  width:100vw; height:100vh; overflow:hidden;
+  background:var(--bg); color:var(--text);
+  font-family:'Karla',sans-serif;
+}
+/* ═══════════════════════════════════════════
+   ROOT GRID
+   Left (wide today) | Right top (wx + radar)
+                     | Right bottom (calendar strip)
+   ═══════════════════════════════════════════ */
+.root {
+  display: grid;
+  width: 100%; height: 100%;
+  grid-template-columns: 420px 1fr;
+  grid-template-rows: 1fr 210px;
+  padding: 3.5vw 4vw;
+  gap: 0;
+}
+/* ═══════════════════════════════════════════
+   LEFT — full height, clock + today
+   ═══════════════════════════════════════════ */
+#left {
+  grid-column: 1;
+  grid-row: 1 / 3;
+  display: flex; flex-direction: column;
+  padding-right: 40px;
+  border-right: 1px solid var(--border);
+  overflow: hidden;
+}
+/* Clock */
+#clock-block {
+  flex-shrink: 0;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+#time {
+  font-family: 'Playfair Display', serif;
+  font-size: 88px; line-height: 1;
+  color: var(--accent); letter-spacing: -2px;
+  text-shadow: 0 0 50px rgba(240,192,96,.22);
+}
+#ampm {
+  font-family: 'Inconsolata', monospace;
+  font-size: 15px; color: var(--muted);
+  letter-spacing: 5px; margin-top: -2px;
+}
+#date-line {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px; color: var(--text); margin-top: 6px;
+}
+#date-sub {
+  font-family: 'Inconsolata', monospace;
+  font-size: 12px; color: var(--muted);
+  letter-spacing: 3px; margin-top: 2px;
+}
+/* Today label */
+#today-hdr {
+  font-family: 'Inconsolata', monospace;
+  font-size: 11px; letter-spacing: 3px; color: var(--muted);
+  margin-bottom: 12px; flex-shrink: 0;
+}
+/* Today events list */
+#today-events {
+  flex: 1; display: flex; flex-direction: column;
+  gap: 8px; overflow: hidden;
+}
+.tev {
+  display: flex; align-items: center; gap: 14px;
+  padding: 10px 16px; border-radius: 5px;
+  background: var(--panel); border-left: 3px solid var(--teal);
+  flex-shrink: 0; overflow: hidden;
+}
+.tev.cal-outlook { border-left-color: var(--purple); }
+.tev.allday  { border-left-color: var(--dim); background: transparent; padding-left: 12px; }
+.tev.past    { opacity: 0.38; }
+.tev.now     { border-left-color: var(--accent); background: rgba(240,192,96,.08); }
+.tev-time {
+  font-family: 'Inconsolata', monospace;
+  font-size: 14px; color: var(--muted);
+  white-space: nowrap; min-width: 68px; flex-shrink: 0;
+}
+.tev.now .tev-time { color: var(--accent); }
+.tev-info { flex: 1; overflow: hidden; }
+.tev-title {
+  font-size: 17px; color: var(--text); font-weight: 400;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.tev-loc {
+  font-family: 'Inconsolata', monospace;
+  font-size: 11px; color: var(--muted);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  margin-top: 2px;
+}
+.no-tev {
+  font-family: 'Inconsolata', monospace;
+  font-size: 13px; color: var(--dim); letter-spacing: 1px;
+}
+/* ═══════════════════════════════════════════
+   TOP-RIGHT — weather left | radar right
+   ═══════════════════════════════════════════ */
+#top-right {
+  grid-column: 2; grid-row: 1;
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 0;
+  padding-left: 36px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+  overflow: hidden;
+}
+/* Weather stats */
+#wx-block {
+  display: flex; flex-direction: column;
+  justify-content: space-between;
+  padding-right: 28px;
+  border-right: 1px solid var(--border);
+  overflow: hidden;
+}
+#wx-hero { display: flex; align-items: center; gap: 12px; margin-bottom: 4px; }
+#wx-icon { font-size: 52px; line-height: 1; }
+#wx-temp {
+  font-family: 'Playfair Display', serif;
+  font-size: 64px; line-height: 1;
+  color: var(--text); letter-spacing: -2px;
+}
+#wx-desc {
+  font-family: 'Inconsolata', monospace;
+  font-size: 12px; color: var(--teal); letter-spacing: 3px;
+}
+#wx-feels {
+  font-family: 'Inconsolata', monospace;
+  font-size: 11px; color: var(--muted); letter-spacing: 2px; margin-top: 3px;
+}
+#wx-loc {
+  font-family: 'Inconsolata', monospace;
+  font-size: 10px; color: var(--muted); letter-spacing: 1px; margin-top: 2px;
+}
+.wx-grid {
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 5px; margin-top: 12px;
+}
+.wx-cell { background: var(--dim); border-radius: 5px; padding: 7px 10px; }
+.wx-lbl {
+  font-family: 'Inconsolata', monospace;
+  font-size: 9px; color: var(--muted); letter-spacing: 2px; margin-bottom: 2px;
+}
+.wx-val { font-size: 17px; font-weight: 500; color: var(--text); }
+/* 7-day forecast under weather */
+#fc-list { display: flex; flex-direction: column; margin-top: 10px; }
+.fc-row {
+  display: grid; grid-template-columns: 44px 24px 1fr 36px 42px;
+  align-items: center; gap: 6px;
+  padding: 5px 0; border-top: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.fc-row:last-child { border-bottom: 1px solid var(--border); }
+.fc-day { font-family: 'Inconsolata', monospace; font-size: 10px; color: var(--muted); letter-spacing: 2px; }
+.fc-icon { font-size: 15px; text-align: center; }
+.fc-bg { background: var(--dim); border-radius: 3px; height: 3px; position: relative; }
+.fc-fg { position: absolute; height: 3px; border-radius: 3px; background: linear-gradient(90deg, var(--teal), var(--accent)); }
+.fc-lo { font-family: 'Inconsolata', monospace; font-size: 11px; color: var(--muted); text-align: right; }
+.fc-hi { font-family: 'Inconsolata', monospace; font-size: 12px; color: var(--text); font-weight: 500; text-align: right; }
+/* Radar */
+#radar-block {
+  display: flex; flex-direction: column;
+  padding-left: 28px;
+  overflow: hidden;
+}
+#radar-lbl {
+  font-family: 'Inconsolata', monospace;
+  font-size: 10px; letter-spacing: 3px; color: var(--muted);
+  margin-bottom: 8px; flex-shrink: 0;
+  display: flex; justify-content: space-between; align-items: center;
+}
+#radar-age { font-size: 10px; color: var(--dim); }
+#radar-map {
+  flex: 1; width: 100%;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: #0c0f14;
+  min-height: 0;
+}
+#radar-map .leaflet-tile-pane { filter: brightness(0.85) saturate(1.2); }
+#radar-err {
+  display: none;
+  font-family: 'Inconsolata', monospace;
+  font-size: 11px; color: var(--muted);
+  text-align: center; padding: 20px;
+}
+/* ═══════════════════════════════════════════
+   BOTTOM — horizontal calendar strip
+   ═══════════════════════════════════════════ */
+#bottom-cal {
+  grid-column: 2; grid-row: 2;
+  display: flex; flex-direction: column;
+  padding-left: 36px;
+  padding-top: 18px;
+  overflow: hidden;
+}
+#cal-hdr {
+  display: flex; align-items: baseline; justify-content: space-between;
+  margin-bottom: 10px; flex-shrink: 0;
+}
+#cal-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 18px; font-style: italic; color: var(--text);
+}
+#cal-badge {
+  font-family: 'Inconsolata', monospace;
+  font-size: 10px; letter-spacing: 2px; color: var(--teal);
+}
+/* Day columns */
+#cal-days {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+  overflow: hidden;
+}
+.cal-col {
+  display: flex; flex-direction: column;
+  border-left: 1px solid var(--border);
+  padding-left: 10px;
+  overflow: hidden;
+}
+.cal-col-hdr { flex-shrink: 0; margin-bottom: 6px; }
+.cal-dow {
+  font-family: 'Inconsolata', monospace;
+  font-size: 10px; letter-spacing: 2px; color: var(--muted);
+}
+.cal-num {
+  font-family: 'Playfair Display', serif;
+  font-size: 22px; line-height: 1.1; color: var(--text);
+}
+.cal-events { flex: 1; display: flex; flex-direction: column; gap: 3px; overflow: hidden; }
+.cev {
+  font-size: 11px; color: var(--text);
+  background: var(--panel); border-left: 2px solid var(--teal);
+  padding: 3px 6px; border-radius: 3px;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+.cev.cal-outlook { border-left-color: var(--purple); }
+.cev.allday { border-left-color: var(--dim); background: transparent; }
+.cev-time {
+  font-family: 'Inconsolata', monospace;
+  font-size: 9px; color: var(--muted); display: block;
+}
+.no-cev {
+  font-family: 'Inconsolata', monospace;
+  font-size: 10px; color: var(--dim);
+}
+/* ── LOADER ── */
+#loader {
+  position:fixed; inset:0; background:var(--bg);
+  display:flex; flex-direction:column; align-items:center; justify-content:center;
+  gap:14px; z-index:99; transition:opacity .7s;
+}
+#loader.gone { opacity:0; pointer-events:none; }
+.lhead { font-family:'Playfair Display',serif; font-size:28px; color:var(--accent); font-style:italic; }
+.lsub  { font-family:'Inconsolata',monospace; font-size:11px; color:var(--muted); letter-spacing:4px; }
+.ltrack { width:180px; height:1px; background:var(--border); }
+.lfill  { height:1px; background:var(--accent); width:0; transition:width .4s; }
+</style>
 </head>
 <body>
-  <h1>Upcoming Events</h1>
-  <p class="updated" id="updated"></p>
-  <div id="error"></div>
-  <div id="events"></div>
+<div id="loader">
+  <div class="lhead">One moment</div>
+  <div class="ltrack"><div class="lfill" id="lfill"></div></div>
+  <div class="lsub" id="lsub">STARTING</div>
+</div>
+<div class="root">
+  <!-- ── LEFT: clock + today's events ── -->
+  <div id="left">
+    <div id="clock-block">
+      <div id="time">12:00</div>
+      <div id="ampm">AM</div>
+      <div id="date-line">Monday, January 1</div>
+      <div id="date-sub">2025</div>
+    </div>
+    <div id="today-hdr">TODAY'S EVENTS</div>
+    <div id="today-events"><div class="no-tev">Loading…</div></div>
+  </div>
+  <!-- ── TOP RIGHT: weather + radar ── -->
+  <div id="top-right">
+    <div id="wx-block">
+      <div>
+        <div id="wx-hero">
+          <div id="wx-icon">⏳</div>
+          <div id="wx-temp">--°</div>
+        </div>
+        <div id="wx-desc">LOADING WEATHER</div>
+        <div id="wx-feels">FEELS LIKE --°</div>
+        <div id="wx-loc">📍 Nauwigewauk, NB</div>
+      </div>
+      <div class="wx-grid">
+        <div class="wx-cell"><div class="wx-lbl">HUMIDITY</div><div class="wx-val" id="ws-h">--%</div></div>
+        <div class="wx-cell"><div class="wx-lbl">WIND</div><div class="wx-val" id="ws-w">--</div></div>
+        <div class="wx-cell"><div class="wx-lbl">UV INDEX</div><div class="wx-val" id="ws-u">--</div></div>
+        <div class="wx-cell"><div class="wx-lbl">PRECIP.</div><div class="wx-val" id="ws-p">--</div></div>
+      </div>
+      <div id="fc-list"></div>
+    </div>
+    <div id="radar-block">
+      <div id="radar-lbl">
+        <span>RADAR — MARITIMES</span>
+        <span id="radar-age"></span>
+      </div>
+      <div id="radar-map"></div>
+      <div id="radar-err">Radar unavailable</div>
+    </div>
+  </div>
+  <!-- ── BOTTOM: 6-day horizontal calendar ── -->
+  <div id="bottom-cal">
+    <div id="cal-hdr">
+      <div id="cal-title">Coming Up</div>
+      <div id="cal-badge">● LOADING</div>
+    </div>
+    <div id="cal-days"></div>
+  </div>
+</div>
+<script>
+const DAYS   = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+const DSH    = ['SUN','MON','TUE','WED','THU','FRI','SAT'];
+const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 
-  <script>
-    function formatDate(dateStr) {
-      const d = new Date(dateStr + "T12:00:00");
-      const today = new Date();
-      const tomorrow = new Date(today);
-      tomorrow.setDate(today.getDate() + 1);
+function fetchWithTimeout(url, ms) {
+  return new Promise((res, rej) => {
+    const t = setTimeout(() => rej(new Error('Timeout')), ms);
+    fetch(url, { cache: 'no-store' })
+      .then(r  => { clearTimeout(t); res(r); })
+      .catch(e => { clearTimeout(t); rej(e); });
+  });
+}
 
-      const isToday = d.toDateString() === today.toDateString();
-      const isTomorrow = d.toDateString() === tomorrow.toDateString();
+let useF = (typeof UNITS !== 'undefined' && UNITS === 'F');
+let wxData = null;
+let allCalEvents = [];
 
-      const weekday = d.toLocaleDateString("en-CA", { weekday: "long" });
-      const full = d.toLocaleDateString("en-CA", { month: "long", day: "numeric" });
+// Outlook events get a purple left-border; iCloud/default stays teal
+function calClass(calName) {
+  if (!calName) return '';
+  const n = calName.toLowerCase();
+  if (n.includes('outlook') || n.includes('hotmail') || n.includes('live') || n.includes('microsoft')) return 'cal-outlook';
+  return '';
+}
 
-      if (isToday) return `Today — ${full}`;
-      if (isTomorrow) return `Tomorrow — ${full}`;
-      return `${weekday} — ${full}`;
+// ── Loader ──────────────────────────────────────────────────────
+function load(p, m) {
+  document.getElementById('lfill').style.width = p + '%';
+  document.getElementById('lsub').textContent = m;
+}
+function doneLoading() {
+  const el = document.getElementById('loader');
+  el.classList.add('gone');
+  setTimeout(() => el.remove(), 800);
+}
+
+// ── Clock ────────────────────────────────────────────────────────
+function tick() {
+  const n = new Date();
+  const h = n.getHours(), m = String(n.getMinutes()).padStart(2,'0');
+  document.getElementById('time').textContent      = `${String(h%12||12).padStart(2,'0')}:${m}`;
+  document.getElementById('ampm').textContent      = h >= 12 ? 'PM' : 'AM';
+  document.getElementById('date-line').textContent = `${DAYS[n.getDay()]}, ${MONTHS[n.getMonth()]} ${n.getDate()}`;
+  document.getElementById('date-sub').textContent  = String(n.getFullYear());
+}
+setInterval(tick, 1000); tick();
+
+// ── Helpers ──────────────────────────────────────────────────────
+function toDateStr(dt) {
+  return `${dt.getFullYear()}-${String(dt.getMonth()+1).padStart(2,'0')}-${String(dt.getDate()).padStart(2,'0')}`;
+}
+function parseTime12(str) {
+  if (!str || str === 'All day') return -1;
+  const m = str.match(/(\d+):(\d+)\s*(AM|PM)/i);
+  if (!m) return -1;
+  let h = parseInt(m[1]), min = parseInt(m[2]);
+  if (m[3].toUpperCase() === 'PM' && h !== 12) h += 12;
+  if (m[3].toUpperCase() === 'AM' && h === 12) h = 0;
+  return h * 60 + min;
+}
+
+// ── Calendar fetch ─────────────────────────────────────────────
+// events.json is generated by fetch_calendar.py which merges both
+// Outlook and iCloud; each event carries a `calendar` field.
+async function fetchCalendar() {
+  try {
+    const res = await fetchWithTimeout('./events.json', 8000);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    allCalEvents = data.events || [];
+    buildToday(allCalEvents);
+    buildCalStrip(allCalEvents);
+    const badge = document.getElementById('cal-badge');
+    if (data.error && !allCalEvents.length) {
+      badge.textContent = '⚠ CAL ERROR'; badge.style.color = 'var(--red)';
+    } else {
+      badge.textContent = `● ${allCalEvents.length} EVENT${allCalEvents.length !== 1 ? 'S' : ''}`;
+      badge.style.color = 'var(--teal)';
     }
+  } catch(e) {
+    document.getElementById('cal-badge').textContent = '● OFFLINE';
+    document.getElementById('cal-badge').style.color = 'var(--red)';
+    buildToday([]); buildCalStrip([]);
+  }
+}
 
-    fetch("events.json")
-      .then(r => r.json())
-      .then(data => {
-        if (data.fetched_at) {
-          const d = new Date(data.fetched_at);
-          document.getElementById("updated").textContent =
-            "Last updated: " + d.toLocaleString("en-CA");
-        }
+// ── Today's events (left column) ─────────────────────────────────
+function buildToday(events) {
+  const wrap = document.getElementById('today-events');
+  wrap.innerHTML = '';
+  const today = new Date(); today.setHours(0,0,0,0);
+  const ds = toDateStr(today);
+  const now = new Date();
+  const nowMin = now.getHours() * 60 + now.getMinutes();
+  const todayEvs = events
+    .filter(ev => ev.date === ds)
+    .sort((a,b) => {
+      if (a.all_day && !b.all_day) return -1;
+      if (!a.all_day && b.all_day) return 1;
+      return parseTime12(a.time) - parseTime12(b.time);
+    });
+  if (!todayEvs.length) {
+    wrap.innerHTML = '<div class="no-tev">— No events today</div>';
+    return;
+  }
+  todayEvs.forEach(ev => {
+    const evMin = parseTime12(ev.time);
+    let cls = 'tev ' + calClass(ev.calendar) + (ev.all_day ? ' allday' : '');
+    if (!ev.all_day && evMin >= 0) {
+      if (evMin < nowMin - 60)       cls += ' past';
+      else if (evMin <= nowMin + 30) cls += ' now';
+    }
+    const p = document.createElement('div'); p.className = cls.trim();
+    p.innerHTML = `
+      <div class="tev-time">${ev.all_day ? 'All day' : ev.time}</div>
+      <div class="tev-info">
+        <div class="tev-title">${ev.title}</div>
+        ${ev.location ? `<div class="tev-loc">📍 ${ev.location}</div>` : ''}
+      </div>`;
+    wrap.appendChild(p);
+  });
+}
 
-        if (data.error) {
-          document.getElementById("error").innerHTML =
-            `<div class="error">⚠️ ${data.error}</div>`;
-        }
-
-        const container = document.getElementById("events");
-        const events = data.events || [];
-
-        if (!events.length) {
-          container.innerHTML = '<p class="empty">No upcoming events.</p>';
-          return;
-        }
-
-        // Group by date
-        const groups = {};
-        for (const ev of events) {
-          if (!groups[ev.date]) groups[ev.date] = [];
-          groups[ev.date].push(ev);
-        }
-
-        for (const date of Object.keys(groups).sort()) {
-          const group = document.createElement("div");
-          group.className = "day-group";
-
-          const label = document.createElement("div");
-          label.className = "day-label";
-          label.textContent = formatDate(date);
-          group.appendChild(label);
-
-          for (const ev of groups[date]) {
-            const card = document.createElement("div");
-            card.className = "event";
-
-            const timeEl = document.createElement("div");
-            timeEl.className = "event-time";
-            timeEl.textContent = ev.all_day ? "All day" : (ev.time || "");
-
-            const body = document.createElement("div");
-            body.className = "event-body";
-
-            const title = document.createElement("div");
-            title.className = "event-title";
-            title.textContent = ev.title;
-            body.appendChild(title);
-
-            if (ev.location) {
-              const loc = document.createElement("div");
-              loc.className = "event-location";
-              loc.textContent = ev.location;
-              body.appendChild(loc);
-            }
-
-            card.appendChild(timeEl);
-            card.appendChild(body);
-            group.appendChild(card);
-          }
-
-          container.appendChild(group);
-        }
-      })
-      .catch(err => {
-        document.getElementById("events").innerHTML =
-          `<p class="empty">Could not load events.json: ${err.message}</p>`;
+// ── 6-day horizontal calendar strip (bottom) ─────────────────────
+function buildCalStrip(events) {
+  const wrap = document.getElementById('cal-days');
+  wrap.innerHTML = '';
+  const today = new Date(); today.setHours(0,0,0,0);
+  const byDate = {};
+  events.forEach(ev => { (byDate[ev.date] = byDate[ev.date] || []).push(ev); });
+  for (let i = 1; i <= 6; i++) {
+    const day = new Date(today); day.setDate(today.getDate() + i);
+    const ds  = toDateStr(day);
+    const evs = (byDate[ds] || []).sort((a,b) => {
+      if (a.all_day && !b.all_day) return -1;
+      if (!a.all_day && b.all_day) return 1;
+      return parseTime12(a.time) - parseTime12(b.time);
+    });
+    const col = document.createElement('div'); col.className = 'cal-col';
+    const hdr = document.createElement('div'); hdr.className = 'cal-col-hdr';
+    hdr.innerHTML = `<div class="cal-dow">${DSH[day.getDay()]}</div><div class="cal-num">${day.getDate()}</div>`;
+    col.appendChild(hdr);
+    const eWrap = document.createElement('div'); eWrap.className = 'cal-events';
+    if (!evs.length) {
+      eWrap.innerHTML = '<div class="no-cev">—</div>';
+    } else {
+      evs.slice(0,3).forEach(ev => {
+        const e = document.createElement('div');
+        e.className = ('cev ' + calClass(ev.calendar) + (ev.all_day ? ' allday' : '')).trim();
+        e.innerHTML = `${ev.all_day ? '' : `<span class="cev-time">${ev.time}</span>`}${ev.title}`;
+        eWrap.appendChild(e);
       });
-  </script>
+      if (evs.length > 3) {
+        const m = document.createElement('div');
+        m.className = 'no-cev'; m.textContent = `+${evs.length-3} more`;
+        eWrap.appendChild(m);
+      }
+    }
+    col.appendChild(eWrap);
+    wrap.appendChild(col);
+  }
+}
+
+// ── Radar — RainViewer ────────────────────────────────────────────
+let radarMap = null;
+let radarLayer = null;
+function initRadarMap() {
+  const mapEl = document.getElementById('radar-map');
+  if (!mapEl) return;
+  radarMap = L.map('radar-map', {
+    center: [45.47, -65.89],
+    zoom: 8,
+    zoomControl: false,
+    attributionControl: false,
+    dragging: false,
+    scrollWheelZoom: false,
+    doubleClickZoom: false,
+    touchZoom: false,
+  });
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    maxZoom: 19,
+    maxNativeZoom: 19,
+  }).addTo(radarMap);
+  refreshRadar();
+}
+function refreshRadar() {
+  const err = document.getElementById('radar-err');
+  const age = document.getElementById('radar-age');
+  if (!radarMap) return;
+  fetch('https://api.rainviewer.com/public/weather-maps.json')
+    .then(r => r.json())
+    .then(api => {
+      const frames = api.radar && api.radar.past;
+      if (!frames || !frames.length) throw new Error('no frames');
+      const latest = frames[frames.length - 1];
+      const tileUrl = api.host + latest.path + '/256/{z}/{x}/{y}/2/1_1.png';
+      if (radarLayer) radarMap.removeLayer(radarLayer);
+      radarLayer = L.tileLayer(tileUrl, { opacity: 0.7, maxZoom: 19, maxNativeZoom: 7 });
+      radarLayer.addTo(radarMap);
+      err.style.display = 'none';
+      const d = new Date(latest.time * 1000);
+      age.textContent = d.toLocaleTimeString('en-CA', { hour: '2-digit', minute: '2-digit', hour12: false });
+    })
+    .catch(() => { err.style.display = 'block'; });
+}
+
+// ── Weather ───────────────────────────────────────────────────────
+const WMO = {
+  0:['☀️','CLEAR'],1:['🌤','MOSTLY CLEAR'],2:['⛅','PARTLY CLOUDY'],3:['☁️','OVERCAST'],
+  45:['🌫','FOG'],48:['🌫','FOG'],51:['🌦','DRIZZLE'],53:['🌦','DRIZZLE'],55:['🌧','DRIZZLE'],
+  61:['🌧','LIGHT RAIN'],63:['🌧','RAIN'],65:['🌧','HEAVY RAIN'],
+  71:['🌨','LIGHT SNOW'],73:['❄️','SNOW'],75:['❄️','HEAVY SNOW'],
+  80:['🌦','SHOWERS'],81:['🌧','SHOWERS'],82:['⛈','HEAVY SHOWERS'],
+  95:['⛈','THUNDERSTORM'],96:['⛈','THUNDERSTORM'],99:['⛈','THUNDERSTORM'],
+};
+const wmo  = c => WMO[c] || ['🌡','UNKNOWN'];
+const cToF = c => Math.round(c * 9/5 + 32);
+const fmt  = c => useF ? `${cToF(c)}°F` : `${Math.round(c)}°C`;
+
+function renderWx(d) {
+  wxData = d;
+  const cur = d.current, daily = d.daily;
+  const [icon, desc] = wmo(cur.weather_code);
+  document.getElementById('wx-icon').textContent  = icon;
+  document.getElementById('wx-temp').textContent  = fmt(cur.temperature_2m);
+  document.getElementById('wx-desc').textContent  = desc;
+  document.getElementById('wx-feels').textContent = `FEELS LIKE ${fmt(cur.apparent_temperature)}`;
+  document.getElementById('ws-h').textContent     = `${Math.round(cur.relative_humidity_2m)}%`;
+  document.getElementById('ws-w').textContent     = `${Math.round(cur.wind_speed_10m)} km/h`;
+  document.getElementById('ws-u').textContent     = daily.uv_index_max?.[0]?.toFixed(1) ?? '--';
+  document.getElementById('ws-p').textContent     = `${(cur.precipitation||0).toFixed(1)} mm`;
+  const list = document.getElementById('fc-list'); list.innerHTML = '';
+  const gMin = Math.min(...daily.temperature_2m_min);
+  const gMax = Math.max(...daily.temperature_2m_max);
+  const rng  = gMax - gMin || 1;
+  daily.time.slice(0,7).forEach((ds, i) => {
+    const d2 = new Date(ds + 'T12:00:00');
+    const lo = daily.temperature_2m_min[i], hi = daily.temperature_2m_max[i];
+    const [fi] = wmo(daily.weather_code?.[i] ?? 0);
+    const bL = (lo-gMin)/rng*100, bW = (hi-lo)/rng*100;
+    const lbl = i===0 ? 'TODAY' : i===1 ? 'TMRW' : DSH[d2.getDay()];
+    const fmtS = c => useF ? `${Math.round(c*9/5+32)}°` : `${Math.round(c)}°`;
+    const row = document.createElement('div'); row.className = 'fc-row';
+    row.innerHTML = `<div class="fc-day">${lbl}</div><div class="fc-icon">${fi}</div><div class="fc-bg"><div class="fc-fg" style="left:${bL}%;width:${bW}%"></div></div><div class="fc-lo">${fmtS(lo)}</div><div class="fc-hi">${fmtS(hi)}</div>`;
+    list.appendChild(row);
+  });
+}
+
+async function fetchWx() {
+  try {
+    const url = 'https://api.open-meteo.com/v1/forecast?latitude=45.4724&longitude=-65.8945&timezone=auto&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,precipitation&daily=temperature_2m_min,temperature_2m_max,weather_code,uv_index_max&forecast_days=7&wind_speed_unit=kmh';
+    renderWx(await (await fetch(url)).json());
+  } catch { document.getElementById('wx-desc').textContent = 'WEATHER UNAVAILABLE'; }
+}
+
+// ── Init ──────────────────────────────────────────────────────────
+async function init() {
+  load(30, 'FETCHING WEATHER');
+  await fetchWx();
+  load(60, 'LOADING RADAR');
+  initRadarMap();
+  load(80, 'LOADING CALENDAR');
+  await fetchCalendar();
+  load(100, 'READY');
+  setTimeout(doneLoading, 300);
+  setInterval(fetchCalendar,  5 * 60 * 1000);
+  setInterval(fetchWx,       10 * 60 * 1000);
+  setInterval(refreshRadar,  10 * 60 * 1000);
+  setInterval(() => buildToday(allCalEvents), 60 * 1000);
+}
+init();
+</script>
 </body>
 </html>
