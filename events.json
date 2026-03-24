@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Aaron physio",
-      "date": "2026-03-24",
-      "time": "2:45 PM",
-      "end": "2026-03-24T18:45:00+00:00",
-      "all_day": false,
-      "location": "Station Street Health\n125 Station St, Saint John NB E2L 4X4, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
       "date": "2026-03-25",
       "time": "10:30 AM",
@@ -571,7 +561,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-03-24T18:09:30.401363+00:00",
+  "fetched_at": "2026-03-24T20:03:29.062111+00:00",
   "calendars": [
     "outlook",
     "icloud"
