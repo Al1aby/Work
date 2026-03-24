@@ -81,7 +81,11 @@ def fetch_events_from_url(name, url, now, cutoff):
 
 def main():
     if not CALENDAR_URLS:
-        raise ValueError("No calendar URLs set. Define OUTLOOK_CALENDAR_URL and/or ICLOUD_CALENDAR_URL.")
+        print("Warning: no calendar URLs configured (OUTLOOK_CALENDAR_URL / ICLOUD_CALENDAR_URL not set)")
+        output = {"events": [], "fetched_at": datetime.now(timezone.utc).isoformat(), "error": "No calendar URLs configured"}
+        with open("events.json", "w") as f:
+            json.dump(output, f, indent=2)
+        return
 
     print(f"Configured calendars: {[name for name, _ in CALENDAR_URLS]}")
 
@@ -113,8 +117,8 @@ def main():
 
     print(f"Wrote {len(all_events)} total events to events.json")
 
-    if errors and not all_events:
-        raise RuntimeError("All calendar fetches failed:\n" + "\n".join(errors))
+    if errors:
+        print(f"Errors: {'; '.join(errors)}")
 
 
 if __name__ == "__main__":
