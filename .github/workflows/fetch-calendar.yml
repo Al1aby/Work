@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
 
 jobs:
   fetch:
@@ -32,10 +33,15 @@ jobs:
           ICLOUD_CALENDAR_URL: ${{ secrets.ICLOUD_CALENDAR_URL }}
         run: python fetch_calendar.py
 
-      - name: Commit changes
+      - name: Configure git
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit events.json
+        run: |
           git add events.json
           git diff --cached --quiet || git commit -m "chore: update events.json [skip ci]"
-          git push
+
+      - name: Push changes
+        run: git push
