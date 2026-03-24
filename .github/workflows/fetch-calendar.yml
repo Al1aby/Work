@@ -25,6 +25,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests icalendar python-dateutil
 
+      - name: Check secrets
+        run: |
+          echo "OUTLOOK_CALENDAR_URL set: ${{ secrets.OUTLOOK_CALENDAR_URL != '' }}"
+          echo "ICLOUD_CALENDAR_URL set:  ${{ secrets.ICLOUD_CALENDAR_URL != '' }}"
+
       - name: Fetch calendar and write events.json
         env:
           OUTLOOK_CALENDAR_URL: ${{ secrets.OUTLOOK_CALENDAR_URL }}
