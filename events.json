@@ -3,7 +3,7 @@
     {
       "title": "GEM-U Lunch & Learn: WHAT'S THE POINT? Leveraging Point Clouds - Adam Baxter",
       "date": "2026-03-25",
-      "time": "3:30 PM",
+      "time": "12:30 PM",
       "end": "2026-03-25T16:15:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
@@ -12,7 +12,7 @@
     {
       "title": "Annual Shareholders Meeting",
       "date": "2026-03-25",
-      "time": "5:00 PM",
+      "time": "2:00 PM",
       "end": "2026-03-25T18:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
@@ -21,7 +21,7 @@
     {
       "title": "Start Up Meeting Campobello Island School Washroom Renovations 929 A24 BW5178",
       "date": "2026-03-25",
-      "time": "6:30 PM",
+      "time": "3:30 PM",
       "end": "2026-03-25T19:30:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
@@ -30,7 +30,7 @@
     {
       "title": "P&C Drop-in Sessions",
       "date": "2026-03-26",
-      "time": "5:00 PM",
+      "time": "2:00 PM",
       "end": "2026-03-26T17:30:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
@@ -39,7 +39,7 @@
     {
       "title": "Psychological Safety in the Workplace Workshop - GEMTEC",
       "date": "2026-04-02",
-      "time": "1:30 PM",
+      "time": "10:30 AM",
       "end": "2026-04-02T15:30:00+00:00",
       "all_day": false,
       "location": "Zoom",
@@ -48,7 +48,7 @@
     {
       "title": "Asphalt lab audit ",
       "date": "2026-04-09",
-      "time": "4:00 PM",
+      "time": "1:00 PM",
       "end": "2026-04-09T18:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
@@ -57,7 +57,7 @@
     {
       "title": "GEM-U Lunch & Learn: Ontario Project Requirements & Responsibility (Jason Mitterling)",
       "date": "2026-04-16",
-      "time": "3:30 PM",
+      "time": "12:30 PM",
       "end": "2026-04-16T16:15:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
@@ -66,13 +66,13 @@
     {
       "title": "Foundations of Project Management: Time Management (Virtual, Ben Scott)",
       "date": "2026-04-21",
-      "time": "1:30 PM",
+      "time": "10:30 AM",
       "end": "2026-04-21T15:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar"
     }
   ],
-  "fetched_at": "2026-03-24T00:01:07.244981+00:00",
-  "error": "https://p165-caldav.icloud.com/published/2/Mjc1MDE3NTk4Mjc1M...: 400 Client Error: Bad Request for url: https://p165-caldav.icloud.com/published/2/Mjc1MDE3NTk4Mjc1MDE3NcNKGptmumQbi69riMVJicVrcLZINKkxPaqFq1UjFIYeSXvsQh0mv80XocmmlmSw9gQy8s1oFPN_FK4HFE5pMtU%20(note:%20https://%20%E2%86%92%20https://)"
+  "fetched_at": "2026-03-24T02:04:50.717555+00:00",
+  "error": "icloud: 400 Client Error: Bad Request for url: https://p165-caldav.icloud.com/published/2/Mjc1MDE3NTk4Mjc1MDE3NcNKGptmumQbi69riMVJicVrcLZINKkxPaqFq1UjFIYeSXvsQh0mv80XocmmlmSw9gQy8s1oFPN_FK4HFE5pMtU%20(note:%20https://%20%E2%86%92%20https://)"
 }
