@@ -541,6 +541,26 @@
       "source": "icloud"
     },
     {
+      "title": "Stephen Sheel\u2019s birthday",
+      "date": "2026-04-22",
+      "time": null,
+      "end": "2026-04-24T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Katie\u2019s birthday",
+      "date": "2026-04-22",
+      "time": null,
+      "end": "2026-04-24T00:00:00+00:00",
+      "all_day": true,
+      "location": "249 Route 100 Nauwigewauk New Brunswick E5N6Z3 Canada ",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
       "date": "2026-04-22",
       "time": "10:30 AM",
@@ -561,7 +581,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-03-24T02:22:34.345354+00:00",
+  "fetched_at": "2026-03-24T05:37:48.821432+00:00",
   "calendars": [
     "outlook",
     "icloud"
