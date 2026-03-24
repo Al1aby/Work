@@ -7,7 +7,8 @@
       "end": "2026-03-24T18:45:00+00:00",
       "all_day": false,
       "location": "Station Street Health\n125 Station St, Saint John NB E2L 4X4, Canada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Garbage day",
@@ -16,7 +17,8 @@
       "end": "2026-03-24T12:00:00+00:00",
       "all_day": false,
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
@@ -25,7 +27,8 @@
       "end": "2026-03-25T15:00:00+00:00",
       "all_day": false,
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "GEM-U Lunch & Learn: WHAT'S THE POINT? Leveraging Point Clouds - Adam Baxter",
@@ -34,7 +37,8 @@
       "end": "2026-03-25T16:15:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Annual Shareholders Meeting",
@@ -43,7 +47,8 @@
       "end": "2026-03-25T18:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Start Up Meeting Campobello Island School Washroom Renovations 929 A24 BW5178",
@@ -52,7 +57,8 @@
       "end": "2026-03-25T19:30:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Pick hello fresh meals",
@@ -61,7 +67,8 @@
       "end": "2026-03-25T23:30:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Pay day",
@@ -70,7 +77,8 @@
       "end": "2026-03-28T00:00:00+00:00",
       "all_day": true,
       "location": null,
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "P&C Drop-in Sessions",
@@ -79,7 +87,8 @@
       "end": "2026-03-26T17:30:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Melody Brown Birthday",
@@ -88,7 +97,8 @@
       "end": "2026-03-28T10:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Winnie swim \ud83c\udf0a",
@@ -97,7 +107,8 @@
       "end": "2026-03-28T13:00:00+00:00",
       "all_day": false,
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Laure therapy ",
@@ -106,7 +117,8 @@
       "end": "2026-03-30T23:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -115,7 +127,8 @@
       "end": "2026-03-30T12:30:00+00:00",
       "all_day": false,
       "location": "Saint John Board room",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Monday Meeting",
@@ -124,7 +137,8 @@
       "end": "2026-03-30T13:00:00+00:00",
       "all_day": false,
       "location": "D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "House cleaning ",
@@ -133,7 +147,8 @@
       "end": "2026-03-31T16:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Dr Shepperd follow up ",
@@ -142,7 +157,8 @@
       "end": "2026-03-31T14:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Compost day ",
@@ -151,7 +167,8 @@
       "end": "2026-03-31T12:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Pick hello fresh meals",
@@ -160,7 +177,8 @@
       "end": "2026-04-01T23:30:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Psychological Safety in the Workplace Workshop - GEMTEC",
@@ -169,7 +187,8 @@
       "end": "2026-04-02T15:30:00+00:00",
       "all_day": false,
       "location": "Zoom",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Reiki",
@@ -178,7 +197,8 @@
       "end": "2026-04-02T18:50:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Derek's birthday",
@@ -187,7 +207,8 @@
       "end": "2026-04-06T00:00:00+00:00",
       "all_day": true,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Ali birthday ",
@@ -196,7 +217,8 @@
       "end": "2026-04-06T00:00:00+00:00",
       "all_day": true,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Aaron -  check & clean furnace filter ",
@@ -205,7 +227,8 @@
       "end": "2026-04-04T13:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Supper?",
@@ -214,7 +237,8 @@
       "end": "2026-04-05T22:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Therapy",
@@ -223,7 +247,8 @@
       "end": "2026-04-06T23:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Recycling day",
@@ -232,7 +257,8 @@
       "end": "2026-04-06T12:00:00+00:00",
       "all_day": false,
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -241,7 +267,8 @@
       "end": "2026-04-06T12:30:00+00:00",
       "all_day": false,
       "location": "Saint John Board room",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Monday Meeting",
@@ -250,7 +277,8 @@
       "end": "2026-04-06T13:00:00+00:00",
       "all_day": false,
       "location": "D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Massage Treatment with Jen Taylor",
@@ -259,7 +287,8 @@
       "end": "2026-04-07T22:30:00+00:00",
       "all_day": false,
       "location": "Jen Taylor Massage Therapy, 114 Logie Dr, Hampton, NB, E5N 5T2",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Garbage day",
@@ -268,7 +297,8 @@
       "end": "2026-04-07T12:00:00+00:00",
       "all_day": false,
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
@@ -277,7 +307,8 @@
       "end": "2026-04-08T15:00:00+00:00",
       "all_day": false,
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Pick hello fresh meals",
@@ -286,7 +317,8 @@
       "end": "2026-04-08T23:30:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Pay day",
@@ -295,7 +327,8 @@
       "end": "2026-04-11T00:00:00+00:00",
       "all_day": true,
       "location": null,
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Asphalt lab audit ",
@@ -304,7 +337,8 @@
       "end": "2026-04-09T18:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Physio ",
@@ -313,7 +347,8 @@
       "end": "2026-04-09T21:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Winnie swim \ud83c\udf0a",
@@ -322,7 +357,8 @@
       "end": "2026-04-11T13:00:00+00:00",
       "all_day": false,
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Laure in office ",
@@ -331,7 +367,8 @@
       "end": "2026-04-14T00:00:00+00:00",
       "all_day": true,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Laure dr appt",
@@ -340,7 +377,8 @@
       "end": "2026-04-13T14:30:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "NCC meeting",
@@ -349,7 +387,8 @@
       "end": "2026-04-13T23:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -358,7 +397,8 @@
       "end": "2026-04-13T12:30:00+00:00",
       "all_day": false,
       "location": "Saint John Board room",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Monday Meeting",
@@ -367,7 +407,8 @@
       "end": "2026-04-13T13:00:00+00:00",
       "all_day": false,
       "location": "D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Quarterly Meeting - Saint John Branch",
@@ -376,7 +417,8 @@
       "end": "2026-04-14T17:00:00+00:00",
       "all_day": false,
       "location": "Fundy Coast Room",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Compost day ",
@@ -385,7 +427,8 @@
       "end": "2026-04-14T12:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Katie symperica",
@@ -394,7 +437,8 @@
       "end": "2026-04-15T00:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Pick hello fresh meals",
@@ -403,7 +447,8 @@
       "end": "2026-04-15T23:30:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "GEM-U Lunch & Learn: Ontario Project Requirements & Responsibility (Jason Mitterling)",
@@ -412,7 +457,8 @@
       "end": "2026-04-16T16:15:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Travis bday party?",
@@ -421,7 +467,8 @@
       "end": "2026-04-18T23:00:00+00:00",
       "all_day": false,
       "location": "149 Viola Ave\nHampton, NB, Canada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Winnie swim \ud83c\udf0a",
@@ -430,7 +477,8 @@
       "end": "2026-04-18T13:00:00+00:00",
       "all_day": false,
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Therapy",
@@ -439,7 +487,8 @@
       "end": "2026-04-20T23:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Recycling day",
@@ -448,7 +497,8 @@
       "end": "2026-04-20T12:00:00+00:00",
       "all_day": false,
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -457,7 +507,8 @@
       "end": "2026-04-20T12:30:00+00:00",
       "all_day": false,
       "location": "Saint John Board room",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Monday Meeting",
@@ -466,7 +517,8 @@
       "end": "2026-04-20T13:00:00+00:00",
       "all_day": false,
       "location": "D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Foundations of Project Management: Time Management (Virtual, Ben Scott)",
@@ -475,7 +527,8 @@
       "end": "2026-04-21T15:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Garbage day",
@@ -484,7 +537,8 @@
       "end": "2026-04-21T12:00:00+00:00",
       "all_day": false,
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
@@ -493,7 +547,8 @@
       "end": "2026-04-22T15:00:00+00:00",
       "all_day": false,
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar"
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Pick hello fresh meals",
@@ -502,10 +557,11 @@
       "end": "2026-04-22T23:30:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron "
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-03-24T02:16:48.107940+00:00",
+  "fetched_at": "2026-03-24T02:22:34.345354+00:00",
   "calendars": [
     "outlook",
     "icloud"
