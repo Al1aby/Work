@@ -71,6 +71,7 @@ def fetch_events_from_url(name, url, now, cutoff):
             "all_day":  all_day,
             "location": location,
             "calendar": calendar_name,
+            "source":   name,
         })
 
     return events
