@@ -365,9 +365,14 @@ let wxData = null;
 let allCalEvents = [];
 
 // Outlook events get a purple left-border; iCloud/default stays teal
-function calClass(calName) {
-  if (!calName) return '';
-  const n = calName.toLowerCase();
+function calClass(ev) {
+  if (!ev) return '';
+  // Prefer the source key set by the fetch script ("outlook" / "icloud")
+  const src = (ev.source || '').toLowerCase();
+  if (src === 'outlook') return 'cal-outlook';
+  if (src === 'icloud')  return '';
+  // Fallback: match on display name for legacy / manually-edited data
+  const n = (ev.calendar || '').toLowerCase();
   if (n.includes('outlook') || n.includes('hotmail') || n.includes('live') || n.includes('microsoft')) return 'cal-outlook';
   return '';
 }
@@ -454,7 +459,7 @@ function buildToday(events) {
   }
   todayEvs.forEach(ev => {
     const evMin = parseTime12(ev.time);
-    let cls = 'tev ' + calClass(ev.calendar) + (ev.all_day ? ' allday' : '');
+    let cls = 'tev ' + calClass(ev) + (ev.all_day ? ' allday' : '');
     if (!ev.all_day && evMin >= 0) {
       if (evMin < nowMin - 60)       cls += ' past';
       else if (evMin <= nowMin + 30) cls += ' now';
@@ -495,7 +500,7 @@ function buildCalStrip(events) {
     } else {
       evs.slice(0,3).forEach(ev => {
         const e = document.createElement('div');
-        e.className = ('cev ' + calClass(ev.calendar) + (ev.all_day ? ' allday' : '')).trim();
+        e.className = ('cev ' + calClass(ev) + (ev.all_day ? ' allday' : '')).trim();
         e.innerHTML = `${ev.all_day ? '' : `<span class="cev-time">${ev.time}</span>`}${ev.title}`;
         eWrap.appendChild(e);
       });
