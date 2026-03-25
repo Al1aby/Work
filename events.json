@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Start Up Meeting Campobello Island School Washroom Renovations 929 A24 BW5178",
-      "date": "2026-03-25",
-      "time": "3:30 PM",
-      "end": "2026-03-25T19:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Pick hello fresh meals",
       "date": "2026-03-25",
       "time": "8:00 PM",
@@ -551,7 +541,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-03-25T18:10:55.002671+00:00",
+  "fetched_at": "2026-03-25T20:02:08.046433+00:00",
   "calendars": [
     "outlook",
     "icloud"
