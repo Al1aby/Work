@@ -1,36 +1,6 @@
 {
   "events": [
     {
-      "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
-      "date": "2026-03-25",
-      "time": "10:30 AM",
-      "end": "2026-03-25T15:00:00+00:00",
-      "all_day": false,
-      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "GEM-U Lunch & Learn: WHAT'S THE POINT? Leveraging Point Clouds - Adam Baxter",
-      "date": "2026-03-25",
-      "time": "12:30 PM",
-      "end": "2026-03-25T16:15:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Annual Shareholders Meeting",
-      "date": "2026-03-25",
-      "time": "2:00 PM",
-      "end": "2026-03-25T18:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Start Up Meeting Campobello Island School Washroom Renovations 929 A24 BW5178",
       "date": "2026-03-25",
       "time": "3:30 PM",
@@ -581,7 +551,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-03-25T14:46:53.009072+00:00",
+  "fetched_at": "2026-03-25T18:10:55.002671+00:00",
   "calendars": [
     "outlook",
     "icloud"
