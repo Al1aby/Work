@@ -61,6 +61,16 @@
       "source": "outlook"
     },
     {
+      "title": "McBrien Lake Site Walkthrough",
+      "date": "2026-03-26",
+      "time": "1:00 PM",
+      "end": "2026-03-26T18:00:00+00:00",
+      "all_day": false,
+      "location": "McBrien Lake",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "P&C Drop-in Sessions",
       "date": "2026-03-26",
       "time": "2:00 PM",
@@ -571,7 +581,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-03-25T08:04:07.863526+00:00",
+  "fetched_at": "2026-03-25T11:10:25.790135+00:00",
   "calendars": [
     "outlook",
     "icloud"
