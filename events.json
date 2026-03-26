@@ -11,26 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "McBrien Lake Site Walkthrough",
-      "date": "2026-03-26",
-      "time": "1:00 PM",
-      "end": "2026-03-26T18:00:00+00:00",
-      "all_day": false,
-      "location": "McBrien Lake",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "P&C Drop-in Sessions",
-      "date": "2026-03-26",
-      "time": "2:00 PM",
-      "end": "2026-03-26T17:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Melody Brown Birthday",
       "date": "2026-03-28",
       "time": "6:00 AM",
@@ -101,10 +81,30 @@
       "source": "icloud"
     },
     {
+      "title": "go see the Joe Debly operation at McBrien Lake",
+      "date": "2026-03-31",
+      "time": "11:00 AM",
+      "end": "2026-03-31T16:00:00+00:00",
+      "all_day": false,
+      "location": "meet at the yellow gate",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Compost day ",
       "date": "2026-03-31",
       "time": "8:00 AM",
       "end": "2026-03-31T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Dr apt -The Fish man",
+      "date": "2026-04-01",
+      "time": "3:20 PM",
+      "end": "2026-04-01T19:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -541,7 +541,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-03-26T15:57:39.985664+00:00",
+  "fetched_at": "2026-03-26T19:41:56.014905+00:00",
   "calendars": [
     "outlook",
     "icloud"
