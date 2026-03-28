@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Melody Brown Birthday",
-      "date": "2026-03-28",
-      "time": "6:00 AM",
-      "end": "2026-03-28T10:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-03-28",
       "time": "9:30 AM",
@@ -531,7 +521,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-03-28T09:55:15.715272+00:00",
+  "fetched_at": "2026-03-28T11:03:49.104633+00:00",
   "calendars": [
     "outlook",
     "icloud"
