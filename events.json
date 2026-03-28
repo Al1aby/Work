@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-03-28",
-      "time": "9:30 AM",
-      "end": "2026-03-28T13:00:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure therapy ",
       "date": "2026-03-30",
       "time": "7:00 PM",
@@ -519,9 +509,29 @@
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-04-27",
+      "time": "9:00 AM",
+      "end": "2026-04-27T12:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-04-27",
+      "time": "9:30 AM",
+      "end": "2026-04-27T13:00:00+00:00",
+      "all_day": false,
+      "location": "D.P. DeMerchant Room; Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-03-28T11:56:34.056458+00:00",
+  "fetched_at": "2026-03-28T14:04:15.091403+00:00",
   "calendars": [
     "outlook",
     "icloud"
