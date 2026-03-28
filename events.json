@@ -1,6 +1,16 @@
 {
   "events": [
     {
+      "title": "Laure in office ",
+      "date": "2026-03-29",
+      "time": null,
+      "end": "2026-03-31T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Laure therapy ",
       "date": "2026-03-30",
       "time": "7:00 PM",
@@ -531,7 +541,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-03-28T15:53:35.686658+00:00",
+  "fetched_at": "2026-03-28T17:05:02.394313+00:00",
   "calendars": [
     "outlook",
     "icloud"
