@@ -51,10 +51,30 @@
       "source": "outlook"
     },
     {
+      "title": "Appointment with Marcus Payne",
+      "date": "2026-03-31",
+      "time": "11:30 AM",
+      "end": "2026-03-31T15:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Compost day ",
       "date": "2026-03-31",
       "time": "8:00 AM",
       "end": "2026-03-31T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Magic cards with the guys",
+      "date": "2026-03-31",
+      "time": "8:30 PM",
+      "end": "2026-04-01T02:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -539,9 +559,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "P&C Drop-in Sessions",
+      "date": "2026-04-29",
+      "time": "2:30 PM",
+      "end": "2026-04-29T18:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-03-30T14:54:47.488222+00:00",
+  "fetched_at": "2026-03-30T18:07:14.504763+00:00",
   "calendars": [
     "outlook",
     "icloud"
