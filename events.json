@@ -21,26 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-03-30",
-      "time": "9:00 AM",
-      "end": "2026-03-30T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-03-30",
-      "time": "9:30 AM",
-      "end": "2026-03-30T13:00:00+00:00",
-      "all_day": false,
-      "location": "D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "House cleaning ",
       "date": "2026-03-31",
       "time": "10:00 AM",
@@ -561,7 +541,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-03-30T10:47:35.228972+00:00",
+  "fetched_at": "2026-03-30T14:54:47.488222+00:00",
   "calendars": [
     "outlook",
     "icloud"
