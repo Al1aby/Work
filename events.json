@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Laure therapy ",
-      "date": "2026-03-30",
-      "time": "7:00 PM",
-      "end": "2026-03-30T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "House cleaning ",
       "date": "2026-03-31",
       "time": "10:00 AM",
@@ -579,9 +569,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Pick hello fresh meals",
+      "date": "2026-04-29",
+      "time": "8:00 PM",
+      "end": "2026-04-29T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-03-30T22:05:26.897225+00:00",
+  "fetched_at": "2026-03-30T23:56:21.843163+00:00",
   "calendars": [
     "outlook",
     "icloud"
