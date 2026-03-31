@@ -41,16 +41,6 @@
       "source": "icloud"
     },
     {
-      "title": "Compost day ",
-      "date": "2026-03-31",
-      "time": "8:00 AM",
-      "end": "2026-03-31T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Magic cards with the guys",
       "date": "2026-03-31",
       "time": "8:30 PM",
@@ -571,7 +561,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-03-31T09:47:09.500771+00:00",
+  "fetched_at": "2026-03-31T12:08:14.720661+00:00",
   "calendars": [
     "outlook",
     "icloud"
