@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "title": "House cleaning ",
-      "date": "2026-03-31",
-      "time": "10:00 AM",
-      "end": "2026-03-31T16:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Dr Shepperd follow up ",
-      "date": "2026-03-31",
-      "time": "10:00 AM",
-      "end": "2026-03-31T14:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "go see the Joe Debly operation at McBrien Lake",
-      "date": "2026-03-31",
-      "time": "11:00 AM",
-      "end": "2026-03-31T16:00:00+00:00",
-      "all_day": false,
-      "location": "meet at the yellow gate",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Appointment with Marcus Payne",
-      "date": "2026-03-31",
-      "time": "11:30 AM",
-      "end": "2026-03-31T15:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Magic cards with the guys",
       "date": "2026-03-31",
       "time": "8:30 PM",
@@ -561,7 +521,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-03-31T12:08:14.720661+00:00",
+  "fetched_at": "2026-03-31T16:13:51.194138+00:00",
   "calendars": [
     "outlook",
     "icloud"
