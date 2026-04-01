@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Dr apt -The Fish man",
-      "date": "2026-04-01",
-      "time": "3:20 PM",
-      "end": "2026-04-01T19:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pick hello fresh meals",
       "date": "2026-04-01",
       "time": "8:00 PM",
@@ -531,7 +521,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-01T18:01:24.310795+00:00",
+  "fetched_at": "2026-04-01T20:09:10.011206+00:00",
   "calendars": [
     "outlook",
     "icloud"
