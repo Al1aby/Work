@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Reiki",
-      "date": "2026-04-02",
-      "time": "3:20 PM",
-      "end": "2026-04-02T18:50:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Derek's birthday",
       "date": "2026-04-04",
       "time": null,
@@ -561,7 +551,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-02T18:06:31.698800+00:00",
+  "fetched_at": "2026-04-02T20:02:32.775741+00:00",
   "calendars": [
     "outlook",
     "icloud"
