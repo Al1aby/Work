@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Psychological Safety in the Workplace Workshop - GEMTEC",
-      "date": "2026-04-02",
-      "time": "10:30 AM",
-      "end": "2026-04-02T15:30:00+00:00",
-      "all_day": false,
-      "location": "Zoom",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Reiki",
       "date": "2026-04-02",
       "time": "3:20 PM",
@@ -519,9 +509,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-05-02",
+      "time": "9:30 AM",
+      "end": "2026-05-02T13:00:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-02T12:02:30.125518+00:00",
+  "fetched_at": "2026-04-02T15:43:03.178648+00:00",
   "calendars": [
     "outlook",
     "icloud"
