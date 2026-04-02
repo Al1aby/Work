@@ -311,12 +311,12 @@
       "source": "outlook"
     },
     {
-      "title": "New Event",
+      "title": "Aaron new orthodics ",
       "date": "2026-04-16",
       "time": "2:45 PM",
       "end": "2026-04-16T18:45:00+00:00",
       "all_day": false,
-      "location": null,
+      "location": "Orthopaedics Plus\n200 Somerset St, Saint John NB E2K 2X9, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -551,7 +551,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-02T20:02:32.775741+00:00",
+  "fetched_at": "2026-04-02T22:01:44.817714+00:00",
   "calendars": [
     "outlook",
     "icloud"
