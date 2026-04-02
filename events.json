@@ -509,9 +509,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Aaron -  check & clean furnace filter ",
+      "date": "2026-05-02",
+      "time": "9:00 AM",
+      "end": "2026-05-02T13:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-02T09:42:20.447796+00:00",
+  "fetched_at": "2026-04-02T12:02:30.125518+00:00",
   "calendars": [
     "outlook",
     "icloud"
