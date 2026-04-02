@@ -31,6 +31,16 @@
       "source": "icloud"
     },
     {
+      "title": "Easter egg hunt ",
+      "date": "2026-04-04",
+      "time": "10:00 AM",
+      "end": "2026-04-04T14:00:00+00:00",
+      "all_day": false,
+      "location": "Nauwigewauk shelter",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-04-04",
       "time": "9:00 AM",
@@ -111,6 +121,16 @@
       "source": "icloud"
     },
     {
+      "title": "Tire and oil change",
+      "date": "2026-04-07",
+      "time": "8:30 AM",
+      "end": "2026-04-07T12:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
       "date": "2026-04-08",
       "time": "10:30 AM",
@@ -147,6 +167,16 @@
       "end": "2026-04-11T00:00:00+00:00",
       "all_day": true,
       "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Aaron physio",
+      "date": "2026-04-09",
+      "time": "11:00 AM",
+      "end": "2026-04-09T15:00:00+00:00",
+      "all_day": false,
+      "location": "Station Street Health\n125 Station St, Saint John NB E2L 4X4, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -289,6 +319,16 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "New Event",
+      "date": "2026-04-16",
+      "time": "2:45 PM",
+      "end": "2026-04-16T18:45:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Travis bday party?",
@@ -521,7 +561,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-02T15:43:03.178648+00:00",
+  "fetched_at": "2026-04-02T18:06:31.698800+00:00",
   "calendars": [
     "outlook",
     "icloud"
