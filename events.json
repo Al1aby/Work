@@ -171,16 +171,6 @@
       "source": "icloud"
     },
     {
-      "title": "Asphalt lab audit ",
-      "date": "2026-04-09",
-      "time": "1:00 PM",
-      "end": "2026-04-09T18:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Physio ",
       "date": "2026-04-09",
       "time": "5:00 PM",
@@ -561,7 +551,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-03T11:10:16.477308+00:00",
+  "fetched_at": "2026-04-03T14:08:24.325776+00:00",
   "calendars": [
     "outlook",
     "icloud"
