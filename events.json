@@ -589,9 +589,19 @@
       "location": "D.P. DeMerchant Room; Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Garbage day",
+      "date": "2026-05-05",
+      "time": "8:00 AM",
+      "end": "2026-05-05T12:00:00+00:00",
+      "all_day": false,
+      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-05T10:03:56.031428+00:00",
+  "fetched_at": "2026-04-05T11:47:15.491082+00:00",
   "calendars": [
     "outlook",
     "icloud"
