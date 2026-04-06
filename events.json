@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Therapy",
-      "date": "2026-04-06",
-      "time": "7:00 PM",
-      "end": "2026-04-06T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Massage Treatment with Jen Taylor",
       "date": "2026-04-07",
       "time": "6:30 PM",
@@ -559,9 +549,19 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Pick hello fresh meals",
+      "date": "2026-05-06",
+      "time": "8:00 PM",
+      "end": "2026-05-06T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-06T21:53:46.410163+00:00",
+  "fetched_at": "2026-04-06T23:53:44.212934+00:00",
   "calendars": [
     "outlook",
     "icloud"
