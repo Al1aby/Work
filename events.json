@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Massage Treatment with Jen Taylor",
-      "date": "2026-04-07",
-      "time": "6:30 PM",
-      "end": "2026-04-07T22:30:00+00:00",
-      "all_day": false,
-      "location": "Jen Taylor Massage Therapy, 114 Logie Dr, Hampton, NB, E5N 5T2",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
       "date": "2026-04-08",
       "time": "10:30 AM",
@@ -541,7 +531,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-07T22:08:16.960772+00:00",
+  "fetched_at": "2026-04-07T22:59:23.379332+00:00",
   "calendars": [
     "outlook",
     "icloud"
