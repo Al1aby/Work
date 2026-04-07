@@ -161,16 +161,6 @@
       "source": "icloud"
     },
     {
-      "title": "Laure travelling to Fredericton ",
-      "date": "2026-04-15",
-      "time": null,
-      "end": "2026-04-17T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pick hello fresh meals",
       "date": "2026-04-15",
       "time": "8:00 PM",
@@ -551,7 +541,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-07T18:11:38.243982+00:00",
+  "fetched_at": "2026-04-07T20:07:11.403106+00:00",
   "calendars": [
     "outlook",
     "icloud"
