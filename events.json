@@ -529,9 +529,29 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Pay day",
+      "date": "2026-05-07",
+      "time": null,
+      "end": "2026-05-09T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Laure in office ",
+      "date": "2026-05-07",
+      "time": null,
+      "end": "2026-05-09T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-08T02:47:46.964688+00:00",
+  "fetched_at": "2026-04-08T05:15:23.350256+00:00",
   "calendars": [
     "outlook",
     "icloud"
