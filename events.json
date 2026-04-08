@@ -51,6 +51,16 @@
       "source": "icloud"
     },
     {
+      "title": "Aaron bday brunch? ",
+      "date": "2026-04-11",
+      "time": "10:30 AM",
+      "end": "2026-04-11T15:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-04-11",
       "time": "9:30 AM",
@@ -541,7 +551,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-08T15:58:25.103644+00:00",
+  "fetched_at": "2026-04-08T17:16:43.086242+00:00",
   "calendars": [
     "outlook",
     "icloud"
