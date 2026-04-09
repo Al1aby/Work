@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Aaron physio",
-      "date": "2026-04-09",
-      "time": "11:00 AM",
-      "end": "2026-04-09T15:00:00+00:00",
-      "all_day": false,
-      "location": "Station Street Health\n125 Station St, Saint John NB E2L 4X4, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Physio ",
       "date": "2026-04-09",
       "time": "5:00 PM",
@@ -551,7 +541,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-09T14:56:46.797021+00:00",
+  "fetched_at": "2026-04-09T16:22:35.270512+00:00",
   "calendars": [
     "outlook",
     "icloud"
