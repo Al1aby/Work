@@ -539,9 +539,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Hair appt",
+      "date": "2026-05-13",
+      "time": "7:30 PM",
+      "end": "2026-05-13T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-13T21:57:55.740958+00:00",
+  "fetched_at": "2026-04-13T22:55:51.759476+00:00",
   "calendars": [
     "outlook",
     "icloud"
