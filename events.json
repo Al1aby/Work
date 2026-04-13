@@ -451,6 +451,16 @@
       "source": "outlook"
     },
     {
+      "title": "Town Hall (10:00am EDT; 11:00am ADT; 11:30am NDT)",
+      "date": "2026-05-06",
+      "time": "11:00 AM",
+      "end": "2026-05-06T15:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Pick hello fresh meals",
       "date": "2026-05-06",
       "time": "8:00 PM",
@@ -531,7 +541,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-13T17:08:18.634210+00:00",
+  "fetched_at": "2026-04-13T18:17:02.348843+00:00",
   "calendars": [
     "outlook",
     "icloud"
