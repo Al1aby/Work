@@ -31,26 +31,6 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-04-13",
-      "time": "9:00 AM",
-      "end": "2026-04-13T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-04-13",
-      "time": "9:30 AM",
-      "end": "2026-04-13T13:00:00+00:00",
-      "all_day": false,
-      "location": "D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Quarterly Meeting - Saint John Branch",
       "date": "2026-04-14",
       "time": "1:30 PM",
@@ -561,7 +541,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-13T12:08:02.581885+00:00",
+  "fetched_at": "2026-04-13T14:08:54.164351+00:00",
   "calendars": [
     "outlook",
     "icloud"
