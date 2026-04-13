@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Laure dr appt",
-      "date": "2026-04-13",
-      "time": "10:30 AM",
-      "end": "2026-04-13T14:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "NCC meeting",
       "date": "2026-04-13",
       "time": "7:00 PM",
@@ -541,7 +531,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-13T14:08:54.164351+00:00",
+  "fetched_at": "2026-04-13T15:46:43.706324+00:00",
   "calendars": [
     "outlook",
     "icloud"
