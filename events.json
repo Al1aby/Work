@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "GEM-U Lunch & Learn: Ontario Project Requirements & Responsibility (Jason Mitterling)",
-      "date": "2026-04-16",
-      "time": "12:30 PM",
-      "end": "2026-04-16T16:15:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Aaron first aid",
       "date": "2026-04-16",
       "time": "8:00 AM",
@@ -541,7 +531,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-16T14:58:53.246268+00:00",
+  "fetched_at": "2026-04-16T16:44:32.224434+00:00",
   "calendars": [
     "outlook",
     "icloud"
