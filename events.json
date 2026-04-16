@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Aaron first aid",
-      "date": "2026-04-16",
-      "time": "8:00 AM",
-      "end": "2026-04-16T19:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Hang out with Tiffany ",
       "date": "2026-04-17",
       "time": "6:45 PM",
@@ -531,7 +521,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-16T17:59:08.687338+00:00",
+  "fetched_at": "2026-04-16T19:34:53.301674+00:00",
   "calendars": [
     "outlook",
     "icloud"
