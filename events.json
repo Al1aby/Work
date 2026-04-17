@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Aaron first aid",
-      "date": "2026-04-17",
-      "time": "8:00 AM",
-      "end": "2026-04-17T19:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Travis bday party?",
       "date": "2026-04-18",
       "time": "7:00 PM",
@@ -531,7 +521,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-17T18:30:37.886969+00:00",
+  "fetched_at": "2026-04-17T19:45:58.809791+00:00",
   "calendars": [
     "outlook",
     "icloud"
