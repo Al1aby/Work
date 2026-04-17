@@ -171,6 +171,16 @@
       "source": "icloud"
     },
     {
+      "title": "Approval Matrix / Summer Students / Resources",
+      "date": "2026-04-24",
+      "time": "11:00 AM",
+      "end": "2026-04-24T14:30:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-04-25",
       "time": "9:30 AM",
@@ -521,7 +531,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-17T17:27:48.303891+00:00",
+  "fetched_at": "2026-04-17T18:30:37.886969+00:00",
   "calendars": [
     "outlook",
     "icloud"
