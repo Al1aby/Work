@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Travis bday party?",
-      "date": "2026-04-18",
-      "time": "7:00 PM",
-      "end": "2026-04-18T23:00:00+00:00",
-      "all_day": false,
-      "location": "149 Viola Ave\nHampton, NB, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Therapy",
       "date": "2026-04-20",
       "time": "7:00 PM",
@@ -531,7 +521,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-04-18T22:55:59.494848+00:00",
+  "fetched_at": "2026-04-18T23:41:36.933003+00:00",
   "calendars": [
     "outlook",
     "icloud"
