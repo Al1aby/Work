@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Hang out with Tiffany ",
-      "date": "2026-04-17",
-      "time": "6:45 PM",
-      "end": "2026-04-18T01:15:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Travis bday party?",
       "date": "2026-04-18",
       "time": "7:00 PM",
@@ -521,7 +511,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-18T01:03:40.277117+00:00",
+  "fetched_at": "2026-04-18T04:04:57.799094+00:00",
   "calendars": [
     "outlook",
     "icloud"
