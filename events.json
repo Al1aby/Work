@@ -41,6 +41,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-04-21",
+      "time": null,
+      "end": "2026-04-23T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Foundations of Project Management: Time Management (Virtual, Ben Scott)",
       "date": "2026-04-21",
       "time": "10:30 AM",
@@ -531,7 +541,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-19T16:48:48.898983+00:00",
+  "fetched_at": "2026-04-19T17:39:29.406822+00:00",
   "calendars": [
     "outlook",
     "icloud"
