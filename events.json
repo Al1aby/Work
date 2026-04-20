@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Therapy",
-      "date": "2026-04-20",
-      "time": "7:00 PM",
-      "end": "2026-04-20T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-04-21",
       "time": null,
@@ -519,9 +509,19 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Pick hello fresh meals",
+      "date": "2026-05-20",
+      "time": "8:00 PM",
+      "end": "2026-05-20T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-20T22:50:27.070506+00:00",
+  "fetched_at": "2026-04-20T23:49:23.588305+00:00",
   "calendars": [
     "outlook",
     "icloud"
