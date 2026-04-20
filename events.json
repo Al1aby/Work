@@ -111,16 +111,6 @@
       "source": "icloud"
     },
     {
-      "title": "Approval Matrix / Summer Students / Resources",
-      "date": "2026-04-24",
-      "time": "11:00 AM",
-      "end": "2026-04-24T14:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-04-25",
       "time": "9:30 AM",
@@ -157,6 +147,16 @@
       "end": "2026-04-27T13:00:00+00:00",
       "all_day": false,
       "location": "D.P. DeMerchant Room; Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "McBrien Lake Update Meeting",
+      "date": "2026-04-28",
+      "time": "11:00 AM",
+      "end": "2026-04-28T15:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -521,7 +521,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-04-20T13:51:23.481388+00:00",
+  "fetched_at": "2026-04-20T15:19:03.262315+00:00",
   "calendars": [
     "outlook",
     "icloud"
