@@ -151,16 +151,6 @@
       "source": "outlook"
     },
     {
-      "title": "McBrien Lake Update Meeting",
-      "date": "2026-04-28",
-      "time": "11:00 AM",
-      "end": "2026-04-28T15:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Compost day ",
       "date": "2026-04-28",
       "time": "8:00 AM",
@@ -531,7 +521,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-04-20T17:43:28.567186+00:00",
+  "fetched_at": "2026-04-20T18:44:11.150564+00:00",
   "calendars": [
     "outlook",
     "icloud"
