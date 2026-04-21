@@ -31,16 +31,6 @@
       "source": "icloud"
     },
     {
-      "title": "Garbage day",
-      "date": "2026-04-21",
-      "time": "8:00 AM",
-      "end": "2026-04-21T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Stephen Sheel\u2019s birthday",
       "date": "2026-04-22",
       "time": null,
@@ -531,7 +521,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-21T10:45:14.609072+00:00",
+  "fetched_at": "2026-04-21T12:01:22.654738+00:00",
   "calendars": [
     "outlook",
     "icloud"
