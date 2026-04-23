@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in office ",
-      "date": "2026-04-21",
-      "time": null,
-      "end": "2026-04-23T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Stephen Sheel\u2019s birthday",
       "date": "2026-04-22",
       "time": null,
@@ -521,7 +511,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-04-23T00:03:19.649932+00:00",
+  "fetched_at": "2026-04-23T03:47:33.857626+00:00",
   "calendars": [
     "outlook",
     "icloud"
