@@ -31,16 +31,6 @@
       "source": "outlook"
     },
     {
-      "title": "Physio ",
-      "date": "2026-04-23",
-      "time": "5:00 PM",
-      "end": "2026-04-23T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Supervising Students",
       "date": "2026-04-24",
       "time": "2:30 PM",
@@ -511,7 +501,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-04-23T20:31:48.999569+00:00",
+  "fetched_at": "2026-04-23T21:32:08.906292+00:00",
   "calendars": [
     "outlook",
     "icloud"
