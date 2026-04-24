@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Stephen Sheel\u2019s birthday",
-      "date": "2026-04-22",
-      "time": null,
-      "end": "2026-04-24T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Katie\u2019s birthday",
-      "date": "2026-04-22",
-      "time": null,
-      "end": "2026-04-24T00:00:00+00:00",
-      "all_day": true,
-      "location": "249 Route 100 Nauwigewauk New Brunswick E5N6Z3 Canada ",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-04-23",
       "time": null,
@@ -511,7 +491,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-04-24T00:10:06.415863+00:00",
+  "fetched_at": "2026-04-24T03:51:55.750331+00:00",
   "calendars": [
     "outlook",
     "icloud"
