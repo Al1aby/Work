@@ -11,16 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "Supervising Students",
-      "date": "2026-04-24",
-      "time": "2:30 PM",
-      "end": "2026-04-24T18:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-04-25",
       "time": "9:30 AM",
@@ -501,7 +491,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-04-24T17:12:57.678033+00:00",
+  "fetched_at": "2026-04-24T18:01:38.248148+00:00",
   "calendars": [
     "outlook",
     "icloud"
