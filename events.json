@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Pay day",
-      "date": "2026-04-23",
-      "time": null,
-      "end": "2026-04-25T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-04-25",
       "time": "9:30 AM",
@@ -491,7 +481,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-04-25T02:48:30.646597+00:00",
+  "fetched_at": "2026-04-25T05:16:27.415712+00:00",
   "calendars": [
     "outlook",
     "icloud"
