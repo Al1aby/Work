@@ -479,9 +479,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Pick hello fresh meals",
+      "date": "2026-05-27",
+      "time": "8:00 PM",
+      "end": "2026-05-27T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-27T22:09:18.472988+00:00",
+  "fetched_at": "2026-04-27T23:11:28.472353+00:00",
   "calendars": [
     "outlook",
     "icloud"
