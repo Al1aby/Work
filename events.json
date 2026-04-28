@@ -11,16 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "House cleaning ",
-      "date": "2026-04-28",
-      "time": "8:30 AM",
-      "end": "2026-04-28T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pick hello fresh meals",
       "date": "2026-04-29",
       "time": "8:00 PM",
@@ -481,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-28T13:14:29.245217+00:00",
+  "fetched_at": "2026-04-28T15:40:34.031318+00:00",
   "calendars": [
     "outlook",
     "icloud"
