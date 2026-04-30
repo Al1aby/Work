@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Branch Managers in Ottawa [In-person]",
-      "date": "2026-04-27",
-      "time": null,
-      "end": "2026-04-30T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Sam and Stephens anniversary ",
       "date": "2026-04-30",
       "time": null,
@@ -471,6 +461,16 @@
       "source": "icloud"
     },
     {
+      "title": "Jds birthday",
+      "date": "2026-05-29",
+      "time": null,
+      "end": "2026-05-31T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Concert and diner",
       "date": "2026-05-29",
       "time": "5:00 PM",
@@ -481,7 +481,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-30T01:23:46.676830+00:00",
+  "fetched_at": "2026-04-30T04:58:06.152333+00:00",
   "calendars": [
     "outlook",
     "icloud"
