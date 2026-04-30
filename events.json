@@ -51,6 +51,16 @@
       "source": "icloud"
     },
     {
+      "title": "Pay day",
+      "date": "2026-05-04",
+      "time": null,
+      "end": "2026-05-06T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "CCIL BI-ANNUAL TECHNICIAN training",
       "date": "2026-05-04",
       "time": "10:30 AM",
@@ -191,16 +201,6 @@
       "source": "icloud"
     },
     {
-      "title": "Pay day",
-      "date": "2026-05-07",
-      "time": null,
-      "end": "2026-05-09T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-05-07",
       "time": null,
@@ -321,6 +321,16 @@
       "source": "icloud"
     },
     {
+      "title": "Pay day",
+      "date": "2026-05-18",
+      "time": null,
+      "end": "2026-05-20T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Laure therapy",
       "date": "2026-05-18",
       "time": "5:00 PM",
@@ -401,16 +411,6 @@
       "source": "icloud"
     },
     {
-      "title": "Pay day",
-      "date": "2026-05-21",
-      "time": null,
-      "end": "2026-05-23T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "P&C Drop-in Sessions",
       "date": "2026-05-21",
       "time": "2:30 PM",
@@ -479,9 +479,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-05-30",
+      "time": "9:30 AM",
+      "end": "2026-05-30T13:00:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-04-30T11:40:45.828787+00:00",
+  "fetched_at": "2026-04-30T13:09:11.923056+00:00",
   "calendars": [
     "outlook",
     "icloud"
