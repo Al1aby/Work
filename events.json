@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Doctors appt ",
-      "date": "2026-05-01",
-      "time": "9:30 AM",
-      "end": "2026-05-01T13:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Kathy\u2019s birthday",
       "date": "2026-05-02",
       "time": null,
@@ -491,7 +481,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-01T12:01:16.869527+00:00",
+  "fetched_at": "2026-05-01T13:54:38.938301+00:00",
   "calendars": [
     "outlook",
     "icloud"
