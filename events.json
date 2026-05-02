@@ -11,26 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Aaron -  check & clean furnace filter ",
-      "date": "2026-05-02",
-      "time": "9:00 AM",
-      "end": "2026-05-02T13:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-05-02",
-      "time": "9:30 AM",
-      "end": "2026-05-02T13:00:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-05-04",
       "time": null,
@@ -501,7 +481,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-05-02T12:36:08.568703+00:00",
+  "fetched_at": "2026-05-02T13:59:46.244934+00:00",
   "calendars": [
     "outlook",
     "icloud"
