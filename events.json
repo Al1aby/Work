@@ -469,9 +469,19 @@
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Recycling day",
+      "date": "2026-06-01",
+      "time": "8:00 AM",
+      "end": "2026-06-01T12:00:00+00:00",
+      "all_day": false,
+      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-02T10:34:59.534249+00:00",
+  "fetched_at": "2026-05-02T11:31:40.967539+00:00",
   "calendars": [
     "outlook",
     "icloud"
