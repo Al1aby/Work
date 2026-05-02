@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Sam and Stephens anniversary ",
-      "date": "2026-04-30",
-      "time": null,
-      "end": "2026-05-02T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Kathy\u2019s birthday",
       "date": "2026-05-02",
       "time": null,
@@ -481,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-02T01:18:43.917497+00:00",
+  "fetched_at": "2026-05-02T04:42:45.047520+00:00",
   "calendars": [
     "outlook",
     "icloud"
