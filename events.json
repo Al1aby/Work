@@ -11,26 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "Massage Treatment with Jen Taylor",
-      "date": "2026-05-04",
-      "time": "6:30 PM",
-      "end": "2026-05-04T22:30:00+00:00",
-      "all_day": false,
-      "location": "Jen Taylor Massage Therapy, 114 Logie Dr, Hampton, NB, E5N 5T2",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Massage Treatment with Jen Taylor",
-      "date": "2026-05-04",
-      "time": "6:30 PM",
-      "end": "2026-05-04T22:30:00+00:00",
-      "all_day": false,
-      "location": "Jen Taylor Massage Therapy, 114 Logie Dr, Hampton, NB, E5N 5T2",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Lana\u2019s birthday",
       "date": "2026-05-05",
       "time": null,
@@ -481,7 +461,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-05-04T21:38:30.221191+00:00",
+  "fetched_at": "2026-05-04T22:41:03.362806+00:00",
   "calendars": [
     "outlook",
     "icloud"
