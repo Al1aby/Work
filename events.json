@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Kathy\u2019s birthday",
-      "date": "2026-05-02",
-      "time": null,
-      "end": "2026-05-04T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-05-04",
       "time": null,
@@ -511,7 +501,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-04T00:04:30.848304+00:00",
+  "fetched_at": "2026-05-04T04:10:11.866447+00:00",
   "calendars": [
     "outlook",
     "icloud"
