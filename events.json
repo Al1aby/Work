@@ -459,9 +459,19 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Pick hello fresh meals",
+      "date": "2026-06-03",
+      "time": "8:00 PM",
+      "end": "2026-06-03T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-04T22:41:03.362806+00:00",
+  "fetched_at": "2026-05-04T23:37:47.908450+00:00",
   "calendars": [
     "outlook",
     "icloud"
