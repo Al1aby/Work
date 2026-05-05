@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "GEM-U Foundations of Materials Testing: Basics",
-      "date": "2026-05-05",
-      "time": "10:00 AM",
-      "end": "2026-05-05T15:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting; D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Marlene's birthday",
       "date": "2026-05-06",
       "time": null,
@@ -471,7 +461,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-05T14:27:51.385113+00:00",
+  "fetched_at": "2026-05-05T16:12:56.176996+00:00",
   "calendars": [
     "outlook",
     "icloud"
