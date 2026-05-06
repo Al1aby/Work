@@ -31,16 +31,6 @@
       "source": "icloud"
     },
     {
-      "title": "Pick hello fresh meals",
-      "date": "2026-05-06",
-      "time": "8:00 PM",
-      "end": "2026-05-06T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-05-07",
       "time": null,
@@ -431,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-06T22:32:45.021067+00:00",
+  "fetched_at": "2026-05-06T23:35:46.883668+00:00",
   "calendars": [
     "outlook",
     "icloud"
