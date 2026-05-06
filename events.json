@@ -31,36 +31,6 @@
       "source": "icloud"
     },
     {
-      "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
-      "date": "2026-05-06",
-      "time": "10:30 AM",
-      "end": "2026-05-06T15:00:00+00:00",
-      "all_day": false,
-      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Town Hall (10:00am EDT; 11:00am ADT; 11:30am NDT)",
-      "date": "2026-05-06",
-      "time": "11:00 AM",
-      "end": "2026-05-06T15:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "GEMTEC In-Person Interview - Krisana MacLeod [In-person]",
-      "date": "2026-05-06",
-      "time": "1:00 PM",
-      "end": "2026-05-06T16:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Pick hello fresh meals",
       "date": "2026-05-06",
       "time": "8:00 PM",
@@ -331,6 +301,16 @@
       "source": "icloud"
     },
     {
+      "title": "Stay",
+      "date": "2026-05-27",
+      "time": null,
+      "end": "2026-05-30T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Pick hello fresh meals",
       "date": "2026-05-27",
       "time": "8:00 PM",
@@ -451,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-06T14:47:55.636387+00:00",
+  "fetched_at": "2026-05-06T16:44:57.036511+00:00",
   "calendars": [
     "outlook",
     "icloud"
