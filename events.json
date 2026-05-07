@@ -31,16 +31,6 @@
       "source": "icloud"
     },
     {
-      "title": "Physio",
-      "date": "2026-05-07",
-      "time": "5:00 PM",
-      "end": "2026-05-07T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-05-09",
       "time": "9:30 AM",
@@ -431,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-07T20:39:11.940280+00:00",
+  "fetched_at": "2026-05-07T21:38:31.397278+00:00",
   "calendars": [
     "outlook",
     "icloud"
