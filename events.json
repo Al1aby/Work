@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Marlene's birthday",
-      "date": "2026-05-06",
-      "time": null,
-      "end": "2026-05-08T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure in office ",
-      "date": "2026-05-06",
-      "time": null,
-      "end": "2026-05-08T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-05-07",
       "time": null,
@@ -431,7 +411,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-08T01:26:05.388558+00:00",
+  "fetched_at": "2026-05-08T04:40:15.432196+00:00",
   "calendars": [
     "outlook",
     "icloud"
