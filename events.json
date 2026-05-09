@@ -399,9 +399,19 @@
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-06-08",
+      "time": "9:00 AM",
+      "end": "2026-06-08T12:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-05-09T11:11:50.212800+00:00",
+  "fetched_at": "2026-05-09T12:03:17.269880+00:00",
   "calendars": [
     "outlook",
     "icloud"
