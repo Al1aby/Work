@@ -11,26 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-05-11",
-      "time": "9:00 AM",
-      "end": "2026-05-11T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-05-11",
-      "time": "9:30 AM",
-      "end": "2026-05-11T13:00:00+00:00",
-      "all_day": false,
-      "location": "D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Compost day ",
       "date": "2026-05-12",
       "time": "8:00 AM",
@@ -59,6 +39,16 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Gemtec/Pivot/Greenwich meeting - Geotechnical Study",
+      "date": "2026-05-14",
+      "time": "11:30 AM",
+      "end": "2026-05-14T15:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Katie symperica",
@@ -431,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-11T12:13:58.412350+00:00",
+  "fetched_at": "2026-05-11T15:40:40.430080+00:00",
   "calendars": [
     "outlook",
     "icloud"
