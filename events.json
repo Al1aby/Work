@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "NCC meeting",
-      "date": "2026-05-11",
-      "time": "7:00 PM",
-      "end": "2026-05-11T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Compost day ",
       "date": "2026-05-12",
       "time": "8:00 AM",
@@ -429,9 +419,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Pick hello fresh meals",
+      "date": "2026-06-10",
+      "time": "8:00 PM",
+      "end": "2026-06-10T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-11T22:33:20.805121+00:00",
+  "fetched_at": "2026-05-11T23:41:09.549214+00:00",
   "calendars": [
     "outlook",
     "icloud"
