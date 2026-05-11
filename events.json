@@ -351,6 +351,16 @@
       "source": "outlook"
     },
     {
+      "title": "Katie vet ",
+      "date": "2026-06-03",
+      "time": "10:30 AM",
+      "end": "2026-06-03T14:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Pick hello fresh meals",
       "date": "2026-06-03",
       "time": "8:00 PM",
@@ -421,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-11T17:45:28.004402+00:00",
+  "fetched_at": "2026-05-11T19:53:33.900195+00:00",
   "calendars": [
     "outlook",
     "icloud"
