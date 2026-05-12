@@ -429,9 +429,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Branch Manager Call",
+      "date": "2026-06-11",
+      "time": "2:00 PM",
+      "end": "2026-06-11T18:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-05-12T15:33:06.319780+00:00",
+  "fetched_at": "2026-05-12T17:49:28.066846+00:00",
   "calendars": [
     "outlook",
     "icloud"
