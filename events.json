@@ -1,6 +1,16 @@
 {
   "events": [
     {
+      "title": "Materials Technician Update/Requirements",
+      "date": "2026-05-13",
+      "time": "11:30 AM",
+      "end": "2026-05-13T15:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Hair appt",
       "date": "2026-05-13",
       "time": "7:30 PM",
@@ -421,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-12T12:30:28.937862+00:00",
+  "fetched_at": "2026-05-12T15:33:06.319780+00:00",
   "calendars": [
     "outlook",
     "icloud"
