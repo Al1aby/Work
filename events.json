@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Gemtec/Pivot/Greenwich meeting - Geotechnical Study",
-      "date": "2026-05-14",
-      "time": "11:30 AM",
-      "end": "2026-05-14T15:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Katie symperica",
       "date": "2026-05-14",
       "time": "8:00 PM",
@@ -431,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-14T14:42:13.243181+00:00",
+  "fetched_at": "2026-05-14T16:51:28.072698+00:00",
   "calendars": [
     "outlook",
     "icloud"
