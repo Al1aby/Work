@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Hair appt",
-      "date": "2026-05-13",
-      "time": "7:30 PM",
-      "end": "2026-05-13T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Pick hello fresh meals",
-      "date": "2026-05-13",
-      "time": "8:00 PM",
-      "end": "2026-05-13T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Gemtec/Pivot/Greenwich meeting - Geotechnical Study",
       "date": "2026-05-14",
       "time": "11:30 AM",
@@ -441,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-13T23:07:48.945815+00:00",
+  "fetched_at": "2026-05-14T00:15:48.113759+00:00",
   "calendars": [
     "outlook",
     "icloud"
