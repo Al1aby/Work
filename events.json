@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Katie symperica",
-      "date": "2026-05-14",
-      "time": "8:00 PM",
-      "end": "2026-05-15T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Supper and concert?",
       "date": "2026-05-16",
       "time": "5:00 PM",
@@ -431,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-14T23:00:01.928761+00:00",
+  "fetched_at": "2026-05-15T00:06:23.905227+00:00",
   "calendars": [
     "outlook",
     "icloud"
