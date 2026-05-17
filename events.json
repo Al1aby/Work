@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Supper and concert?",
-      "date": "2026-05-16",
-      "time": "5:00 PM",
-      "end": "2026-05-17T03:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-05-18",
       "time": null,
@@ -421,6 +411,16 @@
       "source": "icloud"
     },
     {
+      "title": "Pay day",
+      "date": "2026-06-15",
+      "time": null,
+      "end": "2026-06-17T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Recycling day",
       "date": "2026-06-15",
       "time": "8:00 AM",
@@ -451,7 +451,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-05-16T23:56:48.410324+00:00",
+  "fetched_at": "2026-05-17T04:11:51.298026+00:00",
   "calendars": [
     "outlook",
     "icloud"
