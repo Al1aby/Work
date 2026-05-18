@@ -11,16 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure therapy",
-      "date": "2026-05-18",
-      "time": "5:00 PM",
-      "end": "2026-05-18T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Garbage day",
       "date": "2026-05-19",
       "time": "8:00 AM",
@@ -431,7 +421,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-05-18T20:47:57.397091+00:00",
+  "fetched_at": "2026-05-18T22:05:38.240276+00:00",
   "calendars": [
     "outlook",
     "icloud"
