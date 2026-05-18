@@ -341,16 +341,6 @@
       "source": "outlook"
     },
     {
-      "title": "Winston dentist ",
-      "date": "2026-06-12",
-      "time": "8:50 AM",
-      "end": "2026-06-12T12:50:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Fam vacay",
       "date": "2026-06-13",
       "time": "4:00 PM",
@@ -441,7 +431,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-05-18T19:12:53.579069+00:00",
+  "fetched_at": "2026-05-18T20:47:57.397091+00:00",
   "calendars": [
     "outlook",
     "icloud"
