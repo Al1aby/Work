@@ -171,6 +171,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure therapy ",
+      "date": "2026-06-01",
+      "time": "6:00 PM",
+      "end": "2026-06-01T22:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Recycling day",
       "date": "2026-06-01",
       "time": "8:00 AM",
@@ -431,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-18T23:19:23.806344+00:00",
+  "fetched_at": "2026-05-19T01:30:03.685848+00:00",
   "calendars": [
     "outlook",
     "icloud"
