@@ -11,16 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "House cleaning ",
-      "date": "2026-05-19",
-      "time": "8:30 AM",
-      "end": "2026-05-19T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
       "date": "2026-05-20",
       "time": "10:30 AM",
@@ -271,6 +261,16 @@
       "source": "icloud"
     },
     {
+      "title": "Doctors appt ",
+      "date": "2026-06-08",
+      "time": "2:45 AM",
+      "end": "2026-06-08T06:15:00+00:00",
+      "all_day": false,
+      "location": "Chelsey drive ",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "NCC meeting",
       "date": "2026-06-08",
       "time": "7:00 PM",
@@ -431,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-19T12:43:34.965523+00:00",
+  "fetched_at": "2026-05-19T16:03:52.061311+00:00",
   "calendars": [
     "outlook",
     "icloud"
