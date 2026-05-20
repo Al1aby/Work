@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Lab Program Changes - Annual Discussion",
-      "date": "2026-05-20",
-      "time": "2:30 PM",
-      "end": "2026-05-20T18:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Pick hello fresh meals",
       "date": "2026-05-20",
       "time": "8:00 PM",
@@ -481,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-20T17:40:53.990411+00:00",
+  "fetched_at": "2026-05-20T19:54:36.224472+00:00",
   "calendars": [
     "outlook",
     "icloud"
