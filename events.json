@@ -41,6 +41,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-05-21",
+      "time": null,
+      "end": "2026-05-23T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "P&C Drop-in Sessions",
       "date": "2026-05-21",
       "time": "2:30 PM",
@@ -461,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-20T11:30:34.097128+00:00",
+  "fetched_at": "2026-05-20T14:18:26.153368+00:00",
   "calendars": [
     "outlook",
     "icloud"
