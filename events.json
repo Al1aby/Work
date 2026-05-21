@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Pick hello fresh meals",
-      "date": "2026-05-20",
-      "time": "8:00 PM",
-      "end": "2026-05-20T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-05-21",
       "time": null,
@@ -471,7 +461,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-20T23:23:11.936621+00:00",
+  "fetched_at": "2026-05-21T01:31:40.573176+00:00",
   "calendars": [
     "outlook",
     "icloud"
