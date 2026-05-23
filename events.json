@@ -431,6 +431,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure therapy ",
+      "date": "2026-06-22",
+      "time": "7:00 PM",
+      "end": "2026-06-22T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-06-22",
       "time": "9:00 AM",
@@ -451,7 +461,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-05-23T21:27:26.460972+00:00",
+  "fetched_at": "2026-05-23T22:27:55.235312+00:00",
   "calendars": [
     "outlook",
     "icloud"
