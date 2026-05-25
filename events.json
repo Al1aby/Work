@@ -479,9 +479,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Scott flight in ",
+      "date": "2026-06-24",
+      "time": "3:55 PM",
+      "end": "2026-06-24T19:55:00+00:00",
+      "all_day": false,
+      "location": "Saint John Airport\n4180 Loch Lomond Rd, St. John NB E2N 1L7, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-25T18:16:30.953687+00:00",
+  "fetched_at": "2026-05-25T20:09:50.446190+00:00",
   "calendars": [
     "outlook",
     "icloud"
