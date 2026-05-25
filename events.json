@@ -489,9 +489,19 @@
       "location": "Saint John Airport\n4180 Loch Lomond Rd, St. John NB E2N 1L7, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Pick hello fresh meals",
+      "date": "2026-06-24",
+      "time": "8:00 PM",
+      "end": "2026-06-24T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-25T22:42:39.463549+00:00",
+  "fetched_at": "2026-05-25T23:48:23.939970+00:00",
   "calendars": [
     "outlook",
     "icloud"
