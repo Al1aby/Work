@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Physio",
-      "date": "2026-05-26",
-      "time": "5:00 PM",
-      "end": "2026-05-26T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Stay",
       "date": "2026-05-27",
       "time": null,
@@ -491,7 +481,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-26T19:46:45.230232+00:00",
+  "fetched_at": "2026-05-26T21:48:21.906112+00:00",
   "calendars": [
     "outlook",
     "icloud"
