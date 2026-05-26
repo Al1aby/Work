@@ -181,6 +181,16 @@
       "source": "icloud"
     },
     {
+      "title": "Physio ",
+      "date": "2026-06-04",
+      "time": "5:00 PM",
+      "end": "2026-06-04T21:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-06-06",
       "time": "9:00 AM",
@@ -481,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-26T21:48:21.906112+00:00",
+  "fetched_at": "2026-05-26T23:12:42.851695+00:00",
   "calendars": [
     "outlook",
     "icloud"
