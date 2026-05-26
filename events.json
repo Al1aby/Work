@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Compost day ",
-      "date": "2026-05-26",
-      "time": "8:00 AM",
-      "end": "2026-05-26T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Stay",
       "date": "2026-05-27",
       "time": null,
@@ -491,7 +481,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-26T07:56:42.867168+00:00",
+  "fetched_at": "2026-05-26T14:18:32.430842+00:00",
   "calendars": [
     "outlook",
     "icloud"
