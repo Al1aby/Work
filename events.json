@@ -479,9 +479,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Laure dentist ",
+      "date": "2026-06-25",
+      "time": "3:40 PM",
+      "end": "2026-06-25T19:40:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-26T17:43:04.575709+00:00",
+  "fetched_at": "2026-05-26T19:46:45.230232+00:00",
   "calendars": [
     "outlook",
     "icloud"
