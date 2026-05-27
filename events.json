@@ -61,6 +61,16 @@
       "source": "icloud"
     },
     {
+      "title": "Lab Program Phase Numbers",
+      "date": "2026-05-29",
+      "time": "9:30 AM",
+      "end": "2026-05-29T13:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-05-30",
       "time": "9:30 AM",
@@ -127,6 +137,16 @@
       "end": "2026-06-01T13:00:00+00:00",
       "all_day": false,
       "location": "D.P. DeMerchant Room; Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Howes Lake Landfill - 2026 Closure Kick-off meeting",
+      "date": "2026-06-02",
+      "time": "11:00 AM",
+      "end": "2026-06-02T15:00:00+00:00",
+      "all_day": false,
+      "location": null,
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -471,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-27T16:12:43.897297+00:00",
+  "fetched_at": "2026-05-27T18:35:07.106383+00:00",
   "calendars": [
     "outlook",
     "icloud"
