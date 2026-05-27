@@ -11,26 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "2026 Asphalt Resurfacing Mix Design",
-      "date": "2026-05-27",
-      "time": "3:00 PM",
-      "end": "2026-05-27T19:00:00+00:00",
-      "all_day": false,
-      "location": "RESOURCE - RA 2nd Floor Boardroom Hybrid Enabled",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Pickup rental",
-      "date": "2026-05-27",
-      "time": "4:00 PM",
-      "end": "2026-05-27T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Jds birthday",
       "date": "2026-05-29",
       "time": null,
@@ -491,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-27T18:35:07.106383+00:00",
+  "fetched_at": "2026-05-27T20:55:12.579277+00:00",
   "calendars": [
     "outlook",
     "icloud"
