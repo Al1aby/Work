@@ -11,32 +11,22 @@
       "source": "icloud"
     },
     {
+      "title": "2026 Asphalt Resurfacing Mix Design",
+      "date": "2026-05-27",
+      "time": "3:00 PM",
+      "end": "2026-05-27T19:00:00+00:00",
+      "all_day": false,
+      "location": "RESOURCE - RA 2nd Floor Boardroom Hybrid Enabled",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Pickup rental",
       "date": "2026-05-27",
       "time": "4:00 PM",
       "end": "2026-05-27T20:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Pick hello fresh meals",
-      "date": "2026-05-27",
-      "time": "8:00 PM",
-      "end": "2026-05-27T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Car breaks",
-      "date": "2026-05-28",
-      "time": "8:00 AM",
-      "end": "2026-05-28T19:00:00+00:00",
-      "all_day": false,
-      "location": "King Mazda\n440 Rothesay Ave, Saint John NB E2L 4G7, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -49,6 +39,16 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "GBW PWG- Over Excavation Review Meeting",
+      "date": "2026-05-29",
+      "time": "1:00 PM",
+      "end": "2026-05-29T17:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Concert and diner",
@@ -79,6 +79,16 @@
       "location": null,
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Laure in office ",
+      "date": "2026-06-01",
+      "time": null,
+      "end": "2026-06-03T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Laure therapy ",
@@ -141,6 +151,16 @@
       "source": "icloud"
     },
     {
+      "title": "Car breaks",
+      "date": "2026-06-02",
+      "time": "9:00 AM",
+      "end": "2026-06-02T19:00:00+00:00",
+      "all_day": false,
+      "location": "King Mazda\n440 Rothesay Ave, Saint John NB E2L 4G7, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Allergy follow up",
       "date": "2026-06-02",
       "time": "9:45 AM",
@@ -165,16 +185,6 @@
       "date": "2026-06-03",
       "time": "10:30 AM",
       "end": "2026-06-03T14:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Pick hello fresh meals",
-      "date": "2026-06-03",
-      "time": "8:00 PM",
-      "end": "2026-06-03T23:30:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -291,16 +301,6 @@
       "source": "icloud"
     },
     {
-      "title": "Pick hello fresh meals",
-      "date": "2026-06-10",
-      "time": "8:00 PM",
-      "end": "2026-06-10T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Branch Manager Call",
       "date": "2026-06-11",
       "time": "2:00 PM",
@@ -401,16 +401,6 @@
       "source": "outlook"
     },
     {
-      "title": "Pick hello fresh meals",
-      "date": "2026-06-17",
-      "time": "8:00 PM",
-      "end": "2026-06-17T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure therapy ",
       "date": "2026-06-22",
       "time": "7:00 PM",
@@ -471,16 +461,6 @@
       "source": "icloud"
     },
     {
-      "title": "Pick hello fresh meals",
-      "date": "2026-06-24",
-      "time": "8:00 PM",
-      "end": "2026-06-24T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure dentist ",
       "date": "2026-06-25",
       "time": "3:40 PM",
@@ -491,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-27T12:01:19.211736+00:00",
+  "fetched_at": "2026-05-27T16:12:43.897297+00:00",
   "calendars": [
     "outlook",
     "icloud"
