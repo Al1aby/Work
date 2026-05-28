@@ -469,9 +469,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Sheels are here!",
+      "date": "2026-06-27",
+      "time": "4:00 PM",
+      "end": "2026-07-11T20:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-28T18:43:21.214566+00:00",
+  "fetched_at": "2026-05-28T21:00:09.570158+00:00",
   "calendars": [
     "outlook",
     "icloud"
