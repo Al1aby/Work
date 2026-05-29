@@ -21,26 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "GBW PWG- Over Excavation Review Meeting",
-      "date": "2026-05-29",
-      "time": "1:00 PM",
-      "end": "2026-05-29T17:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Lab Program Phase Numbers",
-      "date": "2026-05-29",
-      "time": "3:00 PM",
-      "end": "2026-05-29T18:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Concert and diner",
       "date": "2026-05-29",
       "time": "5:00 PM",
@@ -479,9 +459,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Win party ",
+      "date": "2026-06-28",
+      "time": "2:30 PM",
+      "end": "2026-06-28T21:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-29T15:48:46.839995+00:00",
+  "fetched_at": "2026-05-29T18:37:05.109893+00:00",
   "calendars": [
     "outlook",
     "icloud"
