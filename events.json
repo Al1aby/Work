@@ -31,6 +31,16 @@
       "source": "outlook"
     },
     {
+      "title": "Lab Program Phase Numbers",
+      "date": "2026-05-29",
+      "time": "3:00 PM",
+      "end": "2026-05-29T18:30:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Concert and diner",
       "date": "2026-05-29",
       "time": "5:00 PM",
@@ -39,16 +49,6 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
-    },
-    {
-      "title": "Lab Program Phase Numbers",
-      "date": "2026-05-29",
-      "time": "9:30 AM",
-      "end": "2026-05-29T13:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
     },
     {
       "title": "Winnie swim \ud83c\udf0a",
@@ -481,7 +481,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-05-29T08:24:35.222631+00:00",
+  "fetched_at": "2026-05-29T11:47:18.256272+00:00",
   "calendars": [
     "outlook",
     "icloud"
