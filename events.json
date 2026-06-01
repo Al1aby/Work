@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Laure therapy ",
-      "date": "2026-06-01",
-      "time": "6:00 PM",
-      "end": "2026-06-01T22:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Howes Lake Landfill - 2026 Closure Kick-off meeting",
       "date": "2026-06-02",
       "time": "11:00 AM",
@@ -481,7 +471,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-01T20:06:11.194594+00:00",
+  "fetched_at": "2026-06-01T22:37:16.667962+00:00",
   "calendars": [
     "outlook",
     "icloud"
