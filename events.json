@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Howes Lake Landfill - 2026 Closure Kick-off meeting",
-      "date": "2026-06-02",
-      "time": "11:00 AM",
-      "end": "2026-06-02T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Massage Treatment with Jen Taylor",
       "date": "2026-06-02",
       "time": "6:30 PM",
@@ -47,16 +37,6 @@
       "end": "2026-06-02T19:00:00+00:00",
       "all_day": false,
       "location": "King Mazda\n440 Rothesay Ave, Saint John NB E2L 4G7, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Allergy follow up",
-      "date": "2026-06-02",
-      "time": "9:45 AM",
-      "end": "2026-06-02T13:15:00+00:00",
-      "all_day": false,
-      "location": "Phone call",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -461,7 +441,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-02T12:51:59.045733+00:00",
+  "fetched_at": "2026-06-02T17:26:09.834970+00:00",
   "calendars": [
     "outlook",
     "icloud"
