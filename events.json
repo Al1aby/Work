@@ -141,6 +141,16 @@
       "source": "icloud"
     },
     {
+      "title": "Katie kennel - 9am drop, 4pm pickup ",
+      "date": "2026-06-13",
+      "time": "9:00 AM",
+      "end": "2026-06-20T19:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-06-13",
       "time": "9:30 AM",
@@ -401,7 +411,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-03T19:08:32.808517+00:00",
+  "fetched_at": "2026-06-03T22:05:59.604825+00:00",
   "calendars": [
     "outlook",
     "icloud"
