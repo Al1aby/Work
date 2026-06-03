@@ -41,6 +41,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-06-08",
+      "time": null,
+      "end": "2026-06-10T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Doctors appt ",
       "date": "2026-06-08",
       "time": "2:45 AM",
@@ -391,7 +401,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-03T15:18:40.900707+00:00",
+  "fetched_at": "2026-06-03T19:08:32.808517+00:00",
   "calendars": [
     "outlook",
     "icloud"
