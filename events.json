@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Physio ",
-      "date": "2026-06-04",
-      "time": "5:00 PM",
-      "end": "2026-06-04T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Mcbrien Lake ",
       "date": "2026-06-05",
       "time": "9:00 AM",
@@ -441,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-04T20:33:36.725643+00:00",
+  "fetched_at": "2026-06-04T22:11:56.936828+00:00",
   "calendars": [
     "outlook",
     "icloud"
