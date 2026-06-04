@@ -231,6 +231,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-06-22",
+      "time": null,
+      "end": "2026-06-24T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Laure therapy ",
       "date": "2026-06-22",
       "time": "7:00 PM",
@@ -259,6 +269,16 @@
       "location": "D.P. DeMerchant Room; Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Laure physio",
+      "date": "2026-06-23",
+      "time": "5:00 PM",
+      "end": "2026-06-23T21:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Compost day ",
@@ -431,7 +451,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-04T22:11:56.936828+00:00",
+  "fetched_at": "2026-06-04T23:38:59.079300+00:00",
   "calendars": [
     "outlook",
     "icloud"
