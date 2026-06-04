@@ -11,6 +11,16 @@
       "source": "icloud"
     },
     {
+      "title": "Mcbrien Lake ",
+      "date": "2026-06-05",
+      "time": "9:00 AM",
+      "end": "2026-06-05T12:30:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-06-06",
       "time": "9:00 AM",
@@ -281,6 +291,16 @@
       "source": "icloud"
     },
     {
+      "title": "Katie nails - 845",
+      "date": "2026-06-24",
+      "time": "8:30 AM",
+      "end": "2026-06-24T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Laure dentist ",
       "date": "2026-06-25",
       "time": "3:40 PM",
@@ -421,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-04T12:19:58.248067+00:00",
+  "fetched_at": "2026-06-04T15:59:40.760825+00:00",
   "calendars": [
     "outlook",
     "icloud"
