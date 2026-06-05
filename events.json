@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Mcbrien Lake ",
-      "date": "2026-06-05",
-      "time": "9:00 AM",
-      "end": "2026-06-05T12:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-06-06",
       "time": "9:00 AM",
@@ -451,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-05T10:33:43.513745+00:00",
+  "fetched_at": "2026-06-05T13:43:42.928891+00:00",
   "calendars": [
     "outlook",
     "icloud"
