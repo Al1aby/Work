@@ -23,8 +23,8 @@
     {
       "title": "Doctors appt ",
       "date": "2026-06-08",
-      "time": "2:45 AM",
-      "end": "2026-06-08T06:15:00+00:00",
+      "time": "2:45 PM",
+      "end": "2026-06-08T18:15:00+00:00",
       "all_day": false,
       "location": "Chelsey drive ",
       "calendar": "Laure and Aaron ",
@@ -77,6 +77,16 @@
       "end": "2026-06-09T12:00:00+00:00",
       "all_day": false,
       "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Saint John Regional Hospital - Lab ",
+      "date": "2026-06-10",
+      "time": "3:30 PM",
+      "end": "2026-06-10T18:45:00+00:00",
+      "all_day": false,
+      "location": "Saint John Regional Hospital (400 University Ave, Saint John NB E2L 4L4, Canada)",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -461,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-07T22:07:22.832539+00:00",
+  "fetched_at": "2026-06-07T23:19:24.351776+00:00",
   "calendars": [
     "outlook",
     "icloud"
