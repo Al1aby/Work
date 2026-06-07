@@ -421,6 +421,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in Fredericton",
+      "date": "2026-07-06",
+      "time": null,
+      "end": "2026-07-08T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-07-06",
       "time": "9:00 AM",
@@ -441,7 +451,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-07T01:37:53.899559+00:00",
+  "fetched_at": "2026-06-07T06:08:19.382645+00:00",
   "calendars": [
     "outlook",
     "icloud"
