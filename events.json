@@ -449,9 +449,19 @@
       "location": "D.P. DeMerchant Room; Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Compost day ",
+      "date": "2026-07-07",
+      "time": "8:00 AM",
+      "end": "2026-07-07T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-07T09:39:52.658822+00:00",
+  "fetched_at": "2026-06-07T11:27:03.736101+00:00",
   "calendars": [
     "outlook",
     "icloud"
