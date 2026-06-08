@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Doctors appt ",
-      "date": "2026-06-08",
-      "time": "2:45 PM",
-      "end": "2026-06-08T18:15:00+00:00",
-      "all_day": false,
-      "location": "Chelsey drive ",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "NCC meeting",
       "date": "2026-06-08",
       "time": "7:00 PM",
@@ -451,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-08T18:05:40.256393+00:00",
+  "fetched_at": "2026-06-08T20:33:51.543973+00:00",
   "calendars": [
     "outlook",
     "icloud"
