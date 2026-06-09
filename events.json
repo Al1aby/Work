@@ -141,6 +141,16 @@
       "source": "icloud"
     },
     {
+      "title": "GEMTEC Strategic Plan Update",
+      "date": "2026-06-17",
+      "time": "10:00 AM",
+      "end": "2026-06-17T14:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
       "date": "2026-06-17",
       "time": "10:30 AM",
@@ -149,6 +159,16 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "House cleaning ",
+      "date": "2026-06-18",
+      "time": "8:30 AM",
+      "end": "2026-06-18T15:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Laure in office ",
@@ -331,16 +351,6 @@
       "source": "icloud"
     },
     {
-      "title": "House cleaning ",
-      "date": "2026-06-30",
-      "time": "8:30 AM",
-      "end": "2026-06-30T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
       "date": "2026-07-01",
       "time": "10:30 AM",
@@ -411,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-09T18:59:20.494225+00:00",
+  "fetched_at": "2026-06-09T21:04:43.519608+00:00",
   "calendars": [
     "outlook",
     "icloud"
