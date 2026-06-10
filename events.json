@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Regional Hospital - Lab ",
-      "date": "2026-06-10",
-      "time": "4:30 PM",
-      "end": "2026-06-10T19:45:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Quick De-brief of Dallas/Municipal Engineer",
       "date": "2026-06-11",
       "time": "10:30 AM",
@@ -221,6 +211,16 @@
       "source": "outlook"
     },
     {
+      "title": "Scott flight in ",
+      "date": "2026-06-23",
+      "time": "3:55 PM",
+      "end": "2026-06-23T19:55:00+00:00",
+      "all_day": false,
+      "location": "Saint John Airport\n4180 Loch Lomond Rd, St. John NB E2N 1L7, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Laure physio",
       "date": "2026-06-23",
       "time": "5:00 PM",
@@ -237,16 +237,6 @@
       "end": "2026-06-23T12:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Scott flight in ",
-      "date": "2026-06-24",
-      "time": "3:55 PM",
-      "end": "2026-06-24T19:55:00+00:00",
-      "all_day": false,
-      "location": "Saint John Airport\n4180 Loch Lomond Rd, St. John NB E2N 1L7, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -431,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-10T19:14:14.483692+00:00",
+  "fetched_at": "2026-06-10T21:30:40.160139+00:00",
   "calendars": [
     "outlook",
     "icloud"
