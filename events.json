@@ -2,16 +2,6 @@
   "events": [
     {
       "title": "Laure in office ",
-      "date": "2026-06-08",
-      "time": null,
-      "end": "2026-06-10T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure in office ",
       "date": "2026-06-09",
       "time": null,
       "end": "2026-06-11T00:00:00+00:00",
@@ -421,7 +411,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-10T00:18:08.527939+00:00",
+  "fetched_at": "2026-06-10T05:00:06.665126+00:00",
   "calendars": [
     "outlook",
     "icloud"
