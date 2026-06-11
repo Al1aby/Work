@@ -1,30 +1,10 @@
 {
   "events": [
     {
-      "title": "Quick De-brief of Dallas/Municipal Engineer",
-      "date": "2026-06-11",
-      "time": "10:30 AM",
-      "end": "2026-06-11T13:45:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Branch Manager Call",
       "date": "2026-06-11",
       "time": "2:00 PM",
       "end": "2026-06-11T18:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Municipal Engineer Opportunity with GEMTEC",
-      "date": "2026-06-11",
-      "time": "9:00 AM",
-      "end": "2026-06-11T13:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
@@ -321,6 +301,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure dr appt",
+      "date": "2026-06-30",
+      "time": "2:30 PM",
+      "end": "2026-06-30T18:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Massage Treatment with Jen Taylor",
       "date": "2026-06-30",
       "time": "6:30 PM",
@@ -411,7 +401,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-11T11:12:18.775083+00:00",
+  "fetched_at": "2026-06-11T14:56:19.208009+00:00",
   "calendars": [
     "outlook",
     "icloud"
