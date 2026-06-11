@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Branch Manager Call",
-      "date": "2026-06-11",
-      "time": "2:00 PM",
-      "end": "2026-06-11T18:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Fam vacay",
       "date": "2026-06-13",
       "time": "4:00 PM",
@@ -401,7 +391,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-11T14:56:19.208009+00:00",
+  "fetched_at": "2026-06-11T18:21:19.416051+00:00",
   "calendars": [
     "outlook",
     "icloud"
