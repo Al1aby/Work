@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in office ",
-      "date": "2026-06-09",
-      "time": null,
-      "end": "2026-06-11T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Quick De-brief of Dallas/Municipal Engineer",
       "date": "2026-06-11",
       "time": "10:30 AM",
@@ -421,7 +411,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-11T01:42:48.004185+00:00",
+  "fetched_at": "2026-06-11T06:27:54.097770+00:00",
   "calendars": [
     "outlook",
     "icloud"
