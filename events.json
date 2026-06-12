@@ -191,6 +191,16 @@
       "source": "icloud"
     },
     {
+      "title": "Municipal Engineer Opportunity with GEMTEC",
+      "date": "2026-06-23",
+      "time": "8:00 AM",
+      "end": "2026-06-23T11:30:00+00:00",
+      "all_day": false,
+      "location": "589 Rothesay Ave, Saint John New Brunswick E2H 2G9, Canada",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Compost day ",
       "date": "2026-06-23",
       "time": "8:00 AM",
@@ -391,7 +401,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-12T15:58:23.102653+00:00",
+  "fetched_at": "2026-06-12T18:14:51.110415+00:00",
   "calendars": [
     "outlook",
     "icloud"
