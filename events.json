@@ -399,9 +399,29 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Recycling day",
+      "date": "2026-07-13",
+      "time": "8:00 AM",
+      "end": "2026-07-13T12:00:00+00:00",
+      "all_day": false,
+      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-07-13",
+      "time": "9:00 AM",
+      "end": "2026-07-13T12:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-13T10:35:12.086493+00:00",
+  "fetched_at": "2026-06-13T12:15:26.564708+00:00",
   "calendars": [
     "outlook",
     "icloud"
