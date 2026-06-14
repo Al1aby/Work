@@ -391,6 +391,16 @@
       "source": "icloud"
     },
     {
+      "title": "Pay day",
+      "date": "2026-07-13",
+      "time": null,
+      "end": "2026-07-15T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "NCC meeting",
       "date": "2026-07-13",
       "time": "7:00 PM",
@@ -431,7 +441,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-14T02:01:29.052954+00:00",
+  "fetched_at": "2026-06-14T06:57:31.272009+00:00",
   "calendars": [
     "outlook",
     "icloud"
