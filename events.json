@@ -441,6 +441,16 @@
       "source": "outlook"
     },
     {
+      "title": "Quarterly Meeting - Saint John Branch",
+      "date": "2026-07-14",
+      "time": "1:30 PM",
+      "end": "2026-07-14T17:00:00+00:00",
+      "all_day": false,
+      "location": "Fundy Coast Room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Garbage day",
       "date": "2026-07-14",
       "time": "8:00 AM",
@@ -451,7 +461,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-14T16:25:32.789952+00:00",
+  "fetched_at": "2026-06-14T17:58:16.308057+00:00",
   "calendars": [
     "outlook",
     "icloud"
