@@ -161,6 +161,16 @@
       "source": "icloud"
     },
     {
+      "title": "Finance Drop-In Session \u2013 Kickoff Invite (June 25th)\u00a0",
+      "date": "2026-06-25",
+      "time": "10:00 AM",
+      "end": "2026-06-25T14:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Laure dentist ",
       "date": "2026-06-25",
       "time": "3:40 PM",
@@ -441,7 +451,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-16T15:34:08.982219+00:00",
+  "fetched_at": "2026-06-16T19:23:05.215946+00:00",
   "calendars": [
     "outlook",
     "icloud"
