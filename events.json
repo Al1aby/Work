@@ -41,16 +41,6 @@
       "source": "outlook"
     },
     {
-      "title": "Garbage day",
-      "date": "2026-06-16",
-      "time": "8:00 AM",
-      "end": "2026-06-16T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "GEMTEC Strategic Plan Update",
       "date": "2026-06-17",
       "time": "10:00 AM",
@@ -451,7 +441,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-16T10:31:55.669267+00:00",
+  "fetched_at": "2026-06-16T15:34:08.982219+00:00",
   "calendars": [
     "outlook",
     "icloud"
