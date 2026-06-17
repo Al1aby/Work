@@ -31,26 +31,6 @@
       "source": "outlook"
     },
     {
-      "title": "GEMTEC Strategic Plan Update",
-      "date": "2026-06-17",
-      "time": "10:00 AM",
-      "end": "2026-06-17T14:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "BY461A Central Peninsula K-8 School - Coordination meeting",
-      "date": "2026-06-17",
-      "time": "10:30 AM",
-      "end": "2026-06-17T15:00:00+00:00",
-      "all_day": false,
-      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "House cleaning ",
       "date": "2026-06-18",
       "time": "8:30 AM",
@@ -351,6 +331,16 @@
       "source": "outlook"
     },
     {
+      "title": "Quarterly Meeting - Saint John Branch",
+      "date": "2026-07-13",
+      "time": "1:30 PM",
+      "end": "2026-07-13T17:00:00+00:00",
+      "all_day": false,
+      "location": "Fundy Coast Room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "NCC meeting",
       "date": "2026-07-13",
       "time": "7:00 PM",
@@ -387,16 +377,6 @@
       "end": "2026-07-13T13:00:00+00:00",
       "all_day": false,
       "location": "D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Quarterly Meeting - Saint John Branch",
-      "date": "2026-07-14",
-      "time": "1:30 PM",
-      "end": "2026-07-14T17:00:00+00:00",
-      "all_day": false,
-      "location": "Fundy Coast Room",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -441,7 +421,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-17T13:00:56.788983+00:00",
+  "fetched_at": "2026-06-17T16:43:52.509919+00:00",
   "calendars": [
     "outlook",
     "icloud"
