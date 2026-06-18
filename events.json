@@ -419,9 +419,19 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Moonlight bazar ",
+      "date": "2026-07-17",
+      "time": null,
+      "end": "2026-07-19T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-18T00:24:27.234590+00:00",
+  "fetched_at": "2026-06-18T05:19:10.322229+00:00",
   "calendars": [
     "outlook",
     "icloud"
