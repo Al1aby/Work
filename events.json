@@ -31,16 +31,6 @@
       "source": "outlook"
     },
     {
-      "title": "House cleaning ",
-      "date": "2026-06-18",
-      "time": "8:30 AM",
-      "end": "2026-06-18T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-06-22",
       "time": null,
@@ -431,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-18T13:30:52.145454+00:00",
+  "fetched_at": "2026-06-18T16:46:24.097008+00:00",
   "calendars": [
     "outlook",
     "icloud"
