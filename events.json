@@ -121,6 +121,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in Fredericton - rental ",
+      "date": "2026-06-26",
+      "time": "7:00 PM",
+      "end": "2026-06-26T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Sheels are here!",
       "date": "2026-06-27",
       "time": "4:00 PM",
@@ -421,7 +431,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-20T22:15:14.004006+00:00",
+  "fetched_at": "2026-06-20T23:45:24.167045+00:00",
   "calendars": [
     "outlook",
     "icloud"
