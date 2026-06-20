@@ -241,6 +241,16 @@
       "source": "icloud"
     },
     {
+      "title": "Ultrasound ",
+      "date": "2026-07-02",
+      "time": "2:30 PM",
+      "end": "2026-07-02T18:30:00+00:00",
+      "all_day": false,
+      "location": "Regional",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-07-04",
       "time": "9:00 AM",
@@ -421,7 +431,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-20T16:07:44.577348+00:00",
+  "fetched_at": "2026-06-20T17:48:17.428903+00:00",
   "calendars": [
     "outlook",
     "icloud"
