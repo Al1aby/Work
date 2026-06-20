@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Katie kennel - 9am drop, 4pm pickup ",
-      "date": "2026-06-13",
-      "time": "9:00 AM",
-      "end": "2026-06-20T19:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "vacation",
       "date": "2026-06-14",
       "time": null,
@@ -431,7 +421,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-20T17:48:17.428903+00:00",
+  "fetched_at": "2026-06-20T19:42:22.905599+00:00",
   "calendars": [
     "outlook",
     "icloud"
