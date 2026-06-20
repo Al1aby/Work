@@ -409,9 +409,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-07-20",
+      "time": "9:00 AM",
+      "end": "2026-07-20T12:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-20T10:37:55.618532+00:00",
+  "fetched_at": "2026-06-20T12:18:49.493224+00:00",
   "calendars": [
     "outlook",
     "icloud"
