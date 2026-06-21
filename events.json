@@ -421,6 +421,16 @@
       "source": "outlook"
     },
     {
+      "title": "Hair appt",
+      "date": "2026-07-21",
+      "time": "7:45 PM",
+      "end": "2026-07-21T23:45:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Compost day ",
       "date": "2026-07-21",
       "time": "8:00 AM",
@@ -431,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-21T22:43:36.431810+00:00",
+  "fetched_at": "2026-06-21T23:58:41.889238+00:00",
   "calendars": [
     "outlook",
     "icloud"
