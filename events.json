@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure therapy ",
-      "date": "2026-06-22",
-      "time": "7:00 PM",
-      "end": "2026-06-22T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Scott flight in ",
       "date": "2026-06-23",
       "time": "3:55 PM",
@@ -411,7 +401,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-22T22:06:37.507433+00:00",
+  "fetched_at": "2026-06-22T23:42:56.705124+00:00",
   "calendars": [
     "outlook",
     "icloud"
