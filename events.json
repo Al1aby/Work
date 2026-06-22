@@ -156,7 +156,7 @@
       "time": "9:30 AM",
       "end": "2026-06-29T13:00:00+00:00",
       "all_day": false,
-      "location": "D.P. DeMerchant Room; Wolastoq Room",
+      "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -246,7 +246,7 @@
       "time": "9:30 AM",
       "end": "2026-07-06T13:00:00+00:00",
       "all_day": false,
-      "location": "D.P. DeMerchant Room; Wolastoq Room",
+      "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -316,7 +316,7 @@
       "time": "9:30 AM",
       "end": "2026-07-13T13:00:00+00:00",
       "all_day": false,
-      "location": "D.P. DeMerchant Room; Wolastoq Room",
+      "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -386,7 +386,7 @@
       "time": "9:30 AM",
       "end": "2026-07-20T13:00:00+00:00",
       "all_day": false,
-      "location": "D.P. DeMerchant Room; Wolastoq Room",
+      "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -411,7 +411,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-22T16:02:21.786374+00:00",
+  "fetched_at": "2026-06-22T19:47:36.115311+00:00",
   "calendars": [
     "outlook",
     "icloud"
