@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in office ",
-      "date": "2026-06-22",
-      "time": null,
-      "end": "2026-06-24T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure therapy ",
       "date": "2026-06-22",
       "time": "7:00 PM",
@@ -19,26 +9,6 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-06-22",
-      "time": "9:00 AM",
-      "end": "2026-06-22T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-06-22",
-      "time": "9:30 AM",
-      "end": "2026-06-22T13:00:00+00:00",
-      "all_day": false,
-      "location": "D.P. DeMerchant Room; Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
     },
     {
       "title": "Scott flight in ",
@@ -441,7 +411,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-22T11:14:34.132269+00:00",
+  "fetched_at": "2026-06-22T16:02:21.786374+00:00",
   "calendars": [
     "outlook",
     "icloud"
