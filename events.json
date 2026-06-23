@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Scott flight in ",
-      "date": "2026-06-23",
-      "time": "3:55 PM",
-      "end": "2026-06-23T19:55:00+00:00",
-      "all_day": false,
-      "location": "Saint John Airport\n4180 Loch Lomond Rd, St. John NB E2N 1L7, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure physio",
       "date": "2026-06-23",
       "time": "5:00 PM",
@@ -381,7 +371,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-23T18:00:47.807959+00:00",
+  "fetched_at": "2026-06-23T20:22:18.137821+00:00",
   "calendars": [
     "outlook",
     "icloud"
