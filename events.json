@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Katie nails - 845",
-      "date": "2026-06-24",
-      "time": "8:30 AM",
-      "end": "2026-06-24T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Finance Drop-In Session \u2013 Kickoff Invite (June 25th)\u00a0",
       "date": "2026-06-25",
       "time": "10:00 AM",
@@ -371,7 +361,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-24T11:19:13.824584+00:00",
+  "fetched_at": "2026-06-24T13:36:37.867562+00:00",
   "calendars": [
     "outlook",
     "icloud"
