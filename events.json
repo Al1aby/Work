@@ -271,16 +271,6 @@
       "source": "icloud"
     },
     {
-      "title": "Canceled: BY461A Central Peninsula K-8 School - Coordination meeting",
-      "date": "2026-07-15",
-      "time": "10:30 AM",
-      "end": "2026-07-15T15:00:00+00:00",
-      "all_day": false,
-      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-07-15",
       "time": "10:30 AM",
@@ -351,7 +341,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-26T08:21:52.095316+00:00",
+  "fetched_at": "2026-06-26T11:24:15.870840+00:00",
   "calendars": [
     "outlook",
     "icloud"
