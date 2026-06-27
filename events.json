@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in Fredericton - rental ",
-      "date": "2026-06-26",
-      "time": "7:00 PM",
-      "end": "2026-06-26T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Sheels are here!",
       "date": "2026-06-27",
       "time": "4:00 PM",
@@ -241,16 +231,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure therapy ",
-      "date": "2026-07-14",
-      "time": "7:00 PM",
-      "end": "2026-07-14T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Garbage day",
       "date": "2026-07-14",
       "time": "8:00 AM",
@@ -285,6 +265,16 @@
       "date": "2026-07-16",
       "time": "5:00 PM",
       "end": "2026-07-16T21:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Laure therapy ",
+      "date": "2026-07-16",
+      "time": "7:00 PM",
+      "end": "2026-07-16T23:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -341,7 +331,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-26T22:46:17.933825+00:00",
+  "fetched_at": "2026-06-27T00:11:52.939723+00:00",
   "calendars": [
     "outlook",
     "icloud"
