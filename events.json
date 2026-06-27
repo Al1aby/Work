@@ -331,6 +331,16 @@
       "source": "icloud"
     },
     {
+      "title": "Yoga",
+      "date": "2026-07-27",
+      "time": "7:00 PM",
+      "end": "2026-07-27T23:00:00+00:00",
+      "all_day": false,
+      "location": "Porter Rd\nNauwigewauk, NB, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Recycling day",
       "date": "2026-07-27",
       "time": "8:00 AM",
@@ -361,7 +371,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-27T21:19:35.441323+00:00",
+  "fetched_at": "2026-06-27T22:37:04.088099+00:00",
   "calendars": [
     "outlook",
     "icloud"
