@@ -379,9 +379,19 @@
       "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Garbage day",
+      "date": "2026-07-28",
+      "time": "8:00 AM",
+      "end": "2026-07-28T12:00:00+00:00",
+      "all_day": false,
+      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-28T09:41:55.537337+00:00",
+  "fetched_at": "2026-06-28T11:25:48.703568+00:00",
   "calendars": [
     "outlook",
     "icloud"
