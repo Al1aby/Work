@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Win party ",
-      "date": "2026-06-28",
-      "time": "2:30 PM",
-      "end": "2026-06-28T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-06-29",
       "time": null,
@@ -401,7 +391,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-28T20:15:53.389927+00:00",
+  "fetched_at": "2026-06-28T21:39:00.827865+00:00",
   "calendars": [
     "outlook",
     "icloud"
