@@ -371,6 +371,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure massage",
+      "date": "2026-07-28",
+      "time": "6:45 PM",
+      "end": "2026-07-28T22:45:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Garbage day",
       "date": "2026-07-28",
       "time": "8:00 AM",
@@ -391,7 +401,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-28T21:39:00.827865+00:00",
+  "fetched_at": "2026-06-28T22:43:41.421051+00:00",
   "calendars": [
     "outlook",
     "icloud"
