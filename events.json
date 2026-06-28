@@ -389,9 +389,19 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "House cleaning ",
+      "date": "2026-07-28",
+      "time": "8:30 AM",
+      "end": "2026-07-28T15:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-28T11:25:48.703568+00:00",
+  "fetched_at": "2026-06-28T12:57:22.813659+00:00",
   "calendars": [
     "outlook",
     "icloud"
