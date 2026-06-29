@@ -31,36 +31,6 @@
       "source": "outlook"
     },
     {
-      "title": "Recycling day",
-      "date": "2026-06-29",
-      "time": "8:00 AM",
-      "end": "2026-06-29T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-06-29",
-      "time": "9:00 AM",
-      "end": "2026-06-29T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-06-29",
-      "time": "9:30 AM",
-      "end": "2026-06-29T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure dr appt",
       "date": "2026-06-30",
       "time": "2:30 PM",
@@ -401,7 +371,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-06-29T09:15:51.876680+00:00",
+  "fetched_at": "2026-06-29T13:51:14.730752+00:00",
   "calendars": [
     "outlook",
     "icloud"
