@@ -31,6 +31,16 @@
       "source": "outlook"
     },
     {
+      "title": "MCBrien Update",
+      "date": "2026-06-30",
+      "time": "10:30 AM",
+      "end": "2026-06-30T14:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Laure dr appt",
       "date": "2026-06-30",
       "time": "2:30 PM",
@@ -369,9 +379,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "P&C Drop-in Sessions",
+      "date": "2026-07-29",
+      "time": "2:30 PM",
+      "end": "2026-07-29T18:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-29T16:53:49.425170+00:00",
+  "fetched_at": "2026-06-29T19:05:41.057671+00:00",
   "calendars": [
     "outlook",
     "icloud"
