@@ -21,16 +21,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure dr appt",
-      "date": "2026-06-30",
-      "time": "2:30 PM",
-      "end": "2026-06-30T18:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Massage Treatment with Jen Taylor",
       "date": "2026-06-30",
       "time": "6:30 PM",
@@ -361,7 +351,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-30T17:16:18.261774+00:00",
+  "fetched_at": "2026-06-30T19:19:20.741897+00:00",
   "calendars": [
     "outlook",
     "icloud"
