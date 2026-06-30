@@ -21,16 +21,6 @@
       "source": "outlook"
     },
     {
-      "title": "Massage Treatment with Jen Taylor",
-      "date": "2026-06-30",
-      "time": "6:30 PM",
-      "end": "2026-06-30T22:30:00+00:00",
-      "all_day": false,
-      "location": "Jen Taylor Massage Therapy, 114 Logie Dr, Hampton, NB, E5N 5T2",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Audrey birthday",
       "date": "2026-07-02",
       "time": null,
@@ -361,7 +351,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-30T21:14:32.197469+00:00",
+  "fetched_at": "2026-06-30T22:43:01.246268+00:00",
   "calendars": [
     "outlook",
     "icloud"
