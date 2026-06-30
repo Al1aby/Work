@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Our Anniversary ",
-      "date": "2026-06-28",
-      "time": null,
-      "end": "2026-06-30T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-06-29",
       "time": null,
@@ -391,7 +381,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-30T01:50:09.929307+00:00",
+  "fetched_at": "2026-06-30T06:15:41.172519+00:00",
   "calendars": [
     "outlook",
     "icloud"
