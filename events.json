@@ -23,8 +23,8 @@
     {
       "title": "MCBrien Update",
       "date": "2026-06-30",
-      "time": "10:30 AM",
-      "end": "2026-06-30T14:00:00+00:00",
+      "time": "1:30 PM",
+      "end": "2026-06-30T17:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
@@ -47,16 +47,6 @@
       "end": "2026-06-30T22:30:00+00:00",
       "all_day": false,
       "location": "Jen Taylor Massage Therapy, 114 Logie Dr, Hampton, NB, E5N 5T2",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Garbage day",
-      "date": "2026-06-30",
-      "time": "8:00 AM",
-      "end": "2026-06-30T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -381,7 +371,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-30T10:06:57.359413+00:00",
+  "fetched_at": "2026-06-30T12:23:46.480814+00:00",
   "calendars": [
     "outlook",
     "icloud"
