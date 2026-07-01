@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Pay day",
-      "date": "2026-06-29",
-      "time": null,
-      "end": "2026-07-01T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Audrey birthday",
       "date": "2026-07-02",
       "time": null,
@@ -351,7 +341,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-06-30T23:52:34.960190+00:00",
+  "fetched_at": "2026-07-01T04:14:21.682824+00:00",
   "calendars": [
     "outlook",
     "icloud"
