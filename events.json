@@ -339,9 +339,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Aaron -  check & clean furnace filter ",
+      "date": "2026-08-01",
+      "time": "9:00 AM",
+      "end": "2026-08-01T13:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-02T11:56:38.275578+00:00",
+  "fetched_at": "2026-07-02T14:21:54.964865+00:00",
   "calendars": [
     "outlook",
     "icloud"
