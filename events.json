@@ -341,6 +341,16 @@
       "source": "outlook"
     },
     {
+      "title": "Dr appt ",
+      "date": "2026-07-30",
+      "time": "2:00 PM",
+      "end": "2026-07-30T18:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-08-01",
       "time": "9:00 AM",
@@ -351,7 +361,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-02T14:21:54.964865+00:00",
+  "fetched_at": "2026-07-02T16:19:31.633565+00:00",
   "calendars": [
     "outlook",
     "icloud"
