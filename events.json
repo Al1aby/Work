@@ -191,16 +191,6 @@
       "source": "icloud"
     },
     {
-      "title": "Dr appt ",
-      "date": "2026-07-19",
-      "time": "2:00 PM",
-      "end": "2026-07-19T18:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-07-20",
       "time": "9:00 AM",
@@ -235,6 +225,16 @@
       "date": "2026-07-21",
       "time": "8:00 AM",
       "end": "2026-07-21T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "SJ pride parade",
+      "date": "2026-07-25",
+      "time": "10:00 AM",
+      "end": "2026-07-25T17:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -351,7 +351,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-03T12:19:54.398643+00:00",
+  "fetched_at": "2026-07-03T14:51:06.885136+00:00",
   "calendars": [
     "outlook",
     "icloud"
