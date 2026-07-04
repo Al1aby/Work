@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Audrey birthday",
-      "date": "2026-07-02",
-      "time": null,
-      "end": "2026-07-04T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-07-04",
       "time": "9:00 AM",
@@ -351,7 +341,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-04T01:17:44.500963+00:00",
+  "fetched_at": "2026-07-04T05:11:31.012809+00:00",
   "calendars": [
     "outlook",
     "icloud"
