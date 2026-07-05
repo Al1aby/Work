@@ -351,6 +351,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure therapy ",
+      "date": "2026-08-04",
+      "time": "7:00 PM",
+      "end": "2026-08-04T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Compost day ",
       "date": "2026-08-04",
       "time": "8:00 AM",
@@ -361,7 +371,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-05T21:41:47.565998+00:00",
+  "fetched_at": "2026-07-05T22:41:46.047629+00:00",
   "calendars": [
     "outlook",
     "icloud"
