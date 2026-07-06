@@ -21,22 +21,12 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Weekly Meeting",
+      "title": "Daily Coordination Meeting",
       "date": "2026-07-06",
-      "time": "9:00 AM",
-      "end": "2026-07-06T12:30:00+00:00",
+      "time": "3:00 PM",
+      "end": "2026-07-06T18:30:00+00:00",
       "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-07-06",
-      "time": "9:30 AM",
-      "end": "2026-07-06T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
+      "location": "CMT OFFICE",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -49,6 +39,16 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Client Meeting  - Lafford Towers, Saint John, NB",
+      "date": "2026-07-08",
+      "time": "10:00 AM",
+      "end": "2026-07-08T14:30:00+00:00",
+      "all_day": false,
+      "location": "Moncton Office Boardroom",
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Pay day",
@@ -371,7 +371,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-06T12:24:55.431312+00:00",
+  "fetched_at": "2026-07-06T16:00:48.045637+00:00",
   "calendars": [
     "outlook",
     "icloud"
