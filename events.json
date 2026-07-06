@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Canceled: Daily Coordination Meeting",
-      "date": "2026-07-06",
-      "time": "3:00 PM",
-      "end": "2026-07-06T18:30:00+00:00",
-      "all_day": false,
-      "location": "CMT OFFICE",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Compost day ",
       "date": "2026-07-07",
       "time": "8:00 AM",
@@ -371,7 +361,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-06T18:20:19.164390+00:00",
+  "fetched_at": "2026-07-06T20:25:17.775732+00:00",
   "calendars": [
     "outlook",
     "icloud"
