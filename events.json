@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "McBrien Lake - Permitting Update",
-      "date": "2026-07-07",
-      "time": "1:00 PM",
-      "end": "2026-07-07T16:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Client Meeting  - Lafford Towers, Saint John, NB",
       "date": "2026-07-08",
       "time": "10:00 AM",
@@ -361,7 +351,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-07T13:53:19.992589+00:00",
+  "fetched_at": "2026-07-07T16:33:29.293989+00:00",
   "calendars": [
     "outlook",
     "icloud"
