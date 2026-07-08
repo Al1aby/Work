@@ -21,6 +21,16 @@
       "source": "outlook"
     },
     {
+      "title": "Kids Hair cut",
+      "date": "2026-07-10",
+      "time": "10:30 AM",
+      "end": "2026-07-10T14:00:00+00:00",
+      "all_day": false,
+      "location": "176 Hampton Road #174, Quispamsis, NB, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Pay day",
       "date": "2026-07-13",
       "time": null,
@@ -351,7 +361,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-08T20:46:31.585599+00:00",
+  "fetched_at": "2026-07-08T22:10:31.763023+00:00",
   "calendars": [
     "outlook",
     "icloud"
