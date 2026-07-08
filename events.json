@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Client Meeting  - Lafford Towers, Saint John, NB",
-      "date": "2026-07-08",
-      "time": "10:00 AM",
-      "end": "2026-07-08T14:30:00+00:00",
-      "all_day": false,
-      "location": "Moncton Office Boardroom",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "boat ramp",
       "date": "2026-07-09",
       "time": "11:00 AM",
@@ -351,7 +341,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-08T14:22:35.636737+00:00",
+  "fetched_at": "2026-07-08T16:14:05.484854+00:00",
   "calendars": [
     "outlook",
     "icloud"
