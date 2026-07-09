@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "boat ramp",
-      "date": "2026-07-09",
-      "time": "11:00 AM",
-      "end": "2026-07-09T15:00:00+00:00",
-      "all_day": false,
-      "location": "Latimer Lake Facility",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Kids Hair cut",
       "date": "2026-07-10",
       "time": "10:30 AM",
@@ -361,7 +351,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-09T12:08:16.627534+00:00",
+  "fetched_at": "2026-07-09T15:33:33.381384+00:00",
   "calendars": [
     "outlook",
     "icloud"
