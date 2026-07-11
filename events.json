@@ -331,6 +331,16 @@
       "source": "icloud"
     },
     {
+      "title": "NCC meeting",
+      "date": "2026-08-10",
+      "time": "7:00 PM",
+      "end": "2026-08-10T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Recycling day",
       "date": "2026-08-10",
       "time": "8:00 AM",
@@ -361,7 +371,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-11T21:53:22.523108+00:00",
+  "fetched_at": "2026-07-11T22:53:41.966099+00:00",
   "calendars": [
     "outlook",
     "icloud"
