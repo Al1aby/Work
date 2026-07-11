@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Sheels are here!",
-      "date": "2026-06-27",
-      "time": "4:00 PM",
-      "end": "2026-07-11T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-07-13",
       "time": null,
@@ -371,7 +361,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-11T19:52:25.263282+00:00",
+  "fetched_at": "2026-07-11T20:53:57.227724+00:00",
   "calendars": [
     "outlook",
     "icloud"
