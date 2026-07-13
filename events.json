@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "NCC meeting",
-      "date": "2026-07-13",
-      "time": "7:00 PM",
-      "end": "2026-07-13T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-07-14",
       "time": null,
@@ -371,7 +361,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-13T22:03:21.690683+00:00",
+  "fetched_at": "2026-07-13T23:13:49.707044+00:00",
   "calendars": [
     "outlook",
     "icloud"
