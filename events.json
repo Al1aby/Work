@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Quarterly Meeting - Saint John Branch",
-      "date": "2026-07-13",
-      "time": "10:30 AM",
-      "end": "2026-07-13T14:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "NCC meeting",
       "date": "2026-07-13",
       "time": "7:00 PM",
@@ -369,9 +359,19 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Town Hall (10:00am EDT; 11:00am ADT; 11:30am NDT)",
+      "date": "2026-08-12",
+      "time": "11:00 AM",
+      "end": "2026-08-12T15:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-13T13:05:46.052358+00:00",
+  "fetched_at": "2026-07-13T15:57:33.488181+00:00",
   "calendars": [
     "outlook",
     "icloud"
