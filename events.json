@@ -23,10 +23,10 @@
     {
       "title": "Quarterly Meeting - Saint John Branch",
       "date": "2026-07-13",
-      "time": "1:30 PM",
-      "end": "2026-07-13T17:00:00+00:00",
+      "time": "10:30 AM",
+      "end": "2026-07-13T14:00:00+00:00",
       "all_day": false,
-      "location": "Fundy Coast Room",
+      "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -39,36 +39,6 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
-    },
-    {
-      "title": "Recycling day",
-      "date": "2026-07-13",
-      "time": "8:00 AM",
-      "end": "2026-07-13T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-07-13",
-      "time": "9:00 AM",
-      "end": "2026-07-13T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-07-13",
-      "time": "9:30 AM",
-      "end": "2026-07-13T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
     },
     {
       "title": "Laure in office ",
@@ -401,7 +371,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-13T10:33:13.318072+00:00",
+  "fetched_at": "2026-07-13T13:05:46.052358+00:00",
   "calendars": [
     "outlook",
     "icloud"
