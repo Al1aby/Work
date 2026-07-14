@@ -31,16 +31,6 @@
       "source": "icloud"
     },
     {
-      "title": "Garbage day",
-      "date": "2026-07-14",
-      "time": "8:00 AM",
-      "end": "2026-07-14T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Katie symperica",
       "date": "2026-07-14",
       "time": "8:00 PM",
@@ -57,6 +47,16 @@
       "end": "2026-07-15T14:30:00+00:00",
       "all_day": false,
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Gemtec/Greenwich/Pivot meeting - Geotech report",
+      "date": "2026-07-15",
+      "time": "2:30 PM",
+      "end": "2026-07-15T18:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -371,7 +371,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-14T11:55:21.539434+00:00",
+  "fetched_at": "2026-07-14T13:53:08.716654+00:00",
   "calendars": [
     "outlook",
     "icloud"
