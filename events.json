@@ -171,6 +171,16 @@
       "source": "icloud"
     },
     {
+      "title": "Need milk expired 25",
+      "date": "2026-07-27",
+      "time": "8:00 PM",
+      "end": "2026-07-28T00:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-07-27",
       "time": "9:00 AM",
@@ -361,7 +371,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-14T00:09:30.899377+00:00",
+  "fetched_at": "2026-07-14T03:34:48.136288+00:00",
   "calendars": [
     "outlook",
     "icloud"
