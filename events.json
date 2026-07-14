@@ -369,9 +369,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Laure therapy ",
+      "date": "2026-08-13",
+      "time": "7:00 PM",
+      "end": "2026-08-13T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-14T21:40:52.866570+00:00",
+  "fetched_at": "2026-07-14T22:40:43.217573+00:00",
   "calendars": [
     "outlook",
     "icloud"
