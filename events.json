@@ -349,9 +349,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Katie symperica",
+      "date": "2026-08-14",
+      "time": "8:00 PM",
+      "end": "2026-08-15T00:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-15T22:30:37.234912+00:00",
+  "fetched_at": "2026-07-15T23:41:30.136037+00:00",
   "calendars": [
     "outlook",
     "icloud"
