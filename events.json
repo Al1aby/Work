@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Gemtec/Greenwich/Pivot meeting - Geotech report",
-      "date": "2026-07-15",
-      "time": "2:30 PM",
-      "end": "2026-07-15T18:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure physio",
       "date": "2026-07-16",
       "time": "5:00 PM",
@@ -341,7 +331,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-15T17:39:32.325399+00:00",
+  "fetched_at": "2026-07-15T18:46:15.528523+00:00",
   "calendars": [
     "outlook",
     "icloud"
