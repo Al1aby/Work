@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
-      "date": "2026-07-15",
-      "time": "10:30 AM",
-      "end": "2026-07-15T14:30:00+00:00",
-      "all_day": false,
-      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Gemtec/Greenwich/Pivot meeting - Geotech report",
       "date": "2026-07-15",
       "time": "2:30 PM",
@@ -351,7 +341,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-15T14:28:37.574723+00:00",
+  "fetched_at": "2026-07-15T16:05:44.632914+00:00",
   "calendars": [
     "outlook",
     "icloud"
