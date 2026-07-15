@@ -31,16 +31,6 @@
       "source": "icloud"
     },
     {
-      "title": "Katie symperica",
-      "date": "2026-07-14",
-      "time": "8:00 PM",
-      "end": "2026-07-15T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-07-15",
       "time": "10:30 AM",
@@ -381,7 +371,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-14T23:35:25.595242+00:00",
+  "fetched_at": "2026-07-15T01:01:02.810316+00:00",
   "calendars": [
     "outlook",
     "icloud"
