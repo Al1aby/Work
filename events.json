@@ -81,6 +81,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-07-22",
+      "time": null,
+      "end": "2026-07-24T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "SJ pride parade",
       "date": "2026-07-25",
       "time": "10:00 AM",
@@ -176,6 +186,16 @@
       "time": "8:30 AM",
       "end": "2026-07-28T15:00:00+00:00",
       "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Laure in office ",
+      "date": "2026-07-29",
+      "time": null,
+      "end": "2026-07-31T00:00:00+00:00",
+      "all_day": true,
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
@@ -331,7 +351,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-15T20:12:35.219463+00:00",
+  "fetched_at": "2026-07-15T21:16:38.514784+00:00",
   "calendars": [
     "outlook",
     "icloud"
