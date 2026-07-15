@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Pay day",
-      "date": "2026-07-13",
-      "time": null,
-      "end": "2026-07-15T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Omlyclo delivery ",
-      "date": "2026-07-13",
-      "time": null,
-      "end": "2026-07-15T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-07-14",
       "time": null,
@@ -371,7 +351,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-15T01:01:02.810316+00:00",
+  "fetched_at": "2026-07-15T04:17:10.064756+00:00",
   "calendars": [
     "outlook",
     "icloud"
