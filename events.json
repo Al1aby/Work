@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure therapy ",
-      "date": "2026-07-16",
-      "time": "7:00 PM",
-      "end": "2026-07-16T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Moonlight bazar ",
       "date": "2026-07-17",
       "time": null,
@@ -231,16 +221,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure therapy ",
-      "date": "2026-08-04",
-      "time": "7:00 PM",
-      "end": "2026-08-04T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Compost day ",
       "date": "2026-08-04",
       "time": "8:00 AM",
@@ -301,6 +281,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure physio",
+      "date": "2026-08-11",
+      "time": "5:00 PM",
+      "end": "2026-08-11T21:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Garbage day",
       "date": "2026-08-11",
       "time": "8:00 AM",
@@ -351,7 +341,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-16T22:38:41.974472+00:00",
+  "fetched_at": "2026-07-16T23:38:42.298256+00:00",
   "calendars": [
     "outlook",
     "icloud"
