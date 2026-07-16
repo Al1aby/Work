@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure physio",
-      "date": "2026-07-16",
-      "time": "5:00 PM",
-      "end": "2026-07-16T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure therapy ",
       "date": "2026-07-16",
       "time": "7:00 PM",
@@ -361,7 +351,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-16T20:26:15.196522+00:00",
+  "fetched_at": "2026-07-16T21:34:37.785622+00:00",
   "calendars": [
     "outlook",
     "icloud"
