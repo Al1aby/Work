@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "McBrien Lake Discussion",
-      "date": "2026-07-16",
-      "time": "3:00 PM",
-      "end": "2026-07-16T18:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure physio",
       "date": "2026-07-16",
       "time": "5:00 PM",
@@ -371,7 +361,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-16T17:55:09.540755+00:00",
+  "fetched_at": "2026-07-16T19:17:06.434794+00:00",
   "calendars": [
     "outlook",
     "icloud"
