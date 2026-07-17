@@ -11,6 +11,16 @@
       "source": "icloud"
     },
     {
+      "title": "Coffee date with Kate (win too)",
+      "date": "2026-07-18",
+      "time": "9:30 AM",
+      "end": "2026-07-18T14:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-07-20",
       "time": "9:00 AM",
@@ -341,7 +351,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-17T14:05:57.906813+00:00",
+  "fetched_at": "2026-07-17T15:41:10.276752+00:00",
   "calendars": [
     "outlook",
     "icloud"
