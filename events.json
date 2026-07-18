@@ -349,9 +349,19 @@
       "location": "Saint John Marina (2050 Westfield Rd, Saint John NB E2M 6H2, Canada)",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-08-17",
+      "time": "9:00 AM",
+      "end": "2026-08-17T12:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-18T11:12:22.884470+00:00",
+  "fetched_at": "2026-07-18T12:06:45.966688+00:00",
   "calendars": [
     "outlook",
     "icloud"
