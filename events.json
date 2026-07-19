@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Moonlight bazar ",
-      "date": "2026-07-17",
-      "time": null,
-      "end": "2026-07-19T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-07-20",
       "time": "9:00 AM",
@@ -371,7 +361,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-19T01:05:07.237360+00:00",
+  "fetched_at": "2026-07-19T04:36:19.136781+00:00",
   "calendars": [
     "outlook",
     "icloud"
