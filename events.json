@@ -359,9 +359,29 @@
       "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Compost day ",
+      "date": "2026-08-18",
+      "time": "8:00 AM",
+      "end": "2026-08-18T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "House cleaning ",
+      "date": "2026-08-18",
+      "time": "8:30 AM",
+      "end": "2026-08-18T15:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-19T10:55:31.781017+00:00",
+  "fetched_at": "2026-07-19T12:01:13.047164+00:00",
   "calendars": [
     "outlook",
     "icloud"
