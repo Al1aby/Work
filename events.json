@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-07-20",
-      "time": "9:00 AM",
-      "end": "2026-07-20T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-07-20",
-      "time": "9:30 AM",
-      "end": "2026-07-20T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Hair appt",
       "date": "2026-07-21",
       "time": "7:45 PM",
@@ -381,7 +361,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-20T11:13:47.667678+00:00",
+  "fetched_at": "2026-07-20T13:18:59.701664+00:00",
   "calendars": [
     "outlook",
     "icloud"
