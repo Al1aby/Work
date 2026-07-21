@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Compost day ",
-      "date": "2026-07-21",
-      "time": "8:00 AM",
-      "end": "2026-07-21T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-07-22",
       "time": null,
@@ -201,6 +191,16 @@
       "source": "icloud"
     },
     {
+      "title": "Drop-in Call: Career Lattice",
+      "date": "2026-08-06",
+      "time": "2:30 PM",
+      "end": "2026-08-06T18:15:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Pay day",
       "date": "2026-08-10",
       "time": null,
@@ -321,6 +321,16 @@
       "source": "icloud"
     },
     {
+      "title": "Winnie dr appt",
+      "date": "2026-08-17",
+      "time": "8:45 AM",
+      "end": "2026-08-17T12:45:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-08-17",
       "time": "9:00 AM",
@@ -361,7 +371,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-21T11:23:19.923801+00:00",
+  "fetched_at": "2026-07-21T12:54:58.880703+00:00",
   "calendars": [
     "outlook",
     "icloud"
