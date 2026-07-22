@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Hair appt",
-      "date": "2026-07-21",
-      "time": "7:45 PM",
-      "end": "2026-07-21T23:45:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-07-22",
       "time": null,
@@ -371,7 +361,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-21T23:14:55.179598+00:00",
+  "fetched_at": "2026-07-22T00:11:02.223962+00:00",
   "calendars": [
     "outlook",
     "icloud"
