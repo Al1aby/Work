@@ -191,6 +191,16 @@
       "source": "outlook"
     },
     {
+      "title": "Maternal Fetal Medicine appt - 9am",
+      "date": "2026-08-06",
+      "time": "8:30 AM",
+      "end": "2026-08-06T13:00:00+00:00",
+      "all_day": false,
+      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Pay day",
       "date": "2026-08-10",
       "time": null,
@@ -361,7 +371,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-22T12:59:32.614047+00:00",
+  "fetched_at": "2026-07-22T15:09:22.555070+00:00",
   "calendars": [
     "outlook",
     "icloud"
