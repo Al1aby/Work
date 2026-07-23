@@ -11,6 +11,16 @@
       "source": "icloud"
     },
     {
+      "title": "Doula call",
+      "date": "2026-07-23",
+      "time": "8:00 PM",
+      "end": "2026-07-23T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "SJ pride parade",
       "date": "2026-07-25",
       "time": "10:00 AM",
@@ -129,6 +139,16 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Dinner and thrift with Laura",
+      "date": "2026-07-29",
+      "time": "6:00 PM",
+      "end": "2026-07-30T00:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Dr appt ",
@@ -401,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-23T16:08:20.626791+00:00",
+  "fetched_at": "2026-07-23T17:46:53.782538+00:00",
   "calendars": [
     "outlook",
     "icloud"
