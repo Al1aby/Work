@@ -31,6 +31,16 @@
       "source": "outlook"
     },
     {
+      "title": "Doula call",
+      "date": "2026-07-27",
+      "time": "12:15 PM",
+      "end": "2026-07-27T15:45:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Yoga",
       "date": "2026-07-27",
       "time": "7:00 PM",
@@ -411,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-23T23:40:41.772207+00:00",
+  "fetched_at": "2026-07-24T01:11:12.723064+00:00",
   "calendars": [
     "outlook",
     "icloud"
