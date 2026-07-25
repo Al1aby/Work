@@ -401,6 +401,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure massage",
+      "date": "2026-08-24",
+      "time": "6:45 PM",
+      "end": "2026-08-24T22:45:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Recycling day",
       "date": "2026-08-24",
       "time": "8:00 AM",
@@ -431,7 +441,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-25T21:03:15.825788+00:00",
+  "fetched_at": "2026-07-25T22:10:45.806881+00:00",
   "calendars": [
     "outlook",
     "icloud"
