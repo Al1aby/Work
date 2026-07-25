@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "SJ pride parade",
-      "date": "2026-07-25",
-      "time": "10:00 AM",
-      "end": "2026-07-25T17:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-07-27",
       "time": null,
@@ -441,7 +431,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-25T16:36:42.304285+00:00",
+  "fetched_at": "2026-07-25T17:42:54.216425+00:00",
   "calendars": [
     "outlook",
     "icloud"
