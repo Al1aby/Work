@@ -131,6 +131,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure meet J&K - time tbd",
+      "date": "2026-08-01",
+      "time": "10:00 AM",
+      "end": "2026-08-01T17:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-08-01",
       "time": "9:00 AM",
@@ -461,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-26T17:44:28.965014+00:00",
+  "fetched_at": "2026-07-26T18:45:28.786374+00:00",
   "calendars": [
     "outlook",
     "icloud"
