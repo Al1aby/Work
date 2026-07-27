@@ -461,6 +461,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure in Fredericton",
+      "date": "2026-08-25",
+      "time": null,
+      "end": "2026-08-27T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Garbage day",
       "date": "2026-08-25",
       "time": "8:00 AM",
@@ -471,7 +481,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-27T01:08:43.777534+00:00",
+  "fetched_at": "2026-07-27T04:52:42.908568+00:00",
   "calendars": [
     "outlook",
     "icloud"
