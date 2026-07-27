@@ -439,9 +439,19 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "P&C Drop-in Sessions",
+      "date": "2026-08-26",
+      "time": "2:30 PM",
+      "end": "2026-08-26T18:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-27T17:00:33.625620+00:00",
+  "fetched_at": "2026-07-27T18:47:51.905364+00:00",
   "calendars": [
     "outlook",
     "icloud"
