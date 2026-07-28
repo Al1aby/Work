@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "House cleaning ",
-      "date": "2026-07-28",
-      "time": "8:30 AM",
-      "end": "2026-07-28T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-07-29",
       "time": null,
@@ -39,6 +29,16 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
+      "date": "2026-07-29",
+      "time": "10:30 AM",
+      "end": "2026-07-29T14:30:00+00:00",
+      "all_day": false,
+      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "McBrien meeting",
@@ -229,6 +229,16 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
+      "date": "2026-08-12",
+      "time": "10:30 AM",
+      "end": "2026-08-12T14:30:00+00:00",
+      "all_day": false,
+      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "Town Hall (10:00am EDT; 11:00am ADT; 11:30am NDT)",
@@ -431,6 +441,16 @@
       "source": "icloud"
     },
     {
+      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
+      "date": "2026-08-26",
+      "time": "10:30 AM",
+      "end": "2026-08-26T14:30:00+00:00",
+      "all_day": false,
+      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "P&C Drop-in Sessions",
       "date": "2026-08-26",
       "time": "2:30 PM",
@@ -441,7 +461,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-28T13:02:02.874293+00:00",
+  "fetched_at": "2026-07-28T15:34:55.705292+00:00",
   "calendars": [
     "outlook",
     "icloud"
