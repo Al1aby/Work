@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Garbage day",
-      "date": "2026-07-28",
-      "time": "8:00 AM",
-      "end": "2026-07-28T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "House cleaning ",
       "date": "2026-07-28",
       "time": "8:30 AM",
@@ -251,6 +241,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-08-13",
+      "time": null,
+      "end": "2026-08-15T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Laure therapy ",
       "date": "2026-08-13",
       "time": "7:00 PM",
@@ -441,7 +441,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-28T11:02:25.722972+00:00",
+  "fetched_at": "2026-07-28T13:02:02.874293+00:00",
   "calendars": [
     "outlook",
     "icloud"
