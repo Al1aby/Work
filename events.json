@@ -11,16 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure massage",
-      "date": "2026-07-28",
-      "time": "6:45 PM",
-      "end": "2026-07-28T22:45:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-07-29",
       "time": null,
@@ -461,7 +451,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-28T22:42:18.091714+00:00",
+  "fetched_at": "2026-07-28T23:42:47.656531+00:00",
   "calendars": [
     "outlook",
     "icloud"
