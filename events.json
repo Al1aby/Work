@@ -231,6 +231,16 @@
       "source": "icloud"
     },
     {
+      "title": "Budget 2027 - Branch Manager Drop-In Call (Optional - Will Be Recorded)",
+      "date": "2026-08-13",
+      "time": "3:00 PM",
+      "end": "2026-08-13T18:30:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Laure therapy ",
       "date": "2026-08-13",
       "time": "7:00 PM",
@@ -431,7 +441,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-29T14:54:39.064568+00:00",
+  "fetched_at": "2026-07-29T16:24:05.313806+00:00",
   "calendars": [
     "outlook",
     "icloud"
