@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "McBrien meeting",
-      "date": "2026-07-29",
-      "time": "1:30 PM",
-      "end": "2026-07-29T17:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Dinner and thrift with Laura",
       "date": "2026-07-29",
       "time": "6:00 PM",
@@ -441,7 +431,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-29T16:24:05.313806+00:00",
+  "fetched_at": "2026-07-29T17:48:41.134372+00:00",
   "calendars": [
     "outlook",
     "icloud"
