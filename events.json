@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Pay day",
-      "date": "2026-07-27",
-      "time": null,
-      "end": "2026-07-29T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-07-29",
       "time": null,
@@ -451,7 +441,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-29T01:10:47.382995+00:00",
+  "fetched_at": "2026-07-29T04:32:00.044696+00:00",
   "calendars": [
     "outlook",
     "icloud"
