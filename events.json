@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Dr appt ",
-      "date": "2026-07-30",
-      "time": "2:00 PM",
-      "end": "2026-07-30T18:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure meet J&K - time tbd",
       "date": "2026-08-01",
       "time": "10:00 AM",
@@ -431,7 +421,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-30T17:09:01.563158+00:00",
+  "fetched_at": "2026-07-30T18:47:00.822797+00:00",
   "calendars": [
     "outlook",
     "icloud"
