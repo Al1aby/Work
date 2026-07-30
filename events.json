@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Dinner and thrift with Laura",
-      "date": "2026-07-29",
-      "time": "6:00 PM",
-      "end": "2026-07-30T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Dr appt ",
       "date": "2026-07-30",
       "time": "2:00 PM",
@@ -431,7 +421,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-29T23:43:29.993998+00:00",
+  "fetched_at": "2026-07-30T01:03:41.132794+00:00",
   "calendars": [
     "outlook",
     "icloud"
