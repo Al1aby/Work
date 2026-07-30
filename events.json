@@ -61,6 +61,16 @@
       "source": "icloud"
     },
     {
+      "title": "Katie nails - 845",
+      "date": "2026-08-04",
+      "time": "8:30 AM",
+      "end": "2026-08-04T12:10:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Laure in office ",
       "date": "2026-08-05",
       "time": null,
@@ -419,9 +429,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Dr appt ",
+      "date": "2026-08-27",
+      "time": "1:00 PM",
+      "end": "2026-08-27T17:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-30T20:16:17.726454+00:00",
+  "fetched_at": "2026-07-30T21:44:06.492151+00:00",
   "calendars": [
     "outlook",
     "icloud"
