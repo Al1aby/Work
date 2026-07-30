@@ -101,6 +101,16 @@
       "source": "icloud"
     },
     {
+      "title": "Car service",
+      "date": "2026-08-07",
+      "time": "8:00 AM",
+      "end": "2026-08-07T14:00:00+00:00",
+      "all_day": false,
+      "location": "King Mazda\n440 Rothesay Ave, Saint John NB E2L 4G7, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Pay day",
       "date": "2026-08-10",
       "time": null,
@@ -421,7 +431,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-07-30T15:32:18.550900+00:00",
+  "fetched_at": "2026-07-30T17:09:01.563158+00:00",
   "calendars": [
     "outlook",
     "icloud"
