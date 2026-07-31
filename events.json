@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in office ",
-      "date": "2026-07-29",
-      "time": null,
-      "end": "2026-07-31T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure meet J&K - time tbd",
       "date": "2026-08-01",
       "time": "10:00 AM",
@@ -241,6 +231,26 @@
       "source": "icloud"
     },
     {
+      "title": "Saint John Regional Hospital - Lab ",
+      "date": "2026-08-14",
+      "time": "3:15 PM",
+      "end": "2026-08-14T18:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Regional Hospital (400 University Ave, Saint John NB E2L 4L4, Canada)",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Saint John Regional Hospital - Lab ",
+      "date": "2026-08-14",
+      "time": "3:15 PM",
+      "end": "2026-08-14T18:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Regional Hospital (400 University Ave, Saint John NB E2L 4L4, Canada)",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Katie symperica",
       "date": "2026-08-14",
       "time": "8:00 PM",
@@ -441,7 +451,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-31T00:04:56.830820+00:00",
+  "fetched_at": "2026-07-31T03:51:06.081098+00:00",
   "calendars": [
     "outlook",
     "icloud"
