@@ -71,6 +71,16 @@
       "source": "icloud"
     },
     {
+      "title": "Howes Lake Landfill - 40% Comments Review",
+      "date": "2026-08-05",
+      "time": "1:30 PM",
+      "end": "2026-08-05T17:30:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Drop-in Call: Career Lattice",
       "date": "2026-08-06",
       "time": "2:30 PM",
@@ -351,6 +361,16 @@
       "source": "icloud"
     },
     {
+      "title": "Spruce Lake and Howes Lake Landfill Site Visits",
+      "date": "2026-08-19",
+      "time": "9:30 AM",
+      "end": "2026-08-19T15:00:00+00:00",
+      "all_day": false,
+      "location": "Paddys Hill Drive, Saint John, NB",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Pay day",
       "date": "2026-08-24",
       "time": null,
@@ -451,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-07-31T12:02:41.766418+00:00",
+  "fetched_at": "2026-07-31T14:36:20.308796+00:00",
   "calendars": [
     "outlook",
     "icloud"
