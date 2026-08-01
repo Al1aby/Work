@@ -451,6 +451,16 @@
       "source": "icloud"
     },
     {
+      "title": "Yoga ",
+      "date": "2026-08-31",
+      "time": "7:00 PM",
+      "end": "2026-08-31T23:00:00+00:00",
+      "all_day": false,
+      "location": "Porter Rd\nNauwigewauk, NB, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-08-31",
       "time": "9:00 AM",
@@ -471,7 +481,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-01T20:56:57.287305+00:00",
+  "fetched_at": "2026-08-01T22:02:15.572163+00:00",
   "calendars": [
     "outlook",
     "icloud"
