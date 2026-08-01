@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Aaron -  check & clean furnace filter ",
-      "date": "2026-08-01",
-      "time": "9:00 AM",
-      "end": "2026-08-01T13:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-08-03",
       "time": "9:00 AM",
@@ -479,9 +469,19 @@
       "location": "Saint John Board room",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-08-31",
+      "time": "9:30 AM",
+      "end": "2026-08-31T13:00:00+00:00",
+      "all_day": false,
+      "location": "Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-01T12:12:59.906439+00:00",
+  "fetched_at": "2026-08-01T13:58:44.021746+00:00",
   "calendars": [
     "outlook",
     "icloud"
