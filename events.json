@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Compost day ",
-      "date": "2026-08-04",
-      "time": "8:00 AM",
-      "end": "2026-08-04T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Katie nails - 845",
-      "date": "2026-08-04",
-      "time": "8:30 AM",
-      "end": "2026-08-04T12:10:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-08-05",
       "time": null,
@@ -491,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-04T11:10:28.289025+00:00",
+  "fetched_at": "2026-08-04T13:10:58.266640+00:00",
   "calendars": [
     "outlook",
     "icloud"
