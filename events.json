@@ -241,6 +241,16 @@
       "source": "outlook"
     },
     {
+      "title": "Saint John summer party",
+      "date": "2026-08-15",
+      "time": "1:30 PM",
+      "end": "2026-08-15T20:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Kv community fest ",
       "date": "2026-08-15",
       "time": "4:00 PM",
@@ -481,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-03T23:49:18.030147+00:00",
+  "fetched_at": "2026-08-04T02:49:53.885619+00:00",
   "calendars": [
     "outlook",
     "icloud"
