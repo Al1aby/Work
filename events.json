@@ -451,6 +451,16 @@
       "source": "icloud"
     },
     {
+      "title": "Tilly bday party ",
+      "date": "2026-08-27",
+      "time": "4:30 PM",
+      "end": "2026-08-27T21:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Yoga ",
       "date": "2026-08-31",
       "time": "7:00 PM",
@@ -491,7 +501,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-05T18:54:18.036471+00:00",
+  "fetched_at": "2026-08-05T20:34:14.130486+00:00",
   "calendars": [
     "outlook",
     "icloud"
