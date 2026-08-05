@@ -21,6 +21,16 @@
       "source": "outlook"
     },
     {
+      "title": "Video chat - Jade",
+      "date": "2026-08-05",
+      "time": "7:00 PM",
+      "end": "2026-08-05T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Drop-in Call: Career Lattice",
       "date": "2026-08-06",
       "time": "2:30 PM",
@@ -401,6 +411,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-08-26",
+      "time": null,
+      "end": "2026-08-28T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-08-26",
       "time": "10:30 AM",
@@ -471,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-05T11:30:11.420344+00:00",
+  "fetched_at": "2026-08-05T13:16:12.882136+00:00",
   "calendars": [
     "outlook",
     "icloud"
