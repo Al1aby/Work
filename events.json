@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Video chat - Jade",
-      "date": "2026-08-05",
-      "time": "7:00 PM",
-      "end": "2026-08-05T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Drop-in Call: Career Lattice",
       "date": "2026-08-06",
       "time": "2:30 PM",
@@ -501,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-05T21:56:05.212939+00:00",
+  "fetched_at": "2026-08-05T23:05:44.638578+00:00",
   "calendars": [
     "outlook",
     "icloud"
