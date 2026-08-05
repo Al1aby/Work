@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Howes Lake Landfill - 40% Comments Review",
-      "date": "2026-08-05",
-      "time": "1:30 PM",
-      "end": "2026-08-05T17:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Video chat - Jade",
       "date": "2026-08-05",
       "time": "7:00 PM",
@@ -501,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-05T17:10:49.460296+00:00",
+  "fetched_at": "2026-08-05T18:54:18.036471+00:00",
   "calendars": [
     "outlook",
     "icloud"
