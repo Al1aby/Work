@@ -11,6 +11,16 @@
       "source": "icloud"
     },
     {
+      "title": "Meeting",
+      "date": "2026-08-06",
+      "time": "11:00 AM",
+      "end": "2026-08-06T14:30:00+00:00",
+      "all_day": false,
+      "location": "Telephone",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Drop-in Call: Career Lattice",
       "date": "2026-08-06",
       "time": "2:30 PM",
@@ -19,16 +29,6 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Maternal Fetal Medicine appt - 9am",
-      "date": "2026-08-06",
-      "time": "8:30 AM",
-      "end": "2026-08-06T13:00:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     },
     {
       "title": "Car service",
@@ -489,9 +489,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Aaron -  check & clean furnace filter ",
+      "date": "2026-09-05",
+      "time": "9:00 AM",
+      "end": "2026-09-05T13:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-06T11:41:20.687054+00:00",
+  "fetched_at": "2026-08-06T13:21:25.691916+00:00",
   "calendars": [
     "outlook",
     "icloud"
