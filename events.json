@@ -11,26 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Meeting",
-      "date": "2026-08-06",
-      "time": "11:00 AM",
-      "end": "2026-08-06T14:30:00+00:00",
-      "all_day": false,
-      "location": "Telephone",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Drop-in Call: Career Lattice",
-      "date": "2026-08-06",
-      "time": "2:30 PM",
-      "end": "2026-08-06T18:15:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Car service",
       "date": "2026-08-07",
       "time": "8:00 AM",
@@ -171,26 +151,6 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Regional Hospital - Lab ",
-      "date": "2026-08-14",
-      "time": "3:15 PM",
-      "end": "2026-08-14T18:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital (400 University Ave, Saint John NB E2L 4L4, Canada)",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Saint John Regional Hospital - Lab ",
-      "date": "2026-08-14",
-      "time": "3:15 PM",
-      "end": "2026-08-14T18:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital (400 University Ave, Saint John NB E2L 4L4, Canada)",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Katie symperica",
       "date": "2026-08-14",
       "time": "8:00 PM",
@@ -226,16 +186,6 @@
       "time": "4:00 PM",
       "end": "2026-08-15T23:00:00+00:00",
       "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure in office ",
-      "date": "2026-08-17",
-      "time": null,
-      "end": "2026-08-19T00:00:00+00:00",
-      "all_day": true,
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
@@ -279,16 +229,6 @@
       "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Anatomy ultrasound - 130",
-      "date": "2026-08-18",
-      "time": "1:00 PM",
-      "end": "2026-08-18T18:00:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     },
     {
       "title": "Compost day ",
@@ -501,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-06T13:21:25.691916+00:00",
+  "fetched_at": "2026-08-07T00:04:41.619864+00:00",
   "calendars": [
     "outlook",
     "icloud"
