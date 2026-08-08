@@ -459,9 +459,19 @@
       "location": "Saint John Board room",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-09-07",
+      "time": "9:30 AM",
+      "end": "2026-09-07T13:00:00+00:00",
+      "all_day": false,
+      "location": "Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-08T12:16:13.208767+00:00",
+  "fetched_at": "2026-08-08T13:27:23.607669+00:00",
   "calendars": [
     "outlook",
     "icloud"
