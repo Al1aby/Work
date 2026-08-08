@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Fam breakfast ",
-      "date": "2026-08-08",
-      "time": "9:00 AM",
-      "end": "2026-08-08T14:00:00+00:00",
-      "all_day": false,
-      "location": "Common's Creperie Cafe\n11 Hampton Rd, Rothesay NB E2E 5K8, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-08-10",
       "time": null,
@@ -471,7 +461,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-08T13:27:23.607669+00:00",
+  "fetched_at": "2026-08-08T14:07:52.280178+00:00",
   "calendars": [
     "outlook",
     "icloud"
