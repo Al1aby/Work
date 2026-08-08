@@ -171,6 +171,16 @@
       "source": "icloud"
     },
     {
+      "title": "Photos",
+      "date": "2026-08-16",
+      "time": "6:20 PM",
+      "end": "2026-08-16T22:20:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Laure yoga",
       "date": "2026-08-17",
       "time": "7:00 PM",
@@ -461,7 +471,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-08T14:07:52.280178+00:00",
+  "fetched_at": "2026-08-08T14:49:53.606312+00:00",
   "calendars": [
     "outlook",
     "icloud"
