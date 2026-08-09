@@ -481,6 +481,16 @@
       "source": "outlook"
     },
     {
+      "title": "Maternal fetal assessment appt - 1:45",
+      "date": "2026-09-08",
+      "time": "1:00 PM",
+      "end": "2026-09-08T18:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Garbage day",
       "date": "2026-09-08",
       "time": "8:00 AM",
@@ -491,7 +501,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-09T15:50:04.927432+00:00",
+  "fetched_at": "2026-08-09T16:38:53.228543+00:00",
   "calendars": [
     "outlook",
     "icloud"
