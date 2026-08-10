@@ -63,9 +63,18 @@ def fetch_events_from_url(name, url, now, cutoff):
         summary  = str(component.get("SUMMARY",  ""))
         location = str(component.get("LOCATION", "")) or None
 
+        # All-day events (VALUE=DATE) carry no time/timezone info — the
+        # date must be taken as-is. Routing it through a UTC instant and
+        # back to LOCAL_TZ (as timed events correctly do) shifts it a day
+        # early here, since Atlantic time sits behind UTC.
+        if all_day:
+            date_str = dtstart.dt.strftime("%Y-%m-%d")
+        else:
+            date_str = start_dt.astimezone(LOCAL_TZ).strftime("%Y-%m-%d")
+
         events.append({
             "title":    summary,
-            "date":     start_dt.astimezone(LOCAL_TZ).strftime("%Y-%m-%d"),
+            "date":     date_str,
             "time":     format_time(dtstart.dt) if not all_day else None,
             "end":      end_dt.isoformat() if end_dt else None,
             "all_day":  all_day,
