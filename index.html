@@ -18,7 +18,7 @@
   --teal:   #5ecfcf;
   --purple: #a07ad0;
   --text:   #dde6f0;
-  --muted:  #4a607a;
+  --muted:  #7c94ad;
   --dim:    #1e2a3a;
   --red:    #d07070;
   --green:  #6ec87e;
@@ -76,12 +76,12 @@ html, body {
 }
 #date-line {
   font-family: 'Playfair Display', serif;
-  font-size: 15px; color: var(--text); margin-top: 5px;
+  font-size: 19px; color: var(--text); margin-top: 6px;
 }
 #date-sub {
   font-family: 'Inconsolata', monospace;
-  font-size: 10px; color: var(--muted);
-  letter-spacing: 2px; margin-top: 2px;
+  font-size: 13px; color: var(--muted);
+  letter-spacing: 2px; margin-top: 3px;
 }
 
 /* Today label */
@@ -405,7 +405,7 @@ html, body {
         </div>
         <div id="wx-desc">LOADING WEATHER</div>
         <div id="wx-feels">FEELS LIKE --°</div>
-        <div id="wx-loc">📍 Nauwigewauk, NB</div>
+        <div id="wx-loc">📍 Saint John, NB</div>
       </div>
       <div class="wx-grid">
         <div class="wx-cell"><div class="wx-lbl">HUMIDITY</div><div class="wx-val" id="ws-h">--%</div></div>
@@ -798,7 +798,7 @@ function renderWx(d) {
 
 async function fetchWx() {
   try {
-    const url = 'https://api.open-meteo.com/v1/forecast?latitude=45.4724&longitude=-65.8945&timezone=auto&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,precipitation&daily=temperature_2m_min,temperature_2m_max,weather_code,uv_index_max&hourly=temperature_2m,weather_code,precipitation_probability&forecast_days=7&wind_speed_unit=kmh';
+    const url = 'https://api.open-meteo.com/v1/forecast?latitude=45.2733&longitude=-66.0633&timezone=auto&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,precipitation&daily=temperature_2m_min,temperature_2m_max,weather_code,uv_index_max&hourly=temperature_2m,weather_code,precipitation_probability&forecast_days=7&wind_speed_unit=kmh';
     renderWx(await (await fetch(url)).json());
   } catch { document.getElementById('wx-desc').textContent = 'WEATHER UNAVAILABLE'; }
 }
