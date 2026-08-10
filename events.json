@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Recycling day",
-      "date": "2026-08-10",
-      "time": "8:00 AM",
-      "end": "2026-08-10T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Need milk expired aug8",
       "date": "2026-08-10",
       "time": "8:00 PM",
@@ -39,26 +29,6 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-08-10",
-      "time": "9:00 AM",
-      "end": "2026-08-10T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-08-10",
-      "time": "9:30 AM",
-      "end": "2026-08-10T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
     },
     {
       "title": "Laure physio",
@@ -401,6 +371,16 @@
       "source": "icloud"
     },
     {
+      "title": "Winnie milk expires aug 29",
+      "date": "2026-08-31",
+      "time": "8:00 AM",
+      "end": "2026-08-31T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-08-31",
       "time": "9:00 AM",
@@ -509,9 +489,19 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
+      "date": "2026-09-09",
+      "time": "10:30 AM",
+      "end": "2026-09-09T14:30:00+00:00",
+      "all_day": false,
+      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-10T11:59:46.375539+00:00",
+  "fetched_at": "2026-08-10T13:35:47.021090+00:00",
   "calendars": [
     "outlook",
     "icloud"
