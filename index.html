@@ -39,7 +39,7 @@ html, body {
   display: grid;
   width: 100%; height: 100%;
   grid-template-columns: 340px 1fr;
-  grid-template-rows: 1fr 210px;
+  grid-template-rows: 1fr 250px;
   padding: 2.2vw 2.5vw;
   gap: 0;
 }
@@ -665,15 +665,15 @@ function buildCalStrip(events) {
     if (!evs.length) {
       eWrap.innerHTML = '<div class="no-cev">—</div>';
     } else {
-      evs.slice(0,3).forEach(ev => {
+      evs.slice(0,5).forEach(ev => {
         const e = document.createElement('div');
         e.className = ('cev ' + calClass(ev) + (ev.all_day ? ' allday' : '')).trim();
         e.innerHTML = `${ev.all_day ? '' : `<span class="cev-time">${ev.time}</span>`}${ev.title}`;
         eWrap.appendChild(e);
       });
-      if (evs.length > 3) {
+      if (evs.length > 5) {
         const m = document.createElement('div');
-        m.className = 'no-cev'; m.textContent = `+${evs.length-3} more`;
+        m.className = 'no-cev'; m.textContent = `+${evs.length-5} more`;
         eWrap.appendChild(m);
       }
     }
