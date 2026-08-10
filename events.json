@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "NCC meeting",
-      "date": "2026-08-10",
-      "time": "7:00 PM",
-      "end": "2026-08-10T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Need milk expired aug8",
       "date": "2026-08-10",
       "time": "8:00 PM",
@@ -501,7 +491,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-10T22:56:40.716428+00:00",
+  "fetched_at": "2026-08-10T23:41:27.035814+00:00",
   "calendars": [
     "outlook",
     "icloud"
