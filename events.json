@@ -11,16 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure physio",
-      "date": "2026-08-11",
-      "time": "5:00 PM",
-      "end": "2026-08-11T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-08-12",
       "time": "10:30 AM",
@@ -469,9 +459,19 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Laure physio",
+      "date": "2026-09-10",
+      "time": "5:00 PM",
+      "end": "2026-09-10T21:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-11T20:49:55.565044+00:00",
+  "fetched_at": "2026-08-11T21:52:00.972224+00:00",
   "calendars": [
     "outlook",
     "icloud"
