@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Colin & Brittany anniversary ",
-      "date": "2026-08-12",
-      "time": null,
-      "end": "2026-08-13T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Budget 2027 - Branch Manager Drop-In Call (Optional - Will Be Recorded)",
       "date": "2026-08-13",
       "time": "3:00 PM",
@@ -461,7 +451,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-13T02:37:46.667401+00:00",
+  "fetched_at": "2026-08-13T04:30:15.107113+00:00",
   "calendars": [
     "outlook",
     "icloud"
