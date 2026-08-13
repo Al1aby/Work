@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Budget 2027 - Branch Manager Drop-In Call (Optional - Will Be Recorded)",
-      "date": "2026-08-13",
-      "time": "3:00 PM",
-      "end": "2026-08-13T18:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure therapy ",
       "date": "2026-08-13",
       "time": "7:00 PM",
@@ -451,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-13T17:29:18.358180+00:00",
+  "fetched_at": "2026-08-13T18:30:20.246453+00:00",
   "calendars": [
     "outlook",
     "icloud"
