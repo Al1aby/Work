@@ -419,9 +419,29 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-09-14",
+      "time": "9:00 AM",
+      "end": "2026-09-14T12:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-09-14",
+      "time": "9:30 AM",
+      "end": "2026-09-14T13:00:00+00:00",
+      "all_day": false,
+      "location": "Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-15T11:49:18.360672+00:00",
+  "fetched_at": "2026-08-15T12:42:29.470458+00:00",
   "calendars": [
     "outlook",
     "icloud"
