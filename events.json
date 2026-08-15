@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Saint John Summer Party",
-      "date": "2026-08-15",
-      "time": "1:30 PM",
-      "end": "2026-08-15T20:00:00+00:00",
-      "all_day": false,
-      "location": "Saint John Marina (2050 Westfield Rd, Saint John NB E2M 6H2, Canada)",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Saint John summer party",
-      "date": "2026-08-15",
-      "time": "1:30 PM",
-      "end": "2026-08-15T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Kv community fest ",
       "date": "2026-08-15",
       "time": "4:00 PM",
@@ -441,7 +421,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-15T19:56:53.492764+00:00",
+  "fetched_at": "2026-08-15T20:30:52.901928+00:00",
   "calendars": [
     "outlook",
     "icloud"
