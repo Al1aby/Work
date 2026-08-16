@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Photos",
-      "date": "2026-08-16",
-      "time": "6:20 PM",
-      "end": "2026-08-16T22:20:00+00:00",
-      "all_day": false,
-      "location": "Irving Nature Park\nSand Cove Rd, Saint John NB E2M 4Z9, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure yoga",
       "date": "2026-08-17",
       "time": "7:00 PM",
@@ -461,7 +451,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-16T21:46:04.799095+00:00",
+  "fetched_at": "2026-08-16T22:24:16.432120+00:00",
   "calendars": [
     "outlook",
     "icloud"
