@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "House cleaning ",
-      "date": "2026-08-18",
-      "time": "8:30 AM",
-      "end": "2026-08-18T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Spruce Lake and Howes Lake Landfill Site Visits",
       "date": "2026-08-19",
       "time": "9:30 AM",
@@ -107,6 +97,16 @@
       "end": "2026-08-25T12:00:00+00:00",
       "all_day": false,
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "House cleaning ",
+      "date": "2026-08-25",
+      "time": "8:30 AM",
+      "end": "2026-08-25T15:00:00+00:00",
+      "all_day": false,
+      "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -431,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-17T20:00:31.116113+00:00",
+  "fetched_at": "2026-08-17T20:44:15.354673+00:00",
   "calendars": [
     "outlook",
     "icloud"
