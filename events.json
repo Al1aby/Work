@@ -11,46 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Winnie\u2019s doctor",
-      "date": "2026-08-17",
-      "time": "8:45 AM",
-      "end": "2026-08-17T12:45:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Winnie dr appt",
-      "date": "2026-08-17",
-      "time": "8:45 AM",
-      "end": "2026-08-17T12:45:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-08-17",
-      "time": "9:00 AM",
-      "end": "2026-08-17T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-08-17",
-      "time": "9:30 AM",
-      "end": "2026-08-17T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Compost day ",
       "date": "2026-08-18",
       "time": "8:00 AM",
@@ -451,7 +411,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-17T12:00:55.261097+00:00",
+  "fetched_at": "2026-08-17T13:06:36.400731+00:00",
   "calendars": [
     "outlook",
     "icloud"
