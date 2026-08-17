@@ -301,6 +301,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-09-08",
+      "time": null,
+      "end": "2026-09-09T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Maternal fetal assessment appt - 1:45",
       "date": "2026-09-08",
       "time": "1:00 PM",
@@ -339,6 +349,16 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Laure in office ",
+      "date": "2026-09-10",
+      "time": null,
+      "end": "2026-09-12T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Laure physio",
@@ -411,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-17T13:06:36.400731+00:00",
+  "fetched_at": "2026-08-17T13:53:15.581452+00:00",
   "calendars": [
     "outlook",
     "icloud"
