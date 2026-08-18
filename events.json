@@ -11,36 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure in office ",
-      "date": "2026-08-20",
-      "time": null,
-      "end": "2026-08-21T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure massage",
-      "date": "2026-08-24",
-      "time": "6:45 PM",
-      "end": "2026-08-24T22:45:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Recycling day",
-      "date": "2026-08-24",
-      "time": "8:00 AM",
-      "end": "2026-08-24T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-08-24",
       "time": "9:00 AM",
@@ -71,36 +41,6 @@
       "source": "outlook"
     },
     {
-      "title": "Garbage day",
-      "date": "2026-08-25",
-      "time": "8:00 AM",
-      "end": "2026-08-25T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "House cleaning ",
-      "date": "2026-08-25",
-      "time": "8:30 AM",
-      "end": "2026-08-25T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure in Fredericton",
-      "date": "2026-08-26",
-      "time": null,
-      "end": "2026-08-27T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-08-26",
       "time": "10:30 AM",
@@ -121,76 +61,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure in office ",
-      "date": "2026-08-27",
-      "time": null,
-      "end": "2026-08-28T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Dr appt ",
-      "date": "2026-08-27",
-      "time": "1:00 PM",
-      "end": "2026-08-27T17:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Tilly bday party ",
-      "date": "2026-08-27",
-      "time": "4:30 PM",
-      "end": "2026-08-27T21:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Amy and Derek anniversary",
-      "date": "2026-08-28",
-      "time": null,
-      "end": "2026-08-29T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Prenatal visit",
-      "date": "2026-08-28",
-      "time": "3:00 PM",
-      "end": "2026-08-28T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Yoga ",
-      "date": "2026-08-31",
-      "time": "7:00 PM",
-      "end": "2026-08-31T23:00:00+00:00",
-      "all_day": false,
-      "location": "Porter Rd\nNauwigewauk, NB, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Winnie milk expires aug 29",
-      "date": "2026-08-31",
-      "time": "8:00 AM",
-      "end": "2026-08-31T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-08-31",
       "time": "9:00 AM",
@@ -209,46 +79,6 @@
       "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Compost day ",
-      "date": "2026-09-01",
-      "time": "8:00 AM",
-      "end": "2026-09-01T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Aaron -  check & clean furnace filter ",
-      "date": "2026-09-05",
-      "time": "9:00 AM",
-      "end": "2026-09-05T13:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure therapy ",
-      "date": "2026-09-07",
-      "time": "7:00 PM",
-      "end": "2026-09-07T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Recycling day",
-      "date": "2026-09-07",
-      "time": "8:00 AM",
-      "end": "2026-09-07T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -281,46 +111,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure in office ",
-      "date": "2026-09-08",
-      "time": null,
-      "end": "2026-09-09T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Maternal fetal assessment appt - 1:45",
-      "date": "2026-09-08",
-      "time": "1:00 PM",
-      "end": "2026-09-08T18:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Garbage day",
-      "date": "2026-09-08",
-      "time": "8:00 AM",
-      "end": "2026-09-08T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Tiffany birthday ",
-      "date": "2026-09-09",
-      "time": null,
-      "end": "2026-09-10T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-09-09",
       "time": "10:30 AM",
@@ -329,46 +119,6 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Laure in office ",
-      "date": "2026-09-10",
-      "time": null,
-      "end": "2026-09-12T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure physio",
-      "date": "2026-09-10",
-      "time": "5:00 PM",
-      "end": "2026-09-10T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "NCC meeting",
-      "date": "2026-09-14",
-      "time": "7:00 PM",
-      "end": "2026-09-14T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Katie symperica",
-      "date": "2026-09-14",
-      "time": "8:00 PM",
-      "end": "2026-09-15T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -389,32 +139,11 @@
       "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Laure massage",
-      "date": "2026-09-15",
-      "time": "6:30 PM",
-      "end": "2026-09-15T22:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Compost day ",
-      "date": "2026-09-15",
-      "time": "8:00 AM",
-      "end": "2026-09-15T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-18T19:34:38.670843+00:00",
+  "fetched_at": "2026-08-18T19:58:34.420062+00:00",
   "calendars": [
-    "outlook",
-    "icloud"
+    "outlook"
   ],
-  "error": null
+  "error": "icloud: 503 Server Error: Service Unavailable for url: https://p165-caldav.icloud.com/published/2/Mjc1MDE3NTk4Mjc1MDE3NcNKGptmumQbi69riMVJicVrcLZINKkxPaqFq1UjFIYeSXvsQh0mv80XocmmlmSw9gQy8s1oFPN_FK4HFE5pMtU"
 }
