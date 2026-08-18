@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Compost day ",
-      "date": "2026-08-18",
-      "time": "8:00 AM",
-      "end": "2026-08-18T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Spruce Lake and Howes Lake Landfill Site Visits",
       "date": "2026-08-19",
       "time": "9:30 AM",
@@ -421,7 +411,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-18T11:42:06.617763+00:00",
+  "fetched_at": "2026-08-18T12:02:46.357910+00:00",
   "calendars": [
     "outlook",
     "icloud"
