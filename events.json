@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Spruce Lake and Howes Lake Landfill Site Visits",
-      "date": "2026-08-19",
-      "time": "9:30 AM",
-      "end": "2026-08-19T15:00:00+00:00",
-      "all_day": false,
-      "location": "Paddys Hill Drive, Saint John, NB",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-08-20",
       "time": null,
@@ -411,7 +401,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-19T14:42:02.731278+00:00",
+  "fetched_at": "2026-08-19T15:13:54.037491+00:00",
   "calendars": [
     "outlook",
     "icloud"
