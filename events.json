@@ -161,6 +161,16 @@
       "source": "icloud"
     },
     {
+      "title": "Meeting",
+      "date": "2026-08-28",
+      "time": "2:30 PM",
+      "end": "2026-08-28T20:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Prenatal visit",
       "date": "2026-08-28",
       "time": "3:00 PM",
@@ -411,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-20T16:45:38.243806+00:00",
+  "fetched_at": "2026-08-20T17:32:21.266921+00:00",
   "calendars": [
     "outlook",
     "icloud"
