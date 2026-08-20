@@ -11,6 +11,16 @@
       "source": "icloud"
     },
     {
+      "title": "Coffee with Josie & Kate",
+      "date": "2026-08-23",
+      "time": "10:30 AM",
+      "end": "2026-08-23T15:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Supper @ M&K\u2019s",
       "date": "2026-08-23",
       "time": "3:30 PM",
@@ -421,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-20T20:02:51.928881+00:00",
+  "fetched_at": "2026-08-20T20:47:11.727757+00:00",
   "calendars": [
     "outlook",
     "icloud"
