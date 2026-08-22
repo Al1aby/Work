@@ -439,9 +439,29 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-09-21",
+      "time": "9:00 AM",
+      "end": "2026-09-21T12:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-09-21",
+      "time": "9:30 AM",
+      "end": "2026-09-21T13:00:00+00:00",
+      "all_day": false,
+      "location": "Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-22T11:46:59.004232+00:00",
+  "fetched_at": "2026-08-22T12:44:43.000295+00:00",
   "calendars": [
     "outlook",
     "icloud"
