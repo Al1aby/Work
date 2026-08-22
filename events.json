@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Magic cards with the guys",
-      "date": "2026-08-21",
-      "time": "8:30 PM",
-      "end": "2026-08-22T02:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pool?",
       "date": "2026-08-22",
       "time": "2:00 PM",
@@ -441,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-22T01:44:38.443575+00:00",
+  "fetched_at": "2026-08-22T02:41:46.850470+00:00",
   "calendars": [
     "outlook",
     "icloud"
