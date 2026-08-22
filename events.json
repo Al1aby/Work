@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Pool?",
-      "date": "2026-08-22",
-      "time": "2:00 PM",
-      "end": "2026-08-22T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Coffee with Josie & Kate",
       "date": "2026-08-23",
       "time": "10:30 AM",
@@ -461,7 +451,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-22T19:57:22.715998+00:00",
+  "fetched_at": "2026-08-22T20:31:51.176818+00:00",
   "calendars": [
     "outlook",
     "icloud"
