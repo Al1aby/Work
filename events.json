@@ -71,16 +71,6 @@
       "source": "icloud"
     },
     {
-      "title": "House cleaning ",
-      "date": "2026-08-25",
-      "time": "8:30 AM",
-      "end": "2026-08-25T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in Fredericton",
       "date": "2026-08-26",
       "time": null,
@@ -185,6 +175,16 @@
       "date": "2026-08-31",
       "time": "8:00 AM",
       "end": "2026-08-31T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "House cleaning ",
+      "date": "2026-08-31",
+      "time": "8:30 AM",
+      "end": "2026-08-31T15:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -461,7 +461,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-23T16:35:57.323753+00:00",
+  "fetched_at": "2026-08-23T17:01:48.020685+00:00",
   "calendars": [
     "outlook",
     "icloud"
