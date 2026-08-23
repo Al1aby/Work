@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Supper @ M&K\u2019s",
-      "date": "2026-08-23",
-      "time": "3:30 PM",
-      "end": "2026-08-23T21:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure massage",
       "date": "2026-08-24",
       "time": "6:45 PM",
@@ -461,7 +451,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-23T21:29:58.086259+00:00",
+  "fetched_at": "2026-08-23T21:50:57.657208+00:00",
   "calendars": [
     "outlook",
     "icloud"
