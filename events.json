@@ -459,9 +459,19 @@
       "location": null,
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Garbage day",
+      "date": "2026-09-22",
+      "time": "8:00 AM",
+      "end": "2026-09-22T12:00:00+00:00",
+      "all_day": false,
+      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-23T10:34:06.905388+00:00",
+  "fetched_at": "2026-08-23T11:00:06.839779+00:00",
   "calendars": [
     "outlook",
     "icloud"
