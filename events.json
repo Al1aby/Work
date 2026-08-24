@@ -11,26 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-08-24",
-      "time": "9:00 AM",
-      "end": "2026-08-24T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-08-24",
-      "time": "9:30 AM",
-      "end": "2026-08-24T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Pay day",
       "date": "2026-08-25",
       "time": null,
@@ -441,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-24T12:02:08.067128+00:00",
+  "fetched_at": "2026-08-24T13:13:21.582468+00:00",
   "calendars": [
     "outlook",
     "icloud"
