@@ -419,9 +419,19 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Laure Toronto",
+      "date": "2026-09-24",
+      "time": null,
+      "end": "2026-09-26T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-25T01:45:42.740117+00:00",
+  "fetched_at": "2026-08-25T03:01:21.617791+00:00",
   "calendars": [
     "outlook",
     "icloud"
