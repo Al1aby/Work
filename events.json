@@ -31,16 +31,6 @@
       "source": "outlook"
     },
     {
-      "title": "P&C Drop-in Sessions",
-      "date": "2026-08-26",
-      "time": "2:30 PM",
-      "end": "2026-08-26T18:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-08-27",
       "time": null,
@@ -421,7 +411,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-25T13:11:38.982086+00:00",
+  "fetched_at": "2026-08-25T14:05:30.883097+00:00",
   "calendars": [
     "outlook",
     "icloud"
