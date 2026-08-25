@@ -409,9 +409,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "P&C Drop-in Sessions",
+      "date": "2026-09-24",
+      "time": "2:30 PM",
+      "end": "2026-09-24T18:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-25T16:56:00.768298+00:00",
+  "fetched_at": "2026-08-25T17:35:57.583062+00:00",
   "calendars": [
     "outlook",
     "icloud"
