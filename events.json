@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
-      "date": "2026-08-26",
-      "time": "10:30 AM",
-      "end": "2026-08-26T14:30:00+00:00",
-      "all_day": false,
-      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "McBrien Lake",
       "date": "2026-08-26",
       "time": "3:30 PM",
@@ -421,7 +411,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-26T13:58:44.312038+00:00",
+  "fetched_at": "2026-08-26T14:53:42.433407+00:00",
   "calendars": [
     "outlook",
     "icloud"
