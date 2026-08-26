@@ -21,6 +21,16 @@
       "source": "outlook"
     },
     {
+      "title": "McBrien Lake",
+      "date": "2026-08-26",
+      "time": "3:30 PM",
+      "end": "2026-08-26T19:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Laure in office ",
       "date": "2026-08-27",
       "time": null,
@@ -411,7 +421,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-26T12:57:48.030014+00:00",
+  "fetched_at": "2026-08-26T13:58:44.312038+00:00",
   "calendars": [
     "outlook",
     "icloud"
