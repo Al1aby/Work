@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Pay day",
-      "date": "2026-08-25",
-      "time": null,
-      "end": "2026-08-26T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure in Fredericton",
       "date": "2026-08-26",
       "time": null,
@@ -421,7 +411,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-26T02:51:43.087131+00:00",
+  "fetched_at": "2026-08-26T03:55:26.029691+00:00",
   "calendars": [
     "outlook",
     "icloud"
