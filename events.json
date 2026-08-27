@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Dr appt ",
-      "date": "2026-08-27",
-      "time": "1:00 PM",
-      "end": "2026-08-27T17:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Tilly bday party ",
       "date": "2026-08-27",
       "time": "4:30 PM",
@@ -401,7 +391,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-27T10:09:18.562764+00:00",
+  "fetched_at": "2026-08-27T20:31:50.723757+00:00",
   "calendars": [
     "outlook",
     "icloud"
