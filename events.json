@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in Fredericton",
-      "date": "2026-08-26",
-      "time": null,
-      "end": "2026-08-27T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-08-27",
       "time": null,
@@ -411,7 +401,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-27T00:15:37.791219+00:00",
+  "fetched_at": "2026-08-27T10:09:18.562764+00:00",
   "calendars": [
     "outlook",
     "icloud"
