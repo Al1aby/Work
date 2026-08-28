@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in office ",
-      "date": "2026-08-27",
-      "time": null,
-      "end": "2026-08-28T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Tilly bday party ",
-      "date": "2026-08-27",
-      "time": "4:30 PM",
-      "end": "2026-08-27T21:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Amy and Derek anniversary",
       "date": "2026-08-28",
       "time": null,
@@ -251,6 +231,26 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-09-14",
+      "time": null,
+      "end": "2026-09-15T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Doctors appt ",
+      "date": "2026-09-14",
+      "time": "3:30 PM",
+      "end": "2026-09-14T19:00:00+00:00",
+      "all_day": false,
+      "location": "Chelsey drive ",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "NCC meeting",
       "date": "2026-09-14",
       "time": "7:00 PM",
@@ -391,7 +391,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-27T20:31:50.723757+00:00",
+  "fetched_at": "2026-08-28T04:30:49.377775+00:00",
   "calendars": [
     "outlook",
     "icloud"
