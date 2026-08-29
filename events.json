@@ -359,9 +359,29 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-09-28",
+      "time": "9:00 AM",
+      "end": "2026-09-28T12:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-09-28",
+      "time": "9:30 AM",
+      "end": "2026-09-28T13:00:00+00:00",
+      "all_day": false,
+      "location": "Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-29T07:43:36.997053+00:00",
+  "fetched_at": "2026-08-29T13:23:01.579670+00:00",
   "calendars": [
     "outlook",
     "icloud"
