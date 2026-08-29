@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Amy and Derek anniversary",
-      "date": "2026-08-28",
-      "time": null,
-      "end": "2026-08-29T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-08-31",
       "time": null,
@@ -371,7 +361,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-29T00:55:08.227985+00:00",
+  "fetched_at": "2026-08-29T07:43:36.997053+00:00",
   "calendars": [
     "outlook",
     "icloud"
