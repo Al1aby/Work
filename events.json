@@ -11,26 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Meeting",
-      "date": "2026-08-28",
-      "time": "2:30 PM",
-      "end": "2026-08-28T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Prenatal visit",
-      "date": "2026-08-28",
-      "time": "3:00 PM",
-      "end": "2026-08-28T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-08-31",
       "time": null,
@@ -391,7 +371,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-08-28T16:56:17.588292+00:00",
+  "fetched_at": "2026-08-29T00:55:08.227985+00:00",
   "calendars": [
     "outlook",
     "icloud"
