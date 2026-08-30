@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Winnie milk expires aug 29",
-      "date": "2026-08-31",
-      "time": "8:00 AM",
-      "end": "2026-08-31T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-08-31",
       "time": "9:00 AM",
@@ -391,7 +381,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-30T15:28:18.329241+00:00",
+  "fetched_at": "2026-08-30T18:45:48.966336+00:00",
   "calendars": [
     "outlook",
     "icloud"
