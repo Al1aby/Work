@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Yoga ",
-      "date": "2026-08-31",
-      "time": "7:00 PM",
-      "end": "2026-08-31T23:00:00+00:00",
-      "all_day": false,
-      "location": "Porter Rd\nNauwigewauk, NB, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Compost day ",
       "date": "2026-09-01",
       "time": "8:00 AM",
@@ -371,7 +361,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-08-31T19:36:07.268378+00:00",
+  "fetched_at": "2026-08-31T23:25:16.509758+00:00",
   "calendars": [
     "outlook",
     "icloud"
