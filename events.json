@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Compost day ",
-      "date": "2026-09-01",
-      "time": "8:00 AM",
-      "end": "2026-09-01T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "House cleaning ",
       "date": "2026-09-01",
       "time": "8:30 AM",
@@ -351,7 +341,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-01T07:41:15.895448+00:00",
+  "fetched_at": "2026-09-01T12:46:22.936024+00:00",
   "calendars": [
     "outlook",
     "icloud"
