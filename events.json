@@ -11,6 +11,16 @@
       "source": "icloud"
     },
     {
+      "title": "Shoe shopping - Win and Aaron ",
+      "date": "2026-09-05",
+      "time": "9:00 AM",
+      "end": "2026-09-05T14:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-09-05",
       "time": "9:00 AM",
@@ -411,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-03T14:14:43.185864+00:00",
+  "fetched_at": "2026-09-03T17:53:39.265214+00:00",
   "calendars": [
     "outlook",
     "icloud"
