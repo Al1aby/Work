@@ -1,6 +1,16 @@
 {
   "events": [
     {
+      "title": "GEMTEC football draft",
+      "date": "2026-09-03",
+      "time": "7:30 PM",
+      "end": "2026-09-03T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-09-05",
       "time": "9:00 AM",
@@ -34,7 +44,7 @@
       "title": "Fantasy draft",
       "date": "2026-09-07",
       "time": "8:00 PM",
-      "end": "2026-09-09T02:00:00+00:00",
+      "end": "2026-09-08T02:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -331,6 +341,16 @@
       "source": "outlook"
     },
     {
+      "title": "Finance Drop-In Session (Sept 29th)",
+      "date": "2026-09-29",
+      "time": "2:00 PM",
+      "end": "2026-09-29T18:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Hair appt",
       "date": "2026-09-29",
       "time": "7:30 PM",
@@ -359,9 +379,39 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-10-03",
+      "time": "10:40 AM",
+      "end": "2026-10-03T14:10:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Nauwigewauk Fall Fair",
+      "date": "2026-10-03",
+      "time": "11:00 AM",
+      "end": "2026-10-03T15:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Aaron -  check & clean furnace filter ",
+      "date": "2026-10-03",
+      "time": "9:00 AM",
+      "end": "2026-10-03T13:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-03T09:53:18.999011+00:00",
+  "fetched_at": "2026-09-03T14:14:43.185864+00:00",
   "calendars": [
     "outlook",
     "icloud"
