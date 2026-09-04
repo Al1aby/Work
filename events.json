@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "GEMTEC football draft",
-      "date": "2026-09-03",
-      "time": "7:30 PM",
-      "end": "2026-09-03T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Shoe shopping - Win and Aaron ",
       "date": "2026-09-05",
       "time": "9:00 AM",
@@ -25,6 +15,16 @@
       "date": "2026-09-05",
       "time": "9:00 AM",
       "end": "2026-09-05T13:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Supper @ M&K\u2019s",
+      "date": "2026-09-06",
+      "time": "3:00 PM",
+      "end": "2026-09-06T22:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -421,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-03T22:50:14.348392+00:00",
+  "fetched_at": "2026-09-04T00:51:14.137811+00:00",
   "calendars": [
     "outlook",
     "icloud"
