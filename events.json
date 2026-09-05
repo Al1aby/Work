@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Shoe shopping - Win and Aaron ",
-      "date": "2026-09-05",
-      "time": "9:00 AM",
-      "end": "2026-09-05T14:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Aaron -  check & clean furnace filter ",
-      "date": "2026-09-05",
-      "time": "9:00 AM",
-      "end": "2026-09-05T13:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Supper @ M&K\u2019s",
       "date": "2026-09-06",
       "time": "3:00 PM",
@@ -439,9 +419,19 @@
       "location": "Saint John Board room",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-10-05",
+      "time": "9:30 AM",
+      "end": "2026-10-05T13:00:00+00:00",
+      "all_day": false,
+      "location": "Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-05T12:06:35.112164+00:00",
+  "fetched_at": "2026-09-05T15:15:44.991829+00:00",
   "calendars": [
     "outlook",
     "icloud"
