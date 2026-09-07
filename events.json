@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Recycling day",
-      "date": "2026-09-07",
-      "time": "8:00 AM",
-      "end": "2026-09-07T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Fantasy draft",
       "date": "2026-09-07",
       "time": "8:00 PM",
@@ -29,16 +19,6 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-09-07",
-      "time": "9:00 AM",
-      "end": "2026-09-07T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
     },
     {
       "title": "Monday Meeting",
@@ -451,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-07T06:07:48.333584+00:00",
+  "fetched_at": "2026-09-07T12:35:52.249410+00:00",
   "calendars": [
     "outlook",
     "icloud"
