@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure therapy ",
-      "date": "2026-09-07",
-      "time": "7:00 PM",
-      "end": "2026-09-07T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Fantasy draft",
       "date": "2026-09-07",
       "time": "8:00 PM",
@@ -431,7 +421,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-07T21:20:09.853491+00:00",
+  "fetched_at": "2026-09-07T23:40:31.018957+00:00",
   "calendars": [
     "outlook",
     "icloud"
