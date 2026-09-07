@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Monday Meeting",
-      "date": "2026-09-07",
-      "time": "9:30 AM",
-      "end": "2026-09-07T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Pay day",
       "date": "2026-09-08",
       "time": null,
@@ -429,9 +419,19 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
+      "date": "2026-10-07",
+      "time": "10:30 AM",
+      "end": "2026-10-07T14:30:00+00:00",
+      "all_day": false,
+      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-07T12:35:52.249410+00:00",
+  "fetched_at": "2026-09-07T17:55:22.881209+00:00",
   "calendars": [
     "outlook",
     "icloud"
