@@ -21,26 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Laure Doctor",
-      "date": "2026-09-08",
-      "time": "1:00 PM",
-      "end": "2026-09-08T17:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Maternal fetal assessment appt - 1:45",
-      "date": "2026-09-08",
-      "time": "1:00 PM",
-      "end": "2026-09-08T18:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Tiffany birthday ",
       "date": "2026-09-09",
       "time": null,
@@ -419,9 +399,19 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "LUNCH & LEARN - Closing Time: The Importance of Mine Rehabilitation & Closure Planning - Alison Way & Steve Tarrant",
+      "date": "2026-10-08",
+      "time": "12:30 PM",
+      "end": "2026-10-08T16:15:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-08T15:20:10.228762+00:00",
+  "fetched_at": "2026-09-08T18:53:49.140816+00:00",
   "calendars": [
     "outlook",
     "icloud"
