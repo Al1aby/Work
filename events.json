@@ -231,6 +231,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure therapy ",
+      "date": "2026-09-22",
+      "time": "7:00 PM",
+      "end": "2026-09-22T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Garbage day",
       "date": "2026-09-22",
       "time": "8:00 AM",
@@ -401,6 +411,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure therapy ",
+      "date": "2026-10-06",
+      "time": "6:45 PM",
+      "end": "2026-10-06T22:45:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Garbage day",
       "date": "2026-10-06",
       "time": "8:00 AM",
@@ -421,7 +441,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-07T23:40:31.018957+00:00",
+  "fetched_at": "2026-09-08T01:25:09.934455+00:00",
   "calendars": [
     "outlook",
     "icloud"
