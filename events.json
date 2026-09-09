@@ -381,6 +381,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure away conference ",
+      "date": "2026-10-07",
+      "time": null,
+      "end": "2026-10-10T00:00:00+00:00",
+      "all_day": true,
+      "location": "Fredericton\nCanada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-10-07",
       "time": "10:30 AM",
@@ -399,9 +409,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Mom visiting ",
+      "date": "2026-10-09",
+      "time": "12:00 PM",
+      "end": "2026-10-14T15:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-09T19:25:42.754949+00:00",
+  "fetched_at": "2026-09-09T21:52:06.953741+00:00",
   "calendars": [
     "outlook",
     "icloud"
