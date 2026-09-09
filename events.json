@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Pay day",
-      "date": "2026-09-08",
-      "time": null,
-      "end": "2026-09-09T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Laure in office ",
-      "date": "2026-09-08",
-      "time": null,
-      "end": "2026-09-09T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Tiffany birthday ",
       "date": "2026-09-09",
       "time": null,
@@ -411,7 +391,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-09T01:35:07.604343+00:00",
+  "fetched_at": "2026-09-09T06:43:36.415190+00:00",
   "calendars": [
     "outlook",
     "icloud"
