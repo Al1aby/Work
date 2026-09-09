@@ -41,6 +41,26 @@
       "source": "icloud"
     },
     {
+      "title": "Required Training Block",
+      "date": "2026-09-14",
+      "time": "10:00 AM",
+      "end": "2026-09-14T15:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Safety Orientation Session",
+      "date": "2026-09-14",
+      "time": "2:30 PM",
+      "end": "2026-09-14T18:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Doctors appt ",
       "date": "2026-09-14",
       "time": "3:30 PM",
@@ -381,7 +401,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-09T16:28:50.657439+00:00",
+  "fetched_at": "2026-09-09T19:25:42.754949+00:00",
   "calendars": [
     "outlook",
     "icloud"
