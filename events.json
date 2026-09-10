@@ -419,9 +419,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-10-10",
+      "time": "10:40 AM",
+      "end": "2026-10-10T14:10:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-10T13:25:27.800657+00:00",
+  "fetched_at": "2026-09-10T17:05:47.791411+00:00",
   "calendars": [
     "outlook",
     "icloud"
