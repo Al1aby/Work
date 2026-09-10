@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Laure physio",
-      "date": "2026-09-10",
-      "time": "5:00 PM",
-      "end": "2026-09-10T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-09-14",
       "time": null,
@@ -281,6 +271,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure physio",
+      "date": "2026-10-01",
+      "time": "5:00 PM",
+      "end": "2026-10-01T21:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Glucose challenge - 845",
       "date": "2026-10-02",
       "time": "8:30 AM",
@@ -431,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-10T19:42:41.595258+00:00",
+  "fetched_at": "2026-09-10T21:57:10.520086+00:00",
   "calendars": [
     "outlook",
     "icloud"
