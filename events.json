@@ -46,7 +46,7 @@
       "time": "2:30 PM",
       "end": "2026-09-14T18:30:00+00:00",
       "all_day": false,
-      "location": null,
+      "location": "Fundy Coast Room (124 Greenview Drive, Fredericton, NB E3C 2A5, CA)",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -421,7 +421,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-10T08:48:14.386528+00:00",
+  "fetched_at": "2026-09-10T13:25:27.800657+00:00",
   "calendars": [
     "outlook",
     "icloud"
