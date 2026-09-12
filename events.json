@@ -2,16 +2,6 @@
   "events": [
     {
       "title": "Laure in office ",
-      "date": "2026-09-10",
-      "time": null,
-      "end": "2026-09-12T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure in office ",
       "date": "2026-09-14",
       "time": null,
       "end": "2026-09-15T00:00:00+00:00",
@@ -291,6 +281,16 @@
       "source": "icloud"
     },
     {
+      "title": "Saint John Regional Hospital - Lab ",
+      "date": "2026-10-02",
+      "time": "8:45 AM",
+      "end": "2026-10-02T12:00:00+00:00",
+      "all_day": false,
+      "location": "Saint John Regional Hospital (400 University Ave, Saint John NB E2L 4L4, Canada)",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-10-03",
       "time": "10:40 AM",
@@ -431,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-12T00:30:56.224018+00:00",
+  "fetched_at": "2026-09-12T05:07:14.395233+00:00",
   "calendars": [
     "outlook",
     "icloud"
