@@ -431,6 +431,16 @@
       "source": "icloud"
     },
     {
+      "title": "NCC meeting",
+      "date": "2026-10-12",
+      "time": "7:00 PM",
+      "end": "2026-10-12T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-10-12",
       "time": "9:00 AM",
@@ -451,7 +461,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-12T20:58:33.026125+00:00",
+  "fetched_at": "2026-09-12T22:57:00.794780+00:00",
   "calendars": [
     "outlook",
     "icloud"
