@@ -121,6 +121,16 @@
       "source": "icloud"
     },
     {
+      "title": "Heather & Paul - M&K?",
+      "date": "2026-09-20",
+      "time": "3:00 PM",
+      "end": "2026-09-20T20:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Recycling day",
       "date": "2026-09-21",
       "time": "8:00 AM",
@@ -461,6 +471,16 @@
       "source": "outlook"
     },
     {
+      "title": "Maternal fetal assessment appt - 1:45",
+      "date": "2026-10-13",
+      "time": "1:00 PM",
+      "end": "2026-10-13T18:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Compost day ",
       "date": "2026-10-13",
       "time": "8:00 AM",
@@ -471,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-13T14:59:27.554718+00:00",
+  "fetched_at": "2026-09-13T18:05:15.369844+00:00",
   "calendars": [
     "outlook",
     "icloud"
