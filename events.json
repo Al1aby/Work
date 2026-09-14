@@ -61,16 +61,6 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-09-14",
-      "time": "9:00 AM",
-      "end": "2026-09-14T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Monday Meeting",
       "date": "2026-09-14",
       "time": "9:30 AM",
@@ -501,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-14T06:04:08.391444+00:00",
+  "fetched_at": "2026-09-14T12:50:37.821653+00:00",
   "calendars": [
     "outlook",
     "icloud"
