@@ -11,26 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Safety Orientation Session",
-      "date": "2026-09-14",
-      "time": "2:30 PM",
-      "end": "2026-09-14T18:30:00+00:00",
-      "all_day": false,
-      "location": "Fundy Coast Room (124 Greenview Drive, Fredericton, NB E3C 2A5, CA)",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Doctors appt ",
-      "date": "2026-09-14",
-      "time": "3:30 PM",
-      "end": "2026-09-14T19:00:00+00:00",
-      "all_day": false,
-      "location": "Chelsey drive ",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "NCC meeting",
       "date": "2026-09-14",
       "time": "7:00 PM",
@@ -235,6 +215,16 @@
       "date": "2026-09-29",
       "time": "8:00 AM",
       "end": "2026-09-29T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Katie nails - 930",
+      "date": "2026-09-29",
+      "time": "9:15 AM",
+      "end": "2026-09-29T13:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -481,7 +471,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-14T18:26:12.241265+00:00",
+  "fetched_at": "2026-09-14T21:58:06.063370+00:00",
   "calendars": [
     "outlook",
     "icloud"
