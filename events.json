@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Required Training Block",
-      "date": "2026-09-14",
-      "time": "10:00 AM",
-      "end": "2026-09-14T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Safety Orientation Session",
       "date": "2026-09-14",
       "time": "2:30 PM",
@@ -59,16 +49,6 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-09-14",
-      "time": "9:30 AM",
-      "end": "2026-09-14T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
     },
     {
       "title": "Laure massage",
@@ -489,9 +469,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Quarterly Meeting - Saint John Branch",
+      "date": "2026-10-14",
+      "time": "1:30 PM",
+      "end": "2026-10-14T17:00:00+00:00",
+      "all_day": false,
+      "location": "Fundy Coast Room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-14T12:50:37.821653+00:00",
+  "fetched_at": "2026-09-14T18:26:12.241265+00:00",
   "calendars": [
     "outlook",
     "icloud"
