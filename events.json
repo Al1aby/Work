@@ -11,30 +11,10 @@
       "source": "icloud"
     },
     {
-      "title": "Compost day ",
-      "date": "2026-09-15",
-      "time": "8:00 AM",
-      "end": "2026-09-15T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-09-16",
       "time": null,
       "end": "2026-09-18T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Cap pele ?",
-      "date": "2026-09-19",
-      "time": null,
-      "end": "2026-09-21T00:00:00+00:00",
       "all_day": true,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -139,6 +119,16 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Cap pele ?",
+      "date": "2026-09-26",
+      "time": null,
+      "end": "2026-09-28T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -459,9 +449,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Doctors appt ",
+      "date": "2026-10-15",
+      "time": "8:30 AM",
+      "end": "2026-10-15T12:00:00+00:00",
+      "all_day": false,
+      "location": "Chelsey drive ",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-15T10:08:24.143237+00:00",
+  "fetched_at": "2026-09-15T15:01:46.336376+00:00",
   "calendars": [
     "outlook",
     "icloud"
