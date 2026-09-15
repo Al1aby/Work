@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in office ",
-      "date": "2026-09-14",
-      "time": null,
-      "end": "2026-09-15T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure massage",
       "date": "2026-09-15",
       "time": "6:30 PM",
@@ -459,9 +449,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Laure in office ",
+      "date": "2026-10-15",
+      "time": null,
+      "end": "2026-10-16T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-15T00:28:17.855185+00:00",
+  "fetched_at": "2026-09-15T05:13:07.977238+00:00",
   "calendars": [
     "outlook",
     "icloud"
