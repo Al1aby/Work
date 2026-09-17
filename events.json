@@ -11,6 +11,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-09-18",
+      "time": null,
+      "end": "2026-09-19T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Heather & Paul - M&K?",
       "date": "2026-09-20",
       "time": "3:00 PM",
@@ -471,7 +481,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-17T18:27:41.652706+00:00",
+  "fetched_at": "2026-09-17T21:39:48.587751+00:00",
   "calendars": [
     "outlook",
     "icloud"
