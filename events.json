@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Heather & Paul - M&K?",
-      "date": "2026-09-20",
-      "time": "3:00 PM",
-      "end": "2026-09-20T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "2025-18 Highland Road",
       "date": "2026-09-21",
       "time": "2:30 PM",
@@ -511,7 +501,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-20T19:41:23.395857+00:00",
+  "fetched_at": "2026-09-20T21:53:06.865819+00:00",
   "calendars": [
     "outlook",
     "icloud"
