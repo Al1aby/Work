@@ -1,52 +1,22 @@
 {
   "events": [
     {
-      "title": "2025-18 Highland Road",
-      "date": "2026-09-21",
-      "time": "2:30 PM",
-      "end": "2026-09-21T18:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Recycling day",
-      "date": "2026-09-21",
-      "time": "8:00 AM",
-      "end": "2026-09-21T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-09-21",
-      "time": "9:00 AM",
-      "end": "2026-09-21T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-09-21",
-      "time": "9:30 AM",
-      "end": "2026-09-21T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Pay day",
       "date": "2026-09-22",
       "time": null,
       "end": "2026-09-23T00:00:00+00:00",
       "all_day": true,
       "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "McBrien lake dam",
+      "date": "2026-09-22",
+      "time": "11:00 AM",
+      "end": "2026-09-22T14:30:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -97,6 +67,16 @@
       "end": "2026-09-24T18:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "2025-18 Highland Road",
+      "date": "2026-09-24",
+      "time": "2:30 PM",
+      "end": "2026-09-24T18:30:00+00:00",
+      "all_day": false,
+      "location": null,
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -499,9 +479,19 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
+      "date": "2026-10-21",
+      "time": "10:30 AM",
+      "end": "2026-10-21T14:30:00+00:00",
+      "all_day": false,
+      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-21T10:13:44.858594+00:00",
+  "fetched_at": "2026-09-21T16:29:29.603319+00:00",
   "calendars": [
     "outlook",
     "icloud"
