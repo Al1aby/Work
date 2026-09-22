@@ -11,16 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "McBrien lake dam",
-      "date": "2026-09-22",
-      "time": "11:00 AM",
-      "end": "2026-09-22T14:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure therapy ",
       "date": "2026-09-22",
       "time": "7:00 PM",
@@ -481,7 +471,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-22T12:47:53.251049+00:00",
+  "fetched_at": "2026-09-22T17:33:33.147720+00:00",
   "calendars": [
     "outlook",
     "icloud"
