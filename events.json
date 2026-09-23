@@ -449,9 +449,19 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Drop & pickup Katie - 9am",
+      "date": "2026-10-23",
+      "time": "9:00 AM",
+      "end": "2026-10-25T12:00:00+00:00",
+      "all_day": false,
+      "location": "Mango Spaw and Services Inc\n648 Campbell Rd, Nerepis NB E5K 3W6, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-23T06:42:02.718059+00:00",
+  "fetched_at": "2026-09-23T12:16:29.296757+00:00",
   "calendars": [
     "outlook",
     "icloud"
