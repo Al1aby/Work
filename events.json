@@ -11,26 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "P&C Drop-in Sessions",
-      "date": "2026-09-24",
-      "time": "2:30 PM",
-      "end": "2026-09-24T18:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "2025-18 Highland Road",
-      "date": "2026-09-24",
-      "time": "2:30 PM",
-      "end": "2026-09-24T18:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Cap pele ?",
       "date": "2026-09-26",
       "time": null,
@@ -461,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-24T17:18:54.858301+00:00",
+  "fetched_at": "2026-09-24T20:40:26.079338+00:00",
   "calendars": [
     "outlook",
     "icloud"
