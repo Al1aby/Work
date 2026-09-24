@@ -449,9 +449,19 @@
       "location": "Mango Spaw and Services Inc\n648 Campbell Rd, Nerepis NB E5K 3W6, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-10-24",
+      "time": "10:40 AM",
+      "end": "2026-10-24T14:10:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-24T12:14:44.452557+00:00",
+  "fetched_at": "2026-09-24T17:18:54.858301+00:00",
   "calendars": [
     "outlook",
     "icloud"
