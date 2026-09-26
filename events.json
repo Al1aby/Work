@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure Toronto",
-      "date": "2026-09-24",
-      "time": null,
-      "end": "2026-09-26T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Cap pele ?",
       "date": "2026-09-26",
       "time": null,
@@ -451,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-26T00:01:44.723452+00:00",
+  "fetched_at": "2026-09-26T05:00:22.294717+00:00",
   "calendars": [
     "outlook",
     "icloud"
