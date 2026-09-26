@@ -131,6 +131,16 @@
       "source": "icloud"
     },
     {
+      "title": "Kids Cut at Bubbles Haircare for Kids",
+      "date": "2026-10-03",
+      "time": "9:30 AM",
+      "end": "2026-10-03T13:00:00+00:00",
+      "all_day": false,
+      "location": "3-168 Rothesay Ave, Saint John, NB, E2J 2B5",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Recycling day",
       "date": "2026-10-05",
       "time": "8:00 AM",
@@ -439,9 +449,29 @@
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-10-26",
+      "time": "9:00 AM",
+      "end": "2026-10-26T12:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-10-26",
+      "time": "9:30 AM",
+      "end": "2026-10-26T13:00:00+00:00",
+      "all_day": false,
+      "location": "Wolastoq Room",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-26T09:53:03.450711+00:00",
+  "fetched_at": "2026-09-26T14:13:53.516049+00:00",
   "calendars": [
     "outlook",
     "icloud"
