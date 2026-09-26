@@ -451,6 +451,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure doctor appointment ",
+      "date": "2026-10-26",
+      "time": "3:15 PM",
+      "end": "2026-10-26T18:45:00+00:00",
+      "all_day": false,
+      "location": "Phone call",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-10-26",
       "time": "9:00 AM",
@@ -471,7 +481,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-26T17:46:59.500217+00:00",
+  "fetched_at": "2026-09-26T20:49:10.341116+00:00",
   "calendars": [
     "outlook",
     "icloud"
