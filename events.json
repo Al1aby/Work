@@ -479,9 +479,19 @@
       "location": "Wolastoq Room",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Compost day ",
+      "date": "2026-10-27",
+      "time": "8:00 AM",
+      "end": "2026-10-27T12:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-27T07:06:05.604755+00:00",
+  "fetched_at": "2026-09-27T13:02:58.307827+00:00",
   "calendars": [
     "outlook",
     "icloud"
