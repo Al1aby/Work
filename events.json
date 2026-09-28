@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-09-28",
-      "time": "9:00 AM",
-      "end": "2026-09-28T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-09-28",
-      "time": "9:30 AM",
-      "end": "2026-09-28T13:00:00+00:00",
-      "all_day": false,
-      "location": "Wolastoq Room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Finance Drop-In Session (Sept 29th)",
       "date": "2026-09-29",
       "time": "2:00 PM",
@@ -71,6 +51,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-10-02",
+      "time": null,
+      "end": "2026-10-03T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Glucose challenge - 845",
       "date": "2026-10-02",
       "time": "8:30 AM",
@@ -105,6 +95,16 @@
       "date": "2026-10-03",
       "time": "11:00 AM",
       "end": "2026-10-03T15:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Laure & Winnie visit Josie & Kate ",
+      "date": "2026-10-03",
+      "time": "2:00 PM",
+      "end": "2026-10-03T20:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -229,6 +229,16 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Aaron pickup produce box",
+      "date": "2026-10-08",
+      "time": "4:00 PM",
+      "end": "2026-10-08T21:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Mom visiting ",
@@ -479,9 +489,29 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Town Hall (10:00am EDT; 11:00am ADT; 11:30am NDT)",
+      "date": "2026-10-28",
+      "time": "11:00 AM",
+      "end": "2026-10-28T15:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "P&C Drop-in Sessions",
+      "date": "2026-10-28",
+      "time": "2:30 PM",
+      "end": "2026-10-28T18:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-09-28T11:14:34.967266+00:00",
+  "fetched_at": "2026-09-28T18:37:39.072854+00:00",
   "calendars": [
     "outlook",
     "icloud"
