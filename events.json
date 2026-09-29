@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Finance Drop-In Session (Sept 29th)",
-      "date": "2026-09-29",
-      "time": "2:00 PM",
-      "end": "2026-09-29T18:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Hair appt",
       "date": "2026-09-29",
       "time": "7:30 PM",
@@ -511,7 +501,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-29T15:53:22.200397+00:00",
+  "fetched_at": "2026-09-29T20:32:19.555485+00:00",
   "calendars": [
     "outlook",
     "icloud"
