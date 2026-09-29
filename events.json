@@ -509,9 +509,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Laure in Moncton ",
+      "date": "2026-10-29",
+      "time": null,
+      "end": "2026-10-30T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-29T02:44:48.315751+00:00",
+  "fetched_at": "2026-09-29T09:06:28.151336+00:00",
   "calendars": [
     "outlook",
     "icloud"
