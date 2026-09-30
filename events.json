@@ -291,6 +291,16 @@
       "source": "outlook"
     },
     {
+      "title": "CIBC Presentation - Group Banking Offer and Employee Share Purchase Plan (ESPP)",
+      "date": "2026-10-14",
+      "time": "2:00 PM",
+      "end": "2026-10-14T18:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Katie symperica",
       "date": "2026-10-14",
       "time": "8:00 PM",
@@ -491,7 +501,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-30T11:17:44.620390+00:00",
+  "fetched_at": "2026-09-30T16:55:12.300939+00:00",
   "calendars": [
     "outlook",
     "icloud"
