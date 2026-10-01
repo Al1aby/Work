@@ -116,7 +116,7 @@
       "time": "9:30 AM",
       "end": "2026-10-05T13:00:00+00:00",
       "all_day": false,
-      "location": "Wolastoq Room",
+      "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -246,7 +246,7 @@
       "time": "9:30 AM",
       "end": "2026-10-12T13:00:00+00:00",
       "all_day": false,
-      "location": "Wolastoq Room",
+      "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -366,7 +366,7 @@
       "time": "9:30 AM",
       "end": "2026-10-19T13:00:00+00:00",
       "all_day": false,
-      "location": "Wolastoq Room",
+      "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -456,7 +456,7 @@
       "time": "9:30 AM",
       "end": "2026-10-26T13:00:00+00:00",
       "all_day": false,
-      "location": "Wolastoq Room",
+      "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -501,7 +501,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-09-30T21:18:37.210178+00:00",
+  "fetched_at": "2026-10-01T00:43:35.256884+00:00",
   "calendars": [
     "outlook",
     "icloud"
