@@ -91,6 +91,16 @@
       "source": "icloud"
     },
     {
+      "title": "Bob and Lynn",
+      "date": "2026-10-05",
+      "time": "4:00 PM",
+      "end": "2026-10-05T20:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Recycling day",
       "date": "2026-10-05",
       "time": "8:00 AM",
@@ -499,9 +509,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-10-31",
+      "time": "10:40 AM",
+      "end": "2026-10-31T14:10:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-01T06:35:32.156851+00:00",
+  "fetched_at": "2026-10-01T13:55:33.023829+00:00",
   "calendars": [
     "outlook",
     "icloud"
