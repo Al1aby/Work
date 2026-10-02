@@ -11,34 +11,14 @@
       "source": "icloud"
     },
     {
-      "title": "Concrete Spalling",
+      "title": "Concrete spalling chat",
       "date": "2026-10-02",
-      "time": "10:00 AM",
-      "end": "2026-10-02T13:30:00+00:00",
+      "time": "1:30 PM",
+      "end": "2026-10-02T17:00:00+00:00",
       "all_day": false,
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Glucose challenge - 845",
-      "date": "2026-10-02",
-      "time": "8:30 AM",
-      "end": "2026-10-02T13:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Saint John Regional Hospital - Lab ",
-      "date": "2026-10-02",
-      "time": "8:45 AM",
-      "end": "2026-10-02T12:00:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital (400 University Ave, Saint John NB E2L 4L4, Canada)",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     },
     {
       "title": "Winnie swim \ud83c\udf0a",
@@ -561,7 +541,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-02T08:54:34.756560+00:00",
+  "fetched_at": "2026-10-02T15:32:49.767460+00:00",
   "calendars": [
     "outlook",
     "icloud"
