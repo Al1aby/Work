@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Concrete spalling chat",
-      "date": "2026-10-02",
-      "time": "1:30 PM",
-      "end": "2026-10-02T17:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-10-03",
       "time": "10:40 AM",
@@ -541,7 +531,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-02T15:32:49.767460+00:00",
+  "fetched_at": "2026-10-02T20:08:19.396081+00:00",
   "calendars": [
     "outlook",
     "icloud"
