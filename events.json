@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in office ",
-      "date": "2026-10-02",
-      "time": null,
-      "end": "2026-10-03T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-10-03",
       "time": "10:40 AM",
@@ -531,7 +521,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-02T23:47:37.357412+00:00",
+  "fetched_at": "2026-10-03T04:31:50.920963+00:00",
   "calendars": [
     "outlook",
     "icloud"
