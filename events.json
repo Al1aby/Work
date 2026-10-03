@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Nauwigewauk Fall Fair",
-      "date": "2026-10-03",
-      "time": "11:00 AM",
-      "end": "2026-10-03T15:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure & Winnie visit Josie & Kate ",
       "date": "2026-10-03",
       "time": "2:00 PM",
@@ -531,7 +521,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-10-03T14:44:09.892052+00:00",
+  "fetched_at": "2026-10-03T18:18:21.510857+00:00",
   "calendars": [
     "outlook",
     "icloud"
