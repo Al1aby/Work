@@ -471,6 +471,16 @@
       "source": "icloud"
     },
     {
+      "title": "Trunk or treat ",
+      "date": "2026-10-31",
+      "time": "6:00 PM",
+      "end": "2026-10-31T22:00:00+00:00",
+      "all_day": false,
+      "location": "Nauwigewauk\nNB, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "CCIL BI-ANNUAL TECHNICIAN training",
       "date": "2026-11-02",
       "time": "10:30 AM",
@@ -511,7 +521,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-10-03T21:39:26.885801+00:00",
+  "fetched_at": "2026-10-04T00:04:20.100724+00:00",
   "calendars": [
     "outlook",
     "icloud"
