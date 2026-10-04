@@ -151,16 +151,6 @@
       "source": "icloud"
     },
     {
-      "title": "NCC meeting",
-      "date": "2026-10-12",
-      "time": "7:00 PM",
-      "end": "2026-10-12T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-10-12",
       "time": "9:00 AM",
@@ -277,6 +267,16 @@
       "end": "2026-10-17T14:10:00+00:00",
       "all_day": false,
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "NCC meeting",
+      "date": "2026-10-19",
+      "time": "7:00 PM",
+      "end": "2026-10-19T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -529,9 +529,29 @@
       "location": null,
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Garbage day",
+      "date": "2026-11-03",
+      "time": "8:00 AM",
+      "end": "2026-11-03T13:00:00+00:00",
+      "all_day": false,
+      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Winston appt - 815 ",
+      "date": "2026-11-03",
+      "time": "8:00 AM",
+      "end": "2026-11-03T13:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-04T05:56:05.268405+00:00",
+  "fetched_at": "2026-10-04T12:08:12.918583+00:00",
   "calendars": [
     "outlook",
     "icloud"
