@@ -21,36 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Recycling day",
-      "date": "2026-10-05",
-      "time": "8:00 AM",
-      "end": "2026-10-05T12:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-10-05",
-      "time": "9:00 AM",
-      "end": "2026-10-05T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-10-05",
-      "time": "9:30 AM",
-      "end": "2026-10-05T13:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Pay day",
       "date": "2026-10-06",
       "time": null,
@@ -549,9 +519,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
+      "date": "2026-11-04",
+      "time": "10:30 AM",
+      "end": "2026-11-04T15:30:00+00:00",
+      "all_day": false,
+      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-10-05T08:39:29.868903+00:00",
+  "fetched_at": "2026-10-05T17:25:13.282198+00:00",
   "calendars": [
     "outlook",
     "icloud"
