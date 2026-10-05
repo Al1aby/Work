@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Bob and Lynn",
-      "date": "2026-10-05",
-      "time": "4:00 PM",
-      "end": "2026-10-05T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-10-06",
       "time": null,
@@ -531,7 +521,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-10-05T17:25:13.282198+00:00",
+  "fetched_at": "2026-10-05T23:17:18.330076+00:00",
   "calendars": [
     "outlook",
     "icloud"
