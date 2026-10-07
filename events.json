@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
-      "date": "2026-10-07",
-      "time": "10:30 AM",
-      "end": "2026-10-07T14:30:00+00:00",
-      "all_day": false,
-      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "LUNCH & LEARN - Closing Time: The Importance of Mine Rehabilitation & Closure Planning - Alison Way & Steve Tarrant",
       "date": "2026-10-08",
       "time": "12:30 PM",
@@ -113,10 +103,10 @@
     {
       "title": "Quarterly Meeting - Saint John Branch",
       "date": "2026-10-14",
-      "time": "1:30 PM",
-      "end": "2026-10-14T17:00:00+00:00",
+      "time": "1:00 PM",
+      "end": "2026-10-14T16:30:00+00:00",
       "all_day": false,
-      "location": "Fundy Coast Room",
+      "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -481,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-07T07:07:10.400143+00:00",
+  "fetched_at": "2026-10-07T14:31:41.407728+00:00",
   "calendars": [
     "outlook",
     "icloud"
