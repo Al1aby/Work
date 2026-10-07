@@ -11,16 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure therapy ",
-      "date": "2026-10-06",
-      "time": "6:45 PM",
-      "end": "2026-10-06T22:45:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure away conference ",
       "date": "2026-10-07",
       "time": null,
@@ -501,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-06T21:28:23.969045+00:00",
+  "fetched_at": "2026-10-07T00:58:43.443799+00:00",
   "calendars": [
     "outlook",
     "icloud"
