@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "LUNCH & LEARN - Closing Time: The Importance of Mine Rehabilitation & Closure Planning - Alison Way & Steve Tarrant",
-      "date": "2026-10-08",
-      "time": "12:30 PM",
-      "end": "2026-10-08T16:15:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Aaron pickup produce box",
       "date": "2026-10-08",
       "time": "4:00 PM",
@@ -106,7 +96,7 @@
       "time": "1:00 PM",
       "end": "2026-10-14T16:30:00+00:00",
       "all_day": false,
-      "location": "Microsoft Teams Meeting",
+      "location": "Microsoft Teams Meeting; Fundy Coast Room",
       "calendar": "Calendar",
       "source": "outlook"
     },
@@ -471,6 +461,16 @@
       "source": "icloud"
     },
     {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-11-07",
+      "time": "10:40 AM",
+      "end": "2026-11-07T15:10:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-11-07",
       "time": "9:00 AM",
@@ -481,7 +481,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-08T13:40:20.031204+00:00",
+  "fetched_at": "2026-10-08T19:28:30.599989+00:00",
   "calendars": [
     "outlook",
     "icloud"
