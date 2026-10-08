@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Aaron pickup produce box",
-      "date": "2026-10-08",
-      "time": "4:00 PM",
-      "end": "2026-10-08T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Mom visiting ",
       "date": "2026-10-09",
       "time": "12:00 PM",
@@ -481,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-08T19:28:30.599989+00:00",
+  "fetched_at": "2026-10-08T23:54:01.121603+00:00",
   "calendars": [
     "outlook",
     "icloud"
