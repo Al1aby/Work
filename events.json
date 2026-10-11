@@ -491,6 +491,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure concert?",
+      "date": "2026-11-10",
+      "time": "5:00 PM",
+      "end": "2026-11-11T03:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Compost day ",
       "date": "2026-11-10",
       "time": "8:00 AM",
@@ -501,7 +511,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-11T19:06:46.405366+00:00",
+  "fetched_at": "2026-10-11T22:56:04.003303+00:00",
   "calendars": [
     "outlook",
     "icloud"
