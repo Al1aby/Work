@@ -11,26 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-10-12",
-      "time": "9:00 AM",
-      "end": "2026-10-12T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-10-12",
-      "time": "9:30 AM",
-      "end": "2026-10-12T13:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Maternal fetal assessment appt - 1:45",
       "date": "2026-10-13",
       "time": "1:00 PM",
@@ -511,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-12T09:18:43.781629+00:00",
+  "fetched_at": "2026-10-12T19:14:09.231087+00:00",
   "calendars": [
     "outlook",
     "icloud"
