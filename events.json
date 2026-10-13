@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Maternal fetal assessment appt - 1:45",
-      "date": "2026-10-13",
-      "time": "1:00 PM",
-      "end": "2026-10-13T18:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure massage",
       "date": "2026-10-13",
       "time": "6:30 PM",
@@ -481,6 +471,16 @@
       "source": "icloud"
     },
     {
+      "title": "Maternal fetal assessment appt - 8:30",
+      "date": "2026-11-10",
+      "time": "8:00 AM",
+      "end": "2026-11-10T14:00:00+00:00",
+      "all_day": false,
+      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Compost day ",
       "date": "2026-11-10",
       "time": "8:00 AM",
@@ -501,7 +501,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-13T16:05:34.543411+00:00",
+  "fetched_at": "2026-10-13T21:16:30.202903+00:00",
   "calendars": [
     "outlook",
     "icloud"
