@@ -489,9 +489,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Laure massage",
+      "date": "2026-11-11",
+      "time": "5:00 PM",
+      "end": "2026-11-11T22:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-12T19:14:09.231087+00:00",
+  "fetched_at": "2026-10-13T01:24:47.729864+00:00",
   "calendars": [
     "outlook",
     "icloud"
