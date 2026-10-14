@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Laure massage",
-      "date": "2026-10-13",
-      "time": "6:30 PM",
-      "end": "2026-10-13T22:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Fam flight depart 1250",
       "date": "2026-10-14",
       "time": "11:30 PM",
@@ -501,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-13T21:16:30.202903+00:00",
+  "fetched_at": "2026-10-14T00:30:11.659190+00:00",
   "calendars": [
     "outlook",
     "icloud"
