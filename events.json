@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Mom visiting ",
-      "date": "2026-10-09",
-      "time": "12:00 PM",
-      "end": "2026-10-14T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Fam flight depart 1250",
       "date": "2026-10-14",
       "time": "11:30 PM",
@@ -45,16 +35,6 @@
       "date": "2026-10-14",
       "time": "8:00 PM",
       "end": "2026-10-15T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Prenatal call with Horizon ",
-      "date": "2026-10-14",
-      "time": "9:15 AM",
-      "end": "2026-10-14T12:45:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -491,7 +471,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-14T10:29:27.772774+00:00",
+  "fetched_at": "2026-10-14T15:24:37.444090+00:00",
   "calendars": [
     "outlook",
     "icloud"
