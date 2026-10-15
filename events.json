@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Fam flight depart 1250",
-      "date": "2026-10-14",
-      "time": "11:30 PM",
-      "end": "2026-10-15T02:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-10-15",
       "time": null,
@@ -441,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-15T00:55:17.474642+00:00",
+  "fetched_at": "2026-10-15T05:40:37.261563+00:00",
   "calendars": [
     "outlook",
     "icloud"
