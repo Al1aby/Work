@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Doctors appt ",
-      "date": "2026-10-15",
-      "time": "8:30 AM",
-      "end": "2026-10-15T12:00:00+00:00",
-      "all_day": false,
-      "location": "Chelsey drive ",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-10-16",
       "time": null,
@@ -429,9 +419,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-11-14",
+      "time": "10:40 AM",
+      "end": "2026-11-14T15:10:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-15T10:20:50.237088+00:00",
+  "fetched_at": "2026-10-15T15:15:06.782397+00:00",
   "calendars": [
     "outlook",
     "icloud"
