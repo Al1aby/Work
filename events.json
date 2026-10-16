@@ -231,6 +231,16 @@
       "source": "icloud"
     },
     {
+      "title": "Josie dress shopping ",
+      "date": "2026-10-31",
+      "time": "9:00 AM",
+      "end": "2026-10-31T19:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "CCIL BI-ANNUAL TECHNICIAN training",
       "date": "2026-11-02",
       "time": "10:30 AM",
@@ -327,6 +337,16 @@
       "end": "2026-11-07T15:10:00+00:00",
       "all_day": false,
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Josie dress shopping ",
+      "date": "2026-11-07",
+      "time": "1:00 PM",
+      "end": "2026-11-07T21:00:00+00:00",
+      "all_day": false,
+      "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -441,7 +461,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-16T18:24:36.900844+00:00",
+  "fetched_at": "2026-10-16T21:34:38.960934+00:00",
   "calendars": [
     "outlook",
     "icloud"
