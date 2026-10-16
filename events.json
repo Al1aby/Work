@@ -439,9 +439,19 @@
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Katie symperica",
+      "date": "2026-11-14",
+      "time": "8:00 PM",
+      "end": "2026-11-15T01:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-15T22:26:31.916924+00:00",
+  "fetched_at": "2026-10-16T00:38:50.974793+00:00",
   "calendars": [
     "outlook",
     "icloud"
