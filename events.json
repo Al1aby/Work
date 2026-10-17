@@ -449,9 +449,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Recycling day",
+      "date": "2026-11-16",
+      "time": "8:00 AM",
+      "end": "2026-11-16T13:00:00+00:00",
+      "all_day": false,
+      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-17T08:03:28.397052+00:00",
+  "fetched_at": "2026-10-17T12:12:31.433143+00:00",
   "calendars": [
     "outlook",
     "icloud"
