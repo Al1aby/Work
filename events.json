@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "NCC meeting",
-      "date": "2026-10-19",
-      "time": "7:00 PM",
-      "end": "2026-10-19T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Pay day",
       "date": "2026-10-20",
       "time": null,
@@ -511,7 +501,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-10-19T20:26:58.135312+00:00",
+  "fetched_at": "2026-10-19T23:53:30.144386+00:00",
   "calendars": [
     "outlook",
     "icloud"
