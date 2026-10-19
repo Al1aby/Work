@@ -509,9 +509,19 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Laure in office ",
+      "date": "2026-11-18",
+      "time": null,
+      "end": "2026-11-19T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-19T01:48:02.770534+00:00",
+  "fetched_at": "2026-10-19T07:28:59.540450+00:00",
   "calendars": [
     "outlook",
     "icloud"
