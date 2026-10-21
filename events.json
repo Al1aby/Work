@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Pay day",
-      "date": "2026-10-20",
-      "time": null,
-      "end": "2026-10-21T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-10-21",
       "time": "10:30 AM",
@@ -491,7 +481,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-10-21T00:26:28.370773+00:00",
+  "fetched_at": "2026-10-21T05:11:25.865502+00:00",
   "calendars": [
     "outlook",
     "icloud"
