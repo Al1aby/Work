@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
-      "date": "2026-10-21",
-      "time": "10:30 AM",
-      "end": "2026-10-21T14:30:00+00:00",
-      "all_day": false,
-      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-10-22",
       "time": null,
@@ -106,16 +96,6 @@
       "time": "8:00 AM",
       "end": "2026-10-27T12:00:00+00:00",
       "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure offsite..",
-      "date": "2026-10-28",
-      "time": null,
-      "end": "2026-10-29T00:00:00+00:00",
-      "all_day": true,
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
@@ -481,7 +461,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-10-21T10:14:05.720229+00:00",
+  "fetched_at": "2026-10-21T15:20:33.562397+00:00",
   "calendars": [
     "outlook",
     "icloud"
