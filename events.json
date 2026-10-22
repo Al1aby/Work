@@ -459,9 +459,19 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-11-21",
+      "time": "10:40 AM",
+      "end": "2026-11-21T15:10:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-22T11:25:09.453942+00:00",
+  "fetched_at": "2026-10-22T15:58:51.440309+00:00",
   "calendars": [
     "outlook",
     "icloud"
