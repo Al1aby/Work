@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-10-24",
-      "time": "10:40 AM",
-      "end": "2026-10-24T14:10:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Connie\u2019s Halloween party",
       "date": "2026-10-24",
       "time": "3:00 PM",
@@ -459,9 +449,29 @@
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-11-23",
+      "time": "9:00 AM",
+      "end": "2026-11-23T13:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-11-23",
+      "time": "9:30 AM",
+      "end": "2026-11-23T14:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-10-24T12:00:47.126779+00:00",
+  "fetched_at": "2026-10-24T15:58:20.913142+00:00",
   "calendars": [
     "outlook",
     "icloud"
