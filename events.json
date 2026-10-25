@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Drop & pickup Katie - 9am",
-      "date": "2026-10-23",
-      "time": "9:00 AM",
-      "end": "2026-10-25T12:00:00+00:00",
-      "all_day": false,
-      "location": "Mango Spaw and Services Inc\n648 Campbell Rd, Nerepis NB E5K 3W6, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-10-26",
       "time": null,
@@ -459,9 +449,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Compost day ",
+      "date": "2026-11-24",
+      "time": "8:00 AM",
+      "end": "2026-11-24T13:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-25T06:41:45.691956+00:00",
+  "fetched_at": "2026-10-25T12:03:32.206906+00:00",
   "calendars": [
     "outlook",
     "icloud"
