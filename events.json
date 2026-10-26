@@ -21,26 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-10-26",
-      "time": "9:00 AM",
-      "end": "2026-10-26T12:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-10-26",
-      "time": "9:30 AM",
-      "end": "2026-10-26T13:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Physio",
       "date": "2026-10-27",
       "time": "5:00 PM",
@@ -461,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-26T10:25:48.480330+00:00",
+  "fetched_at": "2026-10-26T16:53:25.456693+00:00",
   "calendars": [
     "outlook",
     "icloud"
