@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Laure doctor appointment ",
-      "date": "2026-10-26",
-      "time": "3:15 PM",
-      "end": "2026-10-26T18:45:00+00:00",
-      "all_day": false,
-      "location": "Phone call",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Physio",
       "date": "2026-10-27",
       "time": "5:00 PM",
@@ -411,6 +401,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure dr appt",
+      "date": "2026-11-23",
+      "time": "2:30 PM",
+      "end": "2026-11-23T19:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-11-23",
       "time": "9:00 AM",
@@ -439,9 +439,29 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "P&C Drop-in Sessions",
+      "date": "2026-11-25",
+      "time": "2:30 PM",
+      "end": "2026-11-25T19:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Amanda visiting ",
+      "date": "2026-11-25",
+      "time": "5:00 PM",
+      "end": "2026-11-26T01:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-26T16:53:25.456693+00:00",
+  "fetched_at": "2026-10-26T21:29:21.924893+00:00",
   "calendars": [
     "outlook",
     "icloud"
