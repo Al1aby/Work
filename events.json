@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Compost day ",
-      "date": "2026-10-27",
-      "time": "8:00 AM",
-      "end": "2026-10-27T12:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Town Hall (10:00am EDT; 11:00am ADT; 11:30am NDT)",
       "date": "2026-10-28",
       "time": "11:00 AM",
@@ -451,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-27T11:02:47.347168+00:00",
+  "fetched_at": "2026-10-27T16:41:35.368385+00:00",
   "calendars": [
     "outlook",
     "icloud"
