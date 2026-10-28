@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Town Hall (10:00am EDT; 11:00am ADT; 11:30am NDT)",
-      "date": "2026-10-28",
-      "time": "11:00 AM",
-      "end": "2026-10-28T15:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "P&C Drop-in Sessions",
       "date": "2026-10-29",
       "time": "2:00 PM",
@@ -451,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-28T12:58:07.649175+00:00",
+  "fetched_at": "2026-10-28T18:46:23.760121+00:00",
   "calendars": [
     "outlook",
     "icloud"
