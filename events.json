@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "P&C Drop-in Sessions",
-      "date": "2026-10-29",
-      "time": "2:00 PM",
-      "end": "2026-10-29T17:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Dead end driveway",
       "date": "2026-10-29",
       "time": "5:00 PM",
@@ -451,7 +441,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-29T15:56:11.364143+00:00",
+  "fetched_at": "2026-10-29T20:58:20.250484+00:00",
   "calendars": [
     "outlook",
     "icloud"
