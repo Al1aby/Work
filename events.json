@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Dead end driveway",
-      "date": "2026-10-29",
-      "time": "5:00 PM",
-      "end": "2026-10-29T21:00:00+00:00",
-      "all_day": false,
-      "location": "Loch Lomond Rd\nSaint John, NB, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Josie dress shopping ",
       "date": "2026-10-31",
       "time": "10:00 AM",
@@ -441,7 +431,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-10-29T20:58:20.250484+00:00",
+  "fetched_at": "2026-10-30T00:47:11.720200+00:00",
   "calendars": [
     "outlook",
     "icloud"
