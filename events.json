@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Josie dress shopping ",
-      "date": "2026-10-31",
-      "time": "10:00 AM",
-      "end": "2026-10-31T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Trunk or treat ",
-      "date": "2026-10-31",
-      "time": "6:00 PM",
-      "end": "2026-10-31T22:00:00+00:00",
-      "all_day": false,
-      "location": "Nauwigewauk\nNB, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "CCIL BI-ANNUAL TECHNICIAN training",
       "date": "2026-11-02",
       "time": "10:30 AM",
@@ -71,6 +51,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure therapy ",
+      "date": "2026-11-03",
+      "time": "6:00 PM",
+      "end": "2026-11-03T23:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Garbage day",
       "date": "2026-11-03",
       "time": "8:00 AM",
@@ -117,16 +107,6 @@
       "end": "2026-11-07T15:10:00+00:00",
       "all_day": false,
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Josie dress shopping ",
-      "date": "2026-11-07",
-      "time": "1:00 PM",
-      "end": "2026-11-07T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -461,7 +441,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-10-31T19:09:13.305520+00:00",
+  "fetched_at": "2026-10-31T22:29:56.454980+00:00",
   "calendars": [
     "outlook",
     "icloud"
