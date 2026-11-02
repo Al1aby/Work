@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "title": "CCIL BI-ANNUAL TECHNICIAN training",
-      "date": "2026-11-02",
-      "time": "10:30 AM",
-      "end": "2026-11-02T15:00:00+00:00",
-      "all_day": false,
-      "location": "Saint John LAb",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Recycling day",
-      "date": "2026-11-02",
-      "time": "8:00 AM",
-      "end": "2026-11-02T13:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-11-02",
-      "time": "9:00 AM",
-      "end": "2026-11-02T13:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-11-02",
-      "time": "9:30 AM",
-      "end": "2026-11-02T14:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Pay day",
       "date": "2026-11-03",
       "time": null,
@@ -311,6 +271,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in office ?",
+      "date": "2026-11-18",
+      "time": null,
+      "end": "2026-11-19T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-11-18",
       "time": "10:30 AM",
@@ -319,6 +289,16 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Bloodwork - 315",
+      "date": "2026-11-19",
+      "time": "2:30 PM",
+      "end": "2026-11-19T20:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Laure physio",
@@ -337,6 +317,16 @@
       "end": "2026-11-21T15:10:00+00:00",
       "all_day": false,
       "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Laure in office ",
+      "date": "2026-11-23",
+      "time": null,
+      "end": "2026-11-24T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -369,6 +359,16 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Laure therapy ",
+      "date": "2026-11-24",
+      "time": "7:00 PM",
+      "end": "2026-11-25T00:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Compost day ",
@@ -469,9 +469,19 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
+      "date": "2026-12-02",
+      "time": "10:30 AM",
+      "end": "2026-12-02T15:30:00+00:00",
+      "all_day": false,
+      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-02T09:50:14.392053+00:00",
+  "fetched_at": "2026-11-02T20:04:58.075605+00:00",
   "calendars": [
     "outlook",
     "icloud"
