@@ -11,36 +11,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure therapy ",
-      "date": "2026-11-03",
-      "time": "6:00 PM",
-      "end": "2026-11-03T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Garbage day",
-      "date": "2026-11-03",
-      "time": "8:00 AM",
-      "end": "2026-11-03T13:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Winston appt - 815 ",
-      "date": "2026-11-03",
-      "time": "8:00 AM",
-      "end": "2026-11-03T13:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-11-04",
       "time": "10:30 AM",
@@ -51,11 +21,31 @@
       "source": "outlook"
     },
     {
+      "title": "Commissionaires - Fingerprinting / Commissionnaires - Prise d'empreintes digitales",
+      "date": "2026-11-04",
+      "time": "10:30 AM",
+      "end": "2026-11-04T15:00:00+00:00",
+      "all_day": false,
+      "location": "160 Mark Drive, Saint John, E2J 4H5",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Service check time at King Mazda",
       "date": "2026-11-05",
       "time": "8:00 AM",
       "end": "2026-11-05T15:00:00+00:00",
       "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Laure in office ?",
+      "date": "2026-11-06",
+      "time": null,
+      "end": "2026-11-07T00:00:00+00:00",
+      "all_day": true,
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
@@ -481,7 +471,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-03T09:54:10.378347+00:00",
+  "fetched_at": "2026-11-03T17:37:42.601295+00:00",
   "calendars": [
     "outlook",
     "icloud"
