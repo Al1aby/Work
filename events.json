@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "Service check time at King Mazda",
-      "date": "2026-11-05",
-      "time": "8:00 AM",
-      "end": "2026-11-05T15:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ?",
       "date": "2026-11-06",
       "time": null,
@@ -77,6 +67,16 @@
       "end": "2026-11-09T20:00:00+00:00",
       "all_day": false,
       "location": "Port city primary care",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Mackenzie stay overnight ",
+      "date": "2026-11-09",
+      "time": "5:00 PM",
+      "end": "2026-11-10T13:00:00+00:00",
+      "all_day": false,
+      "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -249,6 +249,16 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Work supper",
+      "date": "2026-11-17",
+      "time": "5:00 PM",
+      "end": "2026-11-18T00:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Garbage day",
@@ -499,9 +509,29 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Winnie swim \ud83c\udf0a",
+      "date": "2026-12-05",
+      "time": "10:40 AM",
+      "end": "2026-12-05T15:10:00+00:00",
+      "all_day": false,
+      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Aaron -  check & clean furnace filter ",
+      "date": "2026-12-05",
+      "time": "9:00 AM",
+      "end": "2026-12-05T14:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-05T11:33:52.458771+00:00",
+  "fetched_at": "2026-11-05T19:00:45.280808+00:00",
   "calendars": [
     "outlook",
     "icloud"
