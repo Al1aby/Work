@@ -161,6 +161,16 @@
       "source": "icloud"
     },
     {
+      "title": "MetaField Demo - Gemtec",
+      "date": "2026-11-12",
+      "time": "3:00 PM",
+      "end": "2026-11-12T20:00:00+00:00",
+      "all_day": false,
+      "location": "https://calendly.com/events/218a5a13-c0c1-498e-824d-cf628a6acfb5/microsoft_teams",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-11-14",
       "time": "10:40 AM",
@@ -361,6 +371,16 @@
       "source": "outlook"
     },
     {
+      "title": "Strategic Plan Stakeholder Update - 1 hour plus 30 min buffer (See Agenda)",
+      "date": "2026-11-24",
+      "time": "3:00 PM",
+      "end": "2026-11-24T20:30:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Doula visit",
       "date": "2026-11-24",
       "time": "3:00 PM",
@@ -389,6 +409,16 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Gemtec | TabLog - gINT Replacement Demo",
+      "date": "2026-11-25",
+      "time": "11:00 AM",
+      "end": "2026-11-25T16:00:00+00:00",
+      "all_day": false,
+      "location": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjViMTE5ZmQtNDY3MS00NjMxLThjMjMtOWZmYjFkYWY5ODRj%40thread.v2/0?context=%7b%22Tid%22%3a%225a2ba852-fb3a-477c-8b46-752b240565eb%22%2c%22Oid%22%3a%22a88674b1-654c-44cc-b6cf-1c5ed885c19f%22%7d&launchAgent",
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "P&C Drop-in Sessions",
@@ -531,7 +561,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-06T15:06:12.948272+00:00",
+  "fetched_at": "2026-11-06T20:54:33.502415+00:00",
   "calendars": [
     "outlook",
     "icloud"
