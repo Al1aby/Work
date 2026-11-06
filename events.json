@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Aaron Covid and flu vaccine",
-      "date": "2026-11-05",
-      "time": "3:15 PM",
-      "end": "2026-11-05T20:15:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ?",
       "date": "2026-11-06",
       "time": null,
@@ -531,7 +521,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-05T19:00:45.280808+00:00",
+  "fetched_at": "2026-11-06T00:17:34.862658+00:00",
   "calendars": [
     "outlook",
     "icloud"
