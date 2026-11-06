@@ -511,6 +511,16 @@
       "source": "icloud"
     },
     {
+      "title": "Santa in the square",
+      "date": "2026-12-05",
+      "time": "5:00 PM",
+      "end": "2026-12-05T23:00:00+00:00",
+      "all_day": false,
+      "location": "Hampton",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Aaron -  check & clean furnace filter ",
       "date": "2026-12-05",
       "time": "9:00 AM",
@@ -521,7 +531,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-06T00:17:34.862658+00:00",
+  "fetched_at": "2026-11-06T07:11:54.063877+00:00",
   "calendars": [
     "outlook",
     "icloud"
