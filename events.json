@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in office ?",
-      "date": "2026-11-06",
-      "time": null,
-      "end": "2026-11-07T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-11-07",
       "time": "10:40 AM",
@@ -559,9 +549,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Laure in office ",
+      "date": "2026-12-07",
+      "time": null,
+      "end": "2026-12-08T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-07T00:42:24.904394+00:00",
+  "fetched_at": "2026-11-07T06:38:28.536883+00:00",
   "calendars": [
     "outlook",
     "icloud"
