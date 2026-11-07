@@ -559,9 +559,29 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-12-07",
+      "time": "9:00 AM",
+      "end": "2026-12-07T13:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-12-07",
+      "time": "9:30 AM",
+      "end": "2026-12-07T14:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-07T06:38:28.536883+00:00",
+  "fetched_at": "2026-11-07T13:34:32.747135+00:00",
   "calendars": [
     "outlook",
     "icloud"
