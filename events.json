@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-11-07",
-      "time": "10:40 AM",
-      "end": "2026-11-07T15:10:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Aaron -  check & clean furnace filter ",
-      "date": "2026-11-07",
-      "time": "9:00 AM",
-      "end": "2026-11-07T14:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Supper at M & K ",
       "date": "2026-11-08",
       "time": "4:00 PM",
@@ -581,7 +561,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-07T13:34:32.747135+00:00",
+  "fetched_at": "2026-11-07T18:19:53.335894+00:00",
   "calendars": [
     "outlook",
     "icloud"
