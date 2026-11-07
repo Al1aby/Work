@@ -541,6 +541,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure dr appt",
+      "date": "2026-12-07",
+      "time": "2:30 PM",
+      "end": "2026-12-07T19:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Saint John Weekly Meeting",
       "date": "2026-12-07",
       "time": "9:00 AM",
@@ -561,7 +571,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-07T18:19:53.335894+00:00",
+  "fetched_at": "2026-11-07T22:12:54.124550+00:00",
   "calendars": [
     "outlook",
     "icloud"
