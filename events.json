@@ -569,9 +569,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Compost day ",
+      "date": "2026-12-08",
+      "time": "8:00 AM",
+      "end": "2026-12-08T13:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-08T07:53:34.435456+00:00",
+  "fetched_at": "2026-11-08T14:52:51.087825+00:00",
   "calendars": [
     "outlook",
     "icloud"
