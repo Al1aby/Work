@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Supper at M & K ",
-      "date": "2026-11-08",
-      "time": "4:00 PM",
-      "end": "2026-11-08T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-11-09",
       "time": null,
@@ -561,6 +551,16 @@
       "source": "outlook"
     },
     {
+      "title": "Laure massage",
+      "date": "2026-12-08",
+      "time": "6:30 PM",
+      "end": "2026-12-08T23:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Compost day ",
       "date": "2026-12-08",
       "time": "8:00 AM",
@@ -571,7 +571,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-08T19:25:29.518958+00:00",
+  "fetched_at": "2026-11-08T23:01:36.916602+00:00",
   "calendars": [
     "outlook",
     "icloud"
