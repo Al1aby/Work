@@ -1,41 +1,11 @@
 {
   "events": [
     {
-      "title": "Mackenzie stay overnight ",
-      "date": "2026-11-09",
-      "time": "5:00 PM",
-      "end": "2026-11-10T13:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office ",
       "date": "2026-11-10",
       "time": null,
       "end": "2026-11-11T00:00:00+00:00",
       "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Maternal fetal assessment appt - 8:30",
-      "date": "2026-11-10",
-      "time": "8:00 AM",
-      "end": "2026-11-10T14:00:00+00:00",
-      "all_day": false,
-      "location": "Saint John Regional Hospital\n400 University Ave, Saint John NB E2L 4L2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Compost day ",
-      "date": "2026-11-10",
-      "time": "8:00 AM",
-      "end": "2026-11-10T13:00:00+00:00",
-      "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
@@ -269,6 +239,16 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Aaron doctor apt",
+      "date": "2026-11-24",
+      "time": "11:00 AM",
+      "end": "2026-11-24T16:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     },
     {
       "title": "Strategic Plan Stakeholder Update - 1 hour plus 30 min buffer (See Agenda)",
@@ -521,7 +501,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-10T11:35:29.116890+00:00",
+  "fetched_at": "2026-11-10T18:51:15.659551+00:00",
   "calendars": [
     "outlook",
     "icloud"
