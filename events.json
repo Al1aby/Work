@@ -1,34 +1,14 @@
 {
   "events": [
     {
-      "title": "Laure in office ",
-      "date": "2026-11-10",
-      "time": null,
-      "end": "2026-11-11T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure massage",
-      "date": "2026-11-11",
-      "time": "5:00 PM",
-      "end": "2026-11-11T22:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure off ",
+      "title": "Re: Announcing Steerlab - AI for proposal draft creation",
       "date": "2026-11-12",
-      "time": null,
-      "end": "2026-11-14T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
+      "time": "10:00 AM",
+      "end": "2026-11-12T15:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "MetaField Demo - Gemtec",
@@ -39,36 +19,6 @@
       "location": "https://calendly.com/events/218a5a13-c0c1-498e-824d-cf628a6acfb5/microsoft_teams",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-11-14",
-      "time": "10:40 AM",
-      "end": "2026-11-14T15:10:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Katie symperica",
-      "date": "2026-11-14",
-      "time": "8:00 PM",
-      "end": "2026-11-15T01:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Recycling day",
-      "date": "2026-11-16",
-      "time": "8:00 AM",
-      "end": "2026-11-16T13:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -101,16 +51,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure in office ",
-      "date": "2026-11-17",
-      "time": null,
-      "end": "2026-11-18T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "GEM-U: New Classification Structure Training",
       "date": "2026-11-17",
       "time": "2:00 PM",
@@ -121,36 +61,6 @@
       "source": "outlook"
     },
     {
-      "title": "Work supper",
-      "date": "2026-11-17",
-      "time": "5:00 PM",
-      "end": "2026-11-18T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Garbage day",
-      "date": "2026-11-17",
-      "time": "8:00 AM",
-      "end": "2026-11-17T13:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure in office",
-      "date": "2026-11-18",
-      "time": null,
-      "end": "2026-11-19T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-11-18",
       "time": "10:30 AM",
@@ -159,66 +69,6 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Bloodwork - 315",
-      "date": "2026-11-19",
-      "time": "2:30 PM",
-      "end": "2026-11-19T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure physio",
-      "date": "2026-11-19",
-      "time": "5:00 PM",
-      "end": "2026-11-19T22:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-11-21",
-      "time": "10:40 AM",
-      "end": "2026-11-21T15:10:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Supper at M & K - photos",
-      "date": "2026-11-22",
-      "time": "4:00 PM",
-      "end": "2026-11-22T23:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure in office ",
-      "date": "2026-11-23",
-      "time": null,
-      "end": "2026-11-24T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure dr appt",
-      "date": "2026-11-23",
-      "time": "2:30 PM",
-      "end": "2026-11-23T19:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -241,16 +91,6 @@
       "source": "outlook"
     },
     {
-      "title": "Aaron doctor apt",
-      "date": "2026-11-24",
-      "time": "11:00 AM",
-      "end": "2026-11-24T16:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Strategic Plan Stakeholder Update - 1 hour plus 30 min buffer (See Agenda)",
       "date": "2026-11-24",
       "time": "3:00 PM",
@@ -261,36 +101,6 @@
       "source": "outlook"
     },
     {
-      "title": "Doula visit",
-      "date": "2026-11-24",
-      "time": "3:00 PM",
-      "end": "2026-11-24T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure therapy ",
-      "date": "2026-11-24",
-      "time": "7:00 PM",
-      "end": "2026-11-25T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Compost day ",
-      "date": "2026-11-24",
-      "time": "8:00 AM",
-      "end": "2026-11-24T13:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Gemtec | TabLog - gINT Replacement Demo",
       "date": "2026-11-25",
       "time": "11:00 AM",
@@ -299,46 +109,6 @@
       "location": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjViMTE5ZmQtNDY3MS00NjMxLThjMjMtOWZmYjFkYWY5ODRj%40thread.v2/0?context=%7b%22Tid%22%3a%225a2ba852-fb3a-477c-8b46-752b240565eb%22%2c%22Oid%22%3a%22a88674b1-654c-44cc-b6cf-1c5ed885c19f%22%7d&launchAgent",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Amanda visiting ",
-      "date": "2026-11-25",
-      "time": "5:00 PM",
-      "end": "2026-11-26T01:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-11-28",
-      "time": "10:40 AM",
-      "end": "2026-11-28T15:10:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "NCC annual tree lighting ",
-      "date": "2026-11-29",
-      "time": "4:00 PM",
-      "end": "2026-11-29T22:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Recycling day",
-      "date": "2026-11-30",
-      "time": "8:00 AM",
-      "end": "2026-11-30T13:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -371,26 +141,6 @@
       "source": "outlook"
     },
     {
-      "title": "Hair appointment ",
-      "date": "2026-12-01",
-      "time": "7:30 PM",
-      "end": "2026-12-02T00:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Garbage day",
-      "date": "2026-12-01",
-      "time": "8:00 AM",
-      "end": "2026-12-01T13:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
       "date": "2026-12-02",
       "time": "10:30 AM",
@@ -399,56 +149,6 @@
       "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
       "calendar": "Calendar",
       "source": "outlook"
-    },
-    {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-12-05",
-      "time": "10:40 AM",
-      "end": "2026-12-05T15:10:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Santa in the square",
-      "date": "2026-12-05",
-      "time": "5:00 PM",
-      "end": "2026-12-05T23:00:00+00:00",
-      "all_day": false,
-      "location": "Hampton",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Aaron -  check & clean furnace filter ",
-      "date": "2026-12-05",
-      "time": "9:00 AM",
-      "end": "2026-12-05T14:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure in office ",
-      "date": "2026-12-07",
-      "time": null,
-      "end": "2026-12-08T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Laure dr appt",
-      "date": "2026-12-07",
-      "time": "2:30 PM",
-      "end": "2026-12-07T19:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
     },
     {
       "title": "Saint John Weekly Meeting",
@@ -471,26 +171,6 @@
       "source": "outlook"
     },
     {
-      "title": "Laure massage",
-      "date": "2026-12-08",
-      "time": "6:30 PM",
-      "end": "2026-12-08T23:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Compost day ",
-      "date": "2026-12-08",
-      "time": "8:00 AM",
-      "end": "2026-12-08T13:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Lunch & Learn: What's in Our H&S Toolbox? - Leslie Williams & Lindsey Chalmers",
       "date": "2026-12-09",
       "time": "12:30 PM",
@@ -501,10 +181,9 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-10T18:51:15.659551+00:00",
+  "fetched_at": "2026-11-10T23:56:20.586763+00:00",
   "calendars": [
-    "outlook",
-    "icloud"
+    "outlook"
   ],
-  "error": null
+  "error": "icloud: 500 Server Error: Internal Server Error for url: https://p165-caldav.icloud.com/published/2/Mjc1MDE3NTk4Mjc1MDE3NcNKGptmumQbi69riMVJicVrcLZINKkxPaqFq1UjFIYeSXvsQh0mv80XocmmlmSw9gQy8s1oFPN_FK4HFE5pMtU"
 }
