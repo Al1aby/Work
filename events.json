@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure massage",
-      "date": "2026-11-11",
-      "time": "5:00 PM",
-      "end": "2026-11-11T22:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure off ",
       "date": "2026-11-12",
       "time": null,
@@ -509,9 +499,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "GEMTEC Christmas party",
+      "date": "2026-12-11",
+      "time": "6:00 PM",
+      "end": "2026-12-12T02:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-11T21:07:02.040369+00:00",
+  "fetched_at": "2026-11-12T02:15:46.772975+00:00",
   "calendars": [
     "outlook",
     "icloud"
