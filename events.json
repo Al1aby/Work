@@ -361,9 +361,9 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-12T23:46:23.288727+00:00",
+  "fetched_at": "2026-11-13T05:48:06.321517+00:00",
   "calendars": [
     "icloud"
   ],
-  "error": "outlook: HTTPSConnectionPool(host='outlook.office365.com', port=443): Read timed out. (read timeout=30)"
+  "error": "outlook: HTTPSConnectionPool(host='outlook.office365.com', port=443): Max retries exceeded with url: /owa/calendar/90f9f4c6e85b492b8aab5ef53029b133@gemtec.ca/c9c40d5b484342e9afc3cdb8d48030fd10057232781128907854/calendar.ics (Caused by NewConnectionError(\"HTTPSConnection(host='outlook.office365.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
 }
