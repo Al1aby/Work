@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-11-14",
-      "time": "10:40 AM",
-      "end": "2026-11-14T15:10:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Katie symperica",
       "date": "2026-11-14",
       "time": "8:00 PM",
@@ -521,6 +511,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure dr appt 11",
+      "date": "2026-12-14",
+      "time": "11:00 AM",
+      "end": "2026-12-14T16:00:00+00:00",
+      "all_day": false,
+      "location": "Port city primary care",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Recycling day",
       "date": "2026-12-14",
       "time": "8:00 AM",
@@ -571,7 +571,7 @@
       "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-14T14:52:25.838421+00:00",
+  "fetched_at": "2026-11-14T19:48:19.128098+00:00",
   "calendars": [
     "outlook",
     "icloud"
