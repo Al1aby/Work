@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure off ",
-      "date": "2026-11-12",
-      "time": null,
-      "end": "2026-11-14T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-11-14",
       "time": "10:40 AM",
@@ -323,8 +313,8 @@
     {
       "title": "NCC annual tree lighting ",
       "date": "2026-11-29",
-      "time": "4:00 PM",
-      "end": "2026-11-29T22:00:00+00:00",
+      "time": "5:15 PM",
+      "end": "2026-11-29T23:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -531,7 +521,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-14T01:20:09.718221+00:00",
+  "fetched_at": "2026-11-14T07:54:15.507827+00:00",
   "calendars": [
     "outlook",
     "icloud"
