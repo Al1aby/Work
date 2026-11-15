@@ -579,9 +579,19 @@
       "location": "Microsoft Teams Meeting",
       "calendar": "Calendar",
       "source": "outlook"
+    },
+    {
+      "title": "Pay day",
+      "date": "2026-12-15",
+      "time": null,
+      "end": "2026-12-16T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-15T03:09:28.262393+00:00",
+  "fetched_at": "2026-11-15T10:56:57.983193+00:00",
   "calendars": [
     "outlook",
     "icloud"
