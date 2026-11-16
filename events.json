@@ -1,36 +1,6 @@
 {
   "events": [
     {
-      "title": "Recycling day",
-      "date": "2026-11-16",
-      "time": "8:00 AM",
-      "end": "2026-11-16T13:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Saint John Weekly Meeting",
-      "date": "2026-11-16",
-      "time": "9:00 AM",
-      "end": "2026-11-16T13:30:00+00:00",
-      "all_day": false,
-      "location": "Saint John Board room",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Monday Meeting",
-      "date": "2026-11-16",
-      "time": "9:30 AM",
-      "end": "2026-11-16T14:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Pay day",
       "date": "2026-11-17",
       "time": null,
@@ -49,6 +19,16 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Gemtek/NBCC meeting",
+      "date": "2026-11-17",
+      "time": "11:00 AM",
+      "end": "2026-11-17T15:30:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     },
     {
       "title": "GEM-U: New Classification Structure Training",
@@ -609,9 +589,29 @@
       "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
+      "date": "2026-12-16",
+      "time": "10:30 AM",
+      "end": "2026-12-16T15:30:00+00:00",
+      "all_day": false,
+      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Winston physio",
+      "date": "2026-12-16",
+      "time": "3:00 PM",
+      "end": "2026-12-16T20:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-16T09:46:11.619356+00:00",
+  "fetched_at": "2026-11-16T20:05:20.370233+00:00",
   "calendars": [
     "outlook",
     "icloud"
