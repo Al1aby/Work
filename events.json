@@ -21,42 +21,12 @@
       "source": "icloud"
     },
     {
-      "title": "Gemtek/NBCC meeting",
-      "date": "2026-11-17",
-      "time": "11:00 AM",
-      "end": "2026-11-17T15:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "GEM-U: New Classification Structure Training",
-      "date": "2026-11-17",
-      "time": "2:00 PM",
-      "end": "2026-11-17T19:00:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Work supper",
       "date": "2026-11-17",
       "time": "5:00 PM",
       "end": "2026-11-18T00:00:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Garbage day",
-      "date": "2026-11-17",
-      "time": "8:00 AM",
-      "end": "2026-11-17T13:00:00+00:00",
-      "all_day": false,
-      "location": "249 Route 100\nHampton NB E5N 6Z3\nCanada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -235,6 +205,16 @@
       "date": "2026-11-25",
       "time": "5:00 PM",
       "end": "2026-11-26T01:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Mazda oil change ",
+      "date": "2026-11-27",
+      "time": "12:45 PM",
+      "end": "2026-11-27T20:30:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -481,10 +461,10 @@
       "source": "icloud"
     },
     {
-      "title": "Laure dr appt 11",
+      "title": "Laure dr appt 140",
       "date": "2026-12-14",
-      "time": "11:00 AM",
-      "end": "2026-12-14T16:00:00+00:00",
+      "time": "1:40 PM",
+      "end": "2026-12-14T18:40:00+00:00",
       "all_day": false,
       "location": "Port city primary care",
       "calendar": "Laure and Aaron ",
@@ -611,7 +591,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-17T11:38:16.126837+00:00",
+  "fetched_at": "2026-11-17T20:01:03.330516+00:00",
   "calendars": [
     "outlook",
     "icloud"
