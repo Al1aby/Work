@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Pay day",
-      "date": "2026-11-17",
-      "time": null,
-      "end": "2026-11-18T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Laure in office ",
-      "date": "2026-11-17",
-      "time": null,
-      "end": "2026-11-18T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office",
       "date": "2026-11-18",
       "time": null,
@@ -581,7 +561,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-18T02:25:50.129544+00:00",
+  "fetched_at": "2026-11-18T10:33:23.546762+00:00",
   "calendars": [
     "outlook",
     "icloud"
