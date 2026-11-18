@@ -11,16 +11,6 @@
       "source": "icloud"
     },
     {
-      "title": "BY461A - Central Peninsula K-8 School - Coordination Meeting",
-      "date": "2026-11-18",
-      "time": "10:30 AM",
-      "end": "2026-11-18T15:30:00+00:00",
-      "all_day": false,
-      "location": "110 St James St, Saint John, NB E2L 1V7 - Foulem's site trailer",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
       "title": "Bloodwork - 315",
       "date": "2026-11-19",
       "time": "2:30 PM",
@@ -561,7 +551,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-18T10:33:23.546762+00:00",
+  "fetched_at": "2026-11-18T19:05:34.709288+00:00",
   "calendars": [
     "outlook",
     "icloud"
