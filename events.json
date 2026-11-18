@@ -21,16 +21,6 @@
       "source": "icloud"
     },
     {
-      "title": "Work supper",
-      "date": "2026-11-17",
-      "time": "5:00 PM",
-      "end": "2026-11-18T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure in office",
       "date": "2026-11-18",
       "time": null,
@@ -591,7 +581,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-17T20:01:03.330516+00:00",
+  "fetched_at": "2026-11-18T02:25:50.129544+00:00",
   "calendars": [
     "outlook",
     "icloud"
