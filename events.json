@@ -381,6 +381,16 @@
       "source": "icloud"
     },
     {
+      "title": "Laure in office ",
+      "date": "2026-12-09",
+      "time": null,
+      "end": "2026-12-10T00:00:00+00:00",
+      "all_day": true,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Lunch & Learn: What's in Our H&S Toolbox? - Leslie Williams & Lindsey Chalmers",
       "date": "2026-12-09",
       "time": "12:30 PM",
@@ -551,7 +561,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-18T19:05:34.709288+00:00",
+  "fetched_at": "2026-11-19T01:13:24.946731+00:00",
   "calendars": [
     "outlook",
     "icloud"
