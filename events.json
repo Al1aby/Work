@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Laure in office",
-      "date": "2026-11-18",
-      "time": null,
-      "end": "2026-11-19T00:00:00+00:00",
-      "all_day": true,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Bloodwork - 315",
       "date": "2026-11-19",
       "time": "2:30 PM",
@@ -561,7 +551,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-19T01:13:24.946731+00:00",
+  "fetched_at": "2026-11-19T08:52:17.728684+00:00",
   "calendars": [
     "outlook",
     "icloud"
