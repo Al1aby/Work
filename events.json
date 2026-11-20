@@ -31,6 +31,16 @@
       "source": "icloud"
     },
     {
+      "title": "Rothesay Avenue Pedestrian Crossing Project",
+      "date": "2026-11-23",
+      "time": "10:00 AM",
+      "end": "2026-11-23T14:30:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
       "title": "Laure dr appt",
       "date": "2026-11-23",
       "time": "11:30 AM",
@@ -121,10 +131,30 @@
       "source": "outlook"
     },
     {
+      "title": "Laure off ",
+      "date": "2026-11-25",
+      "time": "12:30 PM",
+      "end": "2026-11-25T20:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
       "title": "Amanda visiting ",
       "date": "2026-11-25",
       "time": "5:00 PM",
       "end": "2026-11-26T01:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Appointment at Massage Addict Saint John",
+      "date": "2026-11-26",
+      "time": "8:00 PM",
+      "end": "2026-11-27T01:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -265,6 +295,16 @@
       "date": "2026-12-03",
       "time": "5:00 PM",
       "end": "2026-12-03T22:00:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Laure off ",
+      "date": "2026-12-04",
+      "time": "12:00 PM",
+      "end": "2026-12-04T20:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -571,7 +611,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-20T16:48:24.607060+00:00",
+  "fetched_at": "2026-11-20T22:59:17.852076+00:00",
   "calendars": [
     "outlook",
     "icloud"
