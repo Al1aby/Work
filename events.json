@@ -559,9 +559,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Bo\u2019s bdizzle",
+      "date": "2026-12-20",
+      "time": "11:00 AM",
+      "end": "2026-12-20T17:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-20T07:47:19.455333+00:00",
+  "fetched_at": "2026-11-20T16:48:24.607060+00:00",
   "calendars": [
     "outlook",
     "icloud"
