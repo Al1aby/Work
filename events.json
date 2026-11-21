@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Winnie swim \ud83c\udf0a",
-      "date": "2026-11-21",
-      "time": "10:40 AM",
-      "end": "2026-11-21T15:10:00+00:00",
-      "all_day": false,
-      "location": "Ymca\n191 Churchill Blvd, Saint John NB E2K 3E2, Canada",
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Supper at M & K - photos",
       "date": "2026-11-22",
       "time": "4:00 PM",
@@ -609,9 +599,39 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Saint John Weekly Meeting",
+      "date": "2026-12-21",
+      "time": "9:00 AM",
+      "end": "2026-12-21T13:30:00+00:00",
+      "all_day": false,
+      "location": "Saint John Board room",
+      "calendar": "Calendar",
+      "source": "outlook"
+    },
+    {
+      "title": "Laure dr appt 9am",
+      "date": "2026-12-21",
+      "time": "9:00 AM",
+      "end": "2026-12-21T14:00:00+00:00",
+      "all_day": false,
+      "location": "Port city primary care",
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
+    },
+    {
+      "title": "Monday Meeting",
+      "date": "2026-12-21",
+      "time": "9:30 AM",
+      "end": "2026-12-21T14:00:00+00:00",
+      "all_day": false,
+      "location": "Microsoft Teams Meeting",
+      "calendar": "Calendar",
+      "source": "outlook"
     }
   ],
-  "fetched_at": "2026-11-21T12:17:35.988407+00:00",
+  "fetched_at": "2026-11-21T19:39:55.693055+00:00",
   "calendars": [
     "outlook",
     "icloud"
