@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Aaron doctor apt",
-      "date": "2026-11-24",
-      "time": "11:00 AM",
-      "end": "2026-11-24T16:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Strategic Plan Stakeholder Update - 1 hour plus 30 min buffer (See Agenda)",
       "date": "2026-11-24",
       "time": "3:00 PM",
@@ -21,30 +11,10 @@
       "source": "outlook"
     },
     {
-      "title": "Doula visit",
-      "date": "2026-11-24",
-      "time": "3:00 PM",
-      "end": "2026-11-24T21:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Laure therapy ",
       "date": "2026-11-24",
       "time": "7:00 PM",
       "end": "2026-11-25T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Compost day ",
-      "date": "2026-11-24",
-      "time": "8:00 AM",
-      "end": "2026-11-24T13:00:00+00:00",
       "all_day": false,
       "location": null,
       "calendar": "Laure and Aaron ",
@@ -589,9 +559,19 @@
       "location": null,
       "calendar": "Laure and Aaron ",
       "source": "icloud"
+    },
+    {
+      "title": "Mom & Dad arrive ",
+      "date": "2026-12-24",
+      "time": "10:30 AM",
+      "end": "2026-12-24T14:30:00+00:00",
+      "all_day": false,
+      "location": null,
+      "calendar": "Laure and Aaron ",
+      "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-24T05:49:41.666226+00:00",
+  "fetched_at": "2026-11-24T17:13:17.717170+00:00",
   "calendars": [
     "outlook",
     "icloud"
