@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Strategic Plan Stakeholder Update - 1 hour plus 30 min buffer (See Agenda)",
-      "date": "2026-11-24",
-      "time": "3:00 PM",
-      "end": "2026-11-24T20:30:00+00:00",
-      "all_day": false,
-      "location": "Microsoft Teams Meeting",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Laure therapy ",
-      "date": "2026-11-24",
-      "time": "7:00 PM",
-      "end": "2026-11-25T00:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Gemtec | TabLog - gINT Replacement Demo",
       "date": "2026-11-25",
       "time": "11:00 AM",
@@ -67,26 +47,6 @@
       "end": "2026-11-27T20:30:00+00:00",
       "all_day": false,
       "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Supper out & babysitter ",
-      "date": "2026-11-27",
-      "time": "5:00 PM",
-      "end": "2026-11-28T02:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
-      "title": "Harrison\u2019s birthday party ",
-      "date": "2026-11-28",
-      "time": "10:00 AM",
-      "end": "2026-11-28T16:00:00+00:00",
-      "all_day": false,
-      "location": "Oasis Trampoline Park\n212 McAllister Dr., Saint John NB E2J 2S7, Canada",
       "calendar": "Laure and Aaron ",
       "source": "icloud"
     },
@@ -571,7 +531,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-24T17:13:17.717170+00:00",
+  "fetched_at": "2026-11-25T01:27:00.672332+00:00",
   "calendars": [
     "outlook",
     "icloud"
