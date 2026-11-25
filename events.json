@@ -1,26 +1,6 @@
 {
   "events": [
     {
-      "title": "Gemtec | TabLog - gINT Replacement Demo",
-      "date": "2026-11-25",
-      "time": "11:00 AM",
-      "end": "2026-11-25T16:00:00+00:00",
-      "all_day": false,
-      "location": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjViMTE5ZmQtNDY3MS00NjMxLThjMjMtOWZmYjFkYWY5ODRj%40thread.v2/0?context=%7b%22Tid%22%3a%225a2ba852-fb3a-477c-8b46-752b240565eb%22%2c%22Oid%22%3a%22a88674b1-654c-44cc-b6cf-1c5ed885c19f%22%7d&launchAgent",
-      "calendar": "Calendar",
-      "source": "outlook"
-    },
-    {
-      "title": "Laure off ",
-      "date": "2026-11-25",
-      "time": "12:30 PM",
-      "end": "2026-11-25T20:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Amanda visiting ",
       "date": "2026-11-25",
       "time": "5:00 PM",
@@ -531,7 +511,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-25T10:20:56.815896+00:00",
+  "fetched_at": "2026-11-25T20:03:08.393182+00:00",
   "calendars": [
     "outlook",
     "icloud"
