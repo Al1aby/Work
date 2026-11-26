@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Appointment at Massage Addict Saint John",
-      "date": "2026-11-26",
-      "time": "8:00 PM",
-      "end": "2026-11-27T01:00:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Mazda oil change ",
       "date": "2026-11-27",
       "time": "12:45 PM",
@@ -501,7 +491,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-26T12:01:37.855516+00:00",
+  "fetched_at": "2026-11-26T21:34:30.918741+00:00",
   "calendars": [
     "outlook",
     "icloud"
