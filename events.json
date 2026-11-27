@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "title": "Mazda oil change ",
-      "date": "2026-11-27",
-      "time": "12:45 PM",
-      "end": "2026-11-27T20:30:00+00:00",
-      "all_day": false,
-      "location": null,
-      "calendar": "Laure and Aaron ",
-      "source": "icloud"
-    },
-    {
       "title": "Winnie swim \ud83c\udf0a",
       "date": "2026-11-28",
       "time": "10:40 AM",
@@ -491,7 +481,7 @@
       "source": "icloud"
     }
   ],
-  "fetched_at": "2026-11-27T13:35:39.593504+00:00",
+  "fetched_at": "2026-11-27T22:20:36.747820+00:00",
   "calendars": [
     "outlook",
     "icloud"
